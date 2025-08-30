@@ -1,0 +1,1001 @@
+OrderID,OrderDate,ShipDate,ShipMode,CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region,ProductID,ProductName,Category,Sub-Category,Sales,Quantity,Discount,Profit,ProfitMargin,DeliveryDays,Delayed
+O00022,2023-01-01,2023-01-07,Standard Class,C0177,Customer_177,Corporate,India,New York,GJ,746117,Central,P0018,Accessories_18,Technology,Accessories,759.5,2,0.0,154.96,0.2040289664252798,6,1
+O00079,2023-01-01,2023-01-07,Standard Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0040,Binders_40,Office Supplies,Binders,1011.27,1,0.1,207.82,0.20550397025522363,6,1
+O00180,2023-01-02,2023-01-02,Same Day,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0112,Accessories_112,Technology,Accessories,561.32,1,0.2,62.79,0.11186132687237225,0,0
+O00134,2023-01-03,2023-01-07,Standard Class,C0249,Customer_249,Home Office,UK,San Francisco,KA,830026,West,P0069,Tables_69,Furniture,Tables,1147.45,1,0.0,196.45,0.17120571702470694,4,0
+O00391,2023-01-07,2023-01-07,Same Day,C0186,Customer_186,Corporate,India,Chennai,TN,705470,Central,P0033,Binders_33,Office Supplies,Binders,1195.68,2,0.0,104.74,0.08759868861233774,0,0
+O00056,2023-01-08,2023-01-14,Standard Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0044,Binders_44,Office Supplies,Binders,524.31,3,0.3,68.07,0.12982777364536247,6,1
+O00557,2023-01-08,2023-01-12,Standard Class,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0060,Binders_60,Office Supplies,Binders,2565.29,7,0.0,632.5,0.24656081768532992,4,0
+O00984,2023-01-08,2023-01-13,Second Class,C0029,Customer_29,Corporate,India,Houston,MH,535165,South,P0094,Binders_94,Office Supplies,Binders,3785.04,6,0.0,832.97,0.22006900851774355,5,1
+O00542,2023-01-10,2023-01-17,Standard Class,C0201,Customer_201,Corporate,Australia,New York,TN,791757,East,P0023,Bookcases_23,Furniture,Bookcases,685.96,6,0.1,228.78,0.3335179893871363,7,1
+O00214,2023-01-10,2023-01-12,Second Class,C0238,Customer_238,Consumer,Australia,Sydney,BC,166017,West,P0007,Machines_7,Technology,Machines,38.48,2,0.0,7.79,0.20244282744282746,2,0
+O00709,2023-01-10,2023-01-14,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0009,Paper_9,Office Supplies,Paper,31.58,2,0.0,2.33,0.07378087397086765,4,0
+O00031,2023-01-12,2023-01-17,Standard Class,C0169,Customer_169,Consumer,Canada,Houston,MH,618271,Central,P0068,Tables_68,Furniture,Tables,1624.46,5,0.1,134.46,0.08277212119719785,5,0
+O00326,2023-01-12,2023-01-18,Standard Class,C0047,Customer_47,Consumer,USA,Mumbai,NY,803662,East,P0050,Tables_50,Furniture,Tables,542.7,1,0.3,80.2,0.14777962041643633,6,1
+O00723,2023-01-12,2023-01-17,Standard Class,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0101,Binders_101,Office Supplies,Binders,4443.32,4,0.0,192.76,0.04338197563983688,5,0
+O00422,2023-01-12,2023-01-17,Standard Class,C0008,Customer_8,Home Office,USA,Chennai,KA,891189,West,P0038,Storage_38,Office Supplies,Storage,1257.0,5,0.0,55.32,0.044009546539379475,5,0
+O00378,2023-01-12,2023-01-12,First Class,C0123,Customer_123,Consumer,USA,Bengaluru,BC,770718,East,P0006,Tables_6,Furniture,Tables,6874.7,7,0.0,1363.84,0.19838538408948753,0,0
+O00143,2023-01-12,2023-01-17,Second Class,C0232,Customer_232,Consumer,Canada,Houston,BC,560514,Central,P0004,Chairs_4,Furniture,Chairs,1866.37,7,0.2,256.35,0.13735218632961313,5,1
+O00715,2023-01-13,2023-01-17,Standard Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0090,Accessories_90,Technology,Accessories,1090.52,4,0.0,201.32,0.18460917727322745,4,0
+O00498,2023-01-13,2023-01-18,Second Class,C0044,Customer_44,Home Office,USA,Delhi,GJ,526752,East,P0067,Bookcases_67,Furniture,Bookcases,170.15,2,0.1,17.38,0.10214516602997355,5,1
+O00725,2023-01-14,2023-01-17,Second Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0117,Storage_117,Office Supplies,Storage,799.98,6,0.0,87.6,0.1095027375684392,3,0
+O00532,2023-01-17,2023-01-19,Second Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0012,Machines_12,Technology,Machines,6393.48,6,0.0,2781.66,0.43507761031550896,2,0
+O00568,2023-01-17,2023-01-24,Standard Class,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0096,Machines_96,Technology,Machines,176.84,1,0.2,27.38,0.15482922415743045,7,1
+O00107,2023-01-19,2023-01-24,Standard Class,C0202,Customer_202,Consumer,India,Ahmedabad,GJ,490719,West,P0075,Machines_75,Technology,Machines,2145.6,5,0.1,453.48,0.21135346756152126,5,0
+O00685,2023-01-19,2023-01-24,Standard Class,C0002,Customer_2,Home Office,Australia,New York,BC,429670,East,P0087,Chairs_87,Furniture,Chairs,676.19,4,0.1,90.87,0.134385305905145,5,0
+O00780,2023-01-19,2023-01-22,Second Class,C0070,Customer_70,Home Office,USA,Mumbai,TN,209575,Central,P0019,Bookcases_19,Furniture,Bookcases,2211.44,7,0.2,307.41,0.1390089715298629,3,0
+O00730,2023-01-20,2023-01-23,Second Class,C0012,Customer_12,Home Office,UK,San Francisco,NY,990324,South,P0066,Chairs_66,Furniture,Chairs,721.83,1,0.3,221.24,0.30649876009586746,3,0
+O00740,2023-01-20,2023-01-27,Standard Class,C0069,Customer_69,Consumer,Canada,New York,MH,316454,West,P0075,Machines_75,Technology,Machines,338.98,2,0.0,92.93,0.27414596731370583,7,1
+O00020,2023-01-20,2023-01-24,Standard Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0036,Tables_36,Furniture,Tables,3072.3,5,0.0,366.65,0.11934055919018323,4,0
+O00750,2023-01-20,2023-01-20,Same Day,C0158,Customer_158,Corporate,USA,Vancouver,BC,413837,East,P0019,Bookcases_19,Furniture,Bookcases,533.16,2,0.0,38.14,0.07153574911846351,0,0
+O00526,2023-01-21,2023-01-21,Same Day,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0110,Paper_110,Office Supplies,Paper,1438.1,7,0.1,21.47,0.014929420763507405,0,0
+O00154,2023-01-21,2023-01-21,First Class,C0250,Customer_250,Home Office,Australia,New York,NY,707847,South,P0057,Storage_57,Office Supplies,Storage,265.66,1,0.1,-20.88,-0.0785967025521343,0,0
+O00890,2023-01-21,2023-01-26,Second Class,C0065,Customer_65,Consumer,USA,Delhi,NY,837334,West,P0002,Binders_2,Office Supplies,Binders,440.13,4,0.3,108.59,0.24672255924385977,5,1
+O00928,2023-01-22,2023-01-29,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0100,Binders_100,Office Supplies,Binders,204.91,6,0.2,12.47,0.06085598555463374,7,1
+O00686,2023-01-23,2023-01-30,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0079,Binders_79,Office Supplies,Binders,2009.92,2,0.1,491.51,0.24454207132622194,7,1
+O00413,2023-01-25,2023-01-31,Standard Class,C0170,Customer_170,Corporate,India,Mumbai,NY,423412,East,P0117,Storage_117,Office Supplies,Storage,5254.02,6,0.0,1086.29,0.2067540664101012,6,1
+O00965,2023-01-26,2023-02-01,Standard Class,C0249,Customer_249,Home Office,UK,San Francisco,KA,830026,West,P0046,Chairs_46,Furniture,Chairs,1894.08,4,0.0,226.81,0.11974678999831054,6,1
+O00212,2023-01-26,2023-01-26,Same Day,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0047,Tables_47,Furniture,Tables,2084.67,5,0.1,354.82,0.17020439685897526,0,0
+O00914,2023-01-28,2023-02-01,Standard Class,C0113,Customer_113,Home Office,USA,Ahmedabad,GJ,244931,West,P0016,Accessories_16,Technology,Accessories,968.2,4,0.0,85.52,0.08832885767403428,4,0
+O00540,2023-01-29,2023-01-30,Same Day,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0041,Binders_41,Office Supplies,Binders,722.26,7,0.0,94.9,0.13139312712873483,1,1
+O00688,2023-01-30,2023-02-03,Standard Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0021,Binders_21,Office Supplies,Binders,678.42,3,0.0,162.3,0.23923233395241889,4,0
+O00947,2023-02-01,2023-02-05,Standard Class,C0242,Customer_242,Home Office,USA,Vancouver,NSW,756884,South,P0063,Paper_63,Office Supplies,Paper,2455.11,5,0.1,504.39,0.20544496987915,4,0
+O00024,2023-02-04,2023-02-06,Same Day,C0031,Customer_31,Corporate,Australia,New York,NY,233554,Central,P0067,Bookcases_67,Furniture,Bookcases,3706.67,4,0.1,299.83,0.0808893157470182,2,1
+O00198,2023-02-05,2023-02-08,Second Class,C0068,Customer_68,Home Office,UK,Chennai,TN,752465,South,P0006,Tables_6,Furniture,Tables,5665.46,7,0.1,905.88,0.15989522474785808,3,0
+O00279,2023-02-05,2023-02-12,Standard Class,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0110,Paper_110,Office Supplies,Paper,1303.5,6,0.0,387.64,0.29738396624472574,7,1
+O00747,2023-02-07,2023-02-14,Standard Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0099,Storage_99,Office Supplies,Storage,1458.16,2,0.1,376.8,0.2584078564766555,7,1
+O00191,2023-02-08,2023-02-08,Same Day,C0028,Customer_28,Consumer,USA,Vancouver,BC,881452,Central,P0027,Bookcases_27,Furniture,Bookcases,582.93,3,0.1,80.97,0.13890175492769288,0,0
+O00042,2023-02-08,2023-02-13,Standard Class,C0127,Customer_127,Home Office,Canada,Houston,CA,307990,West,P0081,Paper_81,Office Supplies,Paper,1908.55,7,0.0,314.0,0.16452280527101726,5,0
+O00642,2023-02-08,2023-02-12,Second Class,C0069,Customer_69,Consumer,Canada,New York,MH,316454,West,P0026,Storage_26,Office Supplies,Storage,3174.65,5,0.0,285.5,0.08993117351519064,4,1
+O00381,2023-02-11,2023-02-17,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0072,Tables_72,Furniture,Tables,2626.75,7,0.0,410.69,0.15634910059960028,6,1
+O00561,2023-02-12,2023-02-12,First Class,C0114,Customer_114,Home Office,Canada,Ahmedabad,KA,543676,East,P0051,Machines_51,Technology,Machines,5615.8,5,0.0,2066.36,0.367954699241426,0,0
+O00915,2023-02-12,2023-02-16,Second Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0088,Accessories_88,Technology,Accessories,2413.15,7,0.1,12.3,0.005097072291403352,4,1
+O00433,2023-02-12,2023-02-15,First Class,C0240,Customer_240,Consumer,USA,Bengaluru,TN,788281,West,P0113,Accessories_113,Technology,Accessories,1072.81,1,0.0,207.62,0.19352914309150737,3,1
+O00148,2023-02-12,2023-02-12,First Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0091,Phones_91,Technology,Phones,151.79,1,0.1,75.4,0.4967389156070888,0,0
+O00674,2023-02-13,2023-02-13,Same Day,C0011,Customer_11,Consumer,USA,New York,TN,247313,East,P0115,Chairs_115,Furniture,Chairs,597.05,1,0.2,95.87,0.16057281634703963,0,0
+O00969,2023-02-13,2023-02-20,Standard Class,C0039,Customer_39,Corporate,UK,Chennai,BC,714685,West,P0115,Chairs_115,Furniture,Chairs,233.78,2,0.0,41.16,0.17606296518093933,7,1
+O00799,2023-02-16,2023-02-20,Standard Class,C0118,Customer_118,Consumer,USA,Bengaluru,KA,360910,South,P0031,Bookcases_31,Furniture,Bookcases,4838.58,6,0.0,1329.19,0.2747066288043186,4,0
+O00222,2023-02-18,2023-02-19,Same Day,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0102,Storage_102,Office Supplies,Storage,1021.98,3,0.1,221.17,0.2164132370496487,1,1
+O00825,2023-02-18,2023-02-23,Standard Class,C0087,Customer_87,Corporate,Australia,Houston,TX,725646,East,P0119,Binders_119,Office Supplies,Binders,238.74,2,0.2,39.32,0.16469799782189828,5,0
+O00813,2023-02-19,2023-02-26,Standard Class,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0040,Binders_40,Office Supplies,Binders,4337.64,4,0.0,645.54,0.14882286220156582,7,1
+O00226,2023-02-19,2023-02-26,Standard Class,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0051,Machines_51,Technology,Machines,552.12,6,0.0,137.55,0.24913062377743972,7,1
+O00162,2023-02-20,2023-02-26,Standard Class,C0086,Customer_86,Consumer,India,San Francisco,DL,447739,East,P0043,Accessories_43,Technology,Accessories,903.21,1,0.0,324.76,0.3595620066208301,6,1
+O00083,2023-02-22,2023-02-24,Second Class,C0145,Customer_145,Consumer,Australia,Ahmedabad,NY,807280,West,P0005,Bookcases_5,Furniture,Bookcases,859.2,6,0.0,100.5,0.11696927374301676,2,0
+O00325,2023-02-24,2023-03-02,Standard Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0094,Binders_94,Office Supplies,Binders,3573.36,4,0.0,347.37,0.09721102827590838,6,1
+O00761,2023-02-24,2023-03-02,Standard Class,C0029,Customer_29,Corporate,India,Houston,MH,535165,South,P0025,Tables_25,Furniture,Tables,301.97,1,0.1,31.16,0.10318905851574658,6,1
+O00447,2023-02-25,2023-03-04,Standard Class,C0241,Customer_241,Home Office,India,Bengaluru,BC,599137,East,P0016,Accessories_16,Technology,Accessories,376.96,4,0.0,18.66,0.04950127334465196,7,1
+O00749,2023-02-26,2023-02-26,Same Day,C0101,Customer_101,Consumer,Australia,Bengaluru,DL,711213,East,P0024,Storage_24,Office Supplies,Storage,999.24,3,0.2,183.2,0.18333933789680157,0,0
+O00930,2023-02-26,2023-02-27,Same Day,C0188,Customer_188,Corporate,India,Chennai,TX,129402,Central,P0030,Paper_30,Office Supplies,Paper,7154.16,6,0.0,-573.75,-0.08019809453520749,1,1
+O00300,2023-02-27,2023-02-27,First Class,C0177,Customer_177,Corporate,India,New York,GJ,746117,Central,P0041,Binders_41,Office Supplies,Binders,3723.93,7,0.0,232.92,0.06254682553109216,0,0
+O00964,2023-02-27,2023-03-04,Second Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0081,Paper_81,Office Supplies,Paper,282.14,2,0.0,0.0,0.0,5,1
+O00027,2023-02-28,2023-03-03,First Class,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0109,Paper_109,Office Supplies,Paper,1944.06,3,0.0,168.69,0.08677201320946884,3,1
+O00769,2023-03-01,2023-03-05,Standard Class,C0205,Customer_205,Corporate,India,Ahmedabad,TX,662997,Central,P0093,Chairs_93,Furniture,Chairs,220.54,4,0.2,14.19,0.06434206946585654,4,0
+O00436,2023-03-01,2023-03-08,Standard Class,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0088,Accessories_88,Technology,Accessories,3760.65,5,0.1,-218.55,-0.05811495353196921,7,1
+O00230,2023-03-01,2023-03-04,Second Class,C0200,Customer_200,Corporate,Canada,Sydney,TN,610585,Central,P0053,Accessories_53,Technology,Accessories,1054.45,1,0.0,157.37,0.1492436815401394,3,0
+O00473,2023-03-04,2023-03-05,First Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0029,Binders_29,Office Supplies,Binders,692.98,1,0.0,228.18,0.32927357210886316,1,0
+O00121,2023-03-06,2023-03-12,Standard Class,C0001,Customer_1,Consumer,Australia,Mumbai,NSW,604471,West,P0081,Paper_81,Office Supplies,Paper,4071.65,6,0.1,943.49,0.2317217835521226,6,1
+O00497,2023-03-06,2023-03-11,Standard Class,C0176,Customer_176,Consumer,Australia,Delhi,TX,328504,West,P0085,Paper_85,Office Supplies,Paper,568.18,1,0.0,112.92,0.1987398359674751,5,0
+O00967,2023-03-07,2023-03-14,Standard Class,C0176,Customer_176,Consumer,Australia,Delhi,TX,328504,West,P0075,Machines_75,Technology,Machines,114.72,4,0.0,22.02,0.19194560669456068,7,1
+O00713,2023-03-07,2023-03-12,Standard Class,C0231,Customer_231,Corporate,USA,Sydney,GJ,738418,Central,P0031,Bookcases_31,Furniture,Bookcases,196.8,5,0.0,12.49,0.06346544715447154,5,0
+O00931,2023-03-07,2023-03-10,Second Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0083,Phones_83,Technology,Phones,872.44,4,0.0,196.3,0.22500114621062767,3,0
+O00390,2023-03-08,2023-03-12,Standard Class,C0223,Customer_223,Consumer,USA,Bengaluru,BC,366997,South,P0042,Accessories_42,Technology,Accessories,7433.05,7,0.1,753.33,0.10134870611660086,4,0
+O00298,2023-03-08,2023-03-15,Standard Class,C0217,Customer_217,Consumer,Australia,Mumbai,GJ,517978,West,P0082,Paper_82,Office Supplies,Paper,972.62,1,0.1,258.03,0.26529374267442574,7,1
+O00953,2023-03-09,2023-03-14,Standard Class,C0160,Customer_160,Corporate,UK,Mumbai,GJ,942393,South,P0034,Machines_34,Technology,Machines,684.82,2,0.0,195.89,0.28604596828363654,5,0
+O00085,2023-03-10,2023-03-10,First Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0029,Binders_29,Office Supplies,Binders,3432.15,5,0.0,1027.41,0.29934880468510994,0,0
+O00732,2023-03-11,2023-03-13,Same Day,C0043,Customer_43,Consumer,USA,Vancouver,TX,249521,South,P0058,Accessories_58,Technology,Accessories,2353.02,2,0.0,587.94,0.2498661294846623,2,1
+O00874,2023-03-11,2023-03-16,Standard Class,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0023,Bookcases_23,Furniture,Bookcases,2610.27,3,0.0,461.49,0.17679780252617547,5,0
+O00285,2023-03-11,2023-03-14,Second Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0047,Tables_47,Furniture,Tables,1813.85,5,0.0,133.73,0.07372715494666042,3,0
+O00991,2023-03-13,2023-03-19,Standard Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0086,Machines_86,Technology,Machines,2628.22,4,0.2,718.93,0.27354254971045044,6,1
+O00393,2023-03-14,2023-03-21,Standard Class,C0184,Customer_184,Home Office,Australia,New York,NSW,151226,Central,P0101,Binders_101,Office Supplies,Binders,4788.83,6,0.1,927.37,0.19365272937231015,7,1
+O00282,2023-03-14,2023-03-14,First Class,C0084,Customer_84,Consumer,Australia,Delhi,CA,139986,West,P0051,Machines_51,Technology,Machines,1455.6,3,0.1,-25.35,-0.01741549876339654,0,0
+O00826,2023-03-15,2023-03-21,Standard Class,C0126,Customer_126,Consumer,UK,Mumbai,TX,989302,East,P0005,Bookcases_5,Furniture,Bookcases,3845.73,7,0.0,889.37,0.23126168503769115,6,1
+O00805,2023-03-16,2023-03-16,First Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0060,Binders_60,Office Supplies,Binders,1983.38,2,0.1,273.56,0.1379261664431425,0,0
+O00775,2023-03-17,2023-03-22,Second Class,C0055,Customer_55,Corporate,Canada,Houston,NY,951587,South,P0054,Bookcases_54,Furniture,Bookcases,6885.13,7,0.0,2003.01,0.29091825426680396,5,1
+O00122,2023-03-17,2023-03-20,Second Class,C0044,Customer_44,Home Office,USA,Delhi,GJ,526752,East,P0066,Chairs_66,Furniture,Chairs,1125.79,1,0.0,43.23,0.038399701542916526,3,0
+O00255,2023-03-18,2023-03-19,Same Day,C0073,Customer_73,Consumer,USA,Ahmedabad,NSW,605815,Central,P0107,Machines_107,Technology,Machines,2383.2,2,0.0,253.8,0.10649546827794563,1,1
+O00803,2023-03-19,2023-03-23,Second Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,360910,South,P0116,Binders_116,Office Supplies,Binders,43.0,4,0.0,12.46,0.28976744186046516,4,1
+O00958,2023-03-20,2023-03-26,Standard Class,C0168,Customer_168,Consumer,Australia,Sydney,NSW,418277,Central,P0018,Accessories_18,Technology,Accessories,6678.44,7,0.1,1315.78,0.197019064332389,6,1
+O00549,2023-03-20,2023-03-21,First Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0018,Accessories_18,Technology,Accessories,1893.73,2,0.1,167.01,0.08819103040032106,1,0
+O00419,2023-03-20,2023-03-25,Standard Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0043,Accessories_43,Technology,Accessories,634.4,4,0.0,57.35,0.09040037831021439,5,0
+O00458,2023-03-21,2023-03-25,Standard Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0058,Accessories_58,Technology,Accessories,1299.0,5,0.0,268.7,0.20685142417244032,4,0
+O00891,2023-03-23,2023-03-23,Same Day,C0047,Customer_47,Consumer,USA,Mumbai,NY,803662,East,P0025,Tables_25,Furniture,Tables,3168.45,5,0.1,460.64,0.1453833893544162,0,0
+O00450,2023-03-24,2023-03-28,Standard Class,C0248,Customer_248,Home Office,Australia,Mumbai,MH,216739,Central,P0039,Paper_39,Office Supplies,Paper,2918.41,4,0.1,346.62,0.1187701522404323,4,0
+O00199,2023-03-25,2023-03-27,Second Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0046,Chairs_46,Furniture,Chairs,120.64,2,0.1,22.33,0.18509615384615383,2,0
+O00346,2023-03-25,2023-03-31,Standard Class,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0059,Paper_59,Office Supplies,Paper,788.52,1,0.0,156.63,0.19863795464921624,6,1
+O00135,2023-03-26,2023-03-31,Standard Class,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0091,Phones_91,Technology,Phones,525.04,2,0.1,95.17,0.1812623800091422,5,0
+O00064,2023-03-27,2023-03-31,Standard Class,C0174,Customer_174,Consumer,Canada,Houston,TN,655941,South,P0078,Accessories_78,Technology,Accessories,507.15,7,0.0,25.89,0.0510499852114759,4,0
+O00937,2023-03-27,2023-03-27,First Class,C0118,Customer_118,Consumer,USA,Bengaluru,KA,360910,South,P0104,Machines_104,Technology,Machines,1257.1,5,0.0,-151.45,-0.12047569803516028,0,0
+O00555,2023-03-28,2023-04-02,Second Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0018,Accessories_18,Technology,Accessories,4282.74,5,0.1,436.2,0.10185068437495622,5,1
+O00560,2023-03-28,2023-04-02,Standard Class,C0146,Customer_146,Consumer,Australia,Delhi,NY,783889,East,P0092,Storage_92,Office Supplies,Storage,3883.64,4,0.1,1171.13,0.30155472700868263,5,0
+O00673,2023-03-29,2023-04-05,Standard Class,C0203,Customer_203,Consumer,UK,New York,TX,579361,Central,P0023,Bookcases_23,Furniture,Bookcases,2597.91,3,0.0,299.92,0.11544664749741139,7,1
+O00094,2023-03-30,2023-04-03,Second Class,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0089,Bookcases_89,Furniture,Bookcases,140.6,2,0.1,6.12,0.043527738264580375,4,1
+O00183,2023-03-31,2023-04-05,Standard Class,C0083,Customer_83,Consumer,India,Houston,GJ,434402,West,P0012,Machines_12,Technology,Machines,4558.18,7,0.1,841.16,0.18453856583109923,5,0
+O00425,2023-04-02,2023-04-02,Same Day,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0033,Binders_33,Office Supplies,Binders,2436.21,7,0.0,424.97,0.17443898514495879,0,0
+O00481,2023-04-02,2023-04-06,Standard Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0035,Chairs_35,Furniture,Chairs,4723.52,4,0.0,1244.89,0.26355133459792696,4,0
+O00406,2023-04-05,2023-04-09,Second Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0107,Machines_107,Technology,Machines,1740.73,4,0.3,338.56,0.1944931149575178,4,1
+O00970,2023-04-07,2023-04-09,Second Class,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0098,Chairs_98,Furniture,Chairs,1262.52,4,0.0,250.07,0.19807210974875644,2,0
+O00541,2023-04-07,2023-04-09,First Class,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0036,Tables_36,Furniture,Tables,2769.52,4,0.0,373.21,0.13475620324099483,2,1
+O00932,2023-04-08,2023-04-09,Same Day,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0049,Paper_49,Office Supplies,Paper,2188.22,3,0.1,378.7,0.17306303753735913,1,1
+O00451,2023-04-09,2023-04-11,First Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0028,Phones_28,Technology,Phones,601.7,1,0.0,212.25,0.3527505401362805,2,1
+O00556,2023-04-11,2023-04-11,Same Day,C0227,Customer_227,Home Office,UK,Sydney,KA,683417,South,P0059,Paper_59,Office Supplies,Paper,2623.58,4,0.2,818.5,0.3119782892078763,0,0
+O00734,2023-04-11,2023-04-18,Standard Class,C0063,Customer_63,Home Office,USA,Houston,NY,962061,East,P0041,Binders_41,Office Supplies,Binders,5358.06,6,0.0,752.78,0.14049488060977292,7,1
+O00375,2023-04-11,2023-04-12,First Class,C0167,Customer_167,Consumer,UK,Chennai,GJ,444138,Central,P0087,Chairs_87,Furniture,Chairs,7682.57,7,0.0,2075.83,0.2701999461117829,1,0
+O00464,2023-04-11,2023-04-15,Standard Class,C0218,Customer_218,Corporate,Canada,Sydney,GJ,111046,West,P0069,Tables_69,Furniture,Tables,2927.25,5,0.0,-8.55,-0.0029208301306687164,4,0
+O00131,2023-04-12,2023-04-15,Second Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0003,Chairs_3,Furniture,Chairs,630.66,1,0.3,87.17,0.13822027716994895,3,0
+O00103,2023-04-12,2023-04-14,First Class,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0039,Paper_39,Office Supplies,Paper,4950.7,5,0.0,358.01,0.07231502615791706,2,1
+O00274,2023-04-12,2023-04-17,Standard Class,C0181,Customer_181,Consumer,Canada,Vancouver,KA,140809,West,P0030,Paper_30,Office Supplies,Paper,3437.3,5,0.0,-17.04,-0.004957379338434236,5,0
+O00995,2023-04-14,2023-04-21,Standard Class,C0110,Customer_110,Consumer,USA,Bengaluru,NY,626486,East,P0109,Paper_109,Office Supplies,Paper,4474.68,5,0.2,797.17,0.1781512867959273,7,1
+O00337,2023-04-14,2023-04-18,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0027,Bookcases_27,Furniture,Bookcases,4293.31,7,0.0,1494.12,0.3480112081354479,4,0
+O00704,2023-04-14,2023-04-14,Same Day,C0235,Customer_235,Consumer,USA,Bengaluru,BC,779418,East,P0048,Chairs_48,Furniture,Chairs,1848.05,2,0.2,526.27,0.2847704337003869,0,0
+O00530,2023-04-15,2023-04-18,Second Class,C0028,Customer_28,Consumer,USA,Vancouver,BC,881452,Central,P0089,Bookcases_89,Furniture,Bookcases,977.44,5,0.3,51.64,0.05283188737927647,3,0
+O00176,2023-04-16,2023-04-18,Same Day,C0088,Customer_88,Corporate,Australia,Mumbai,DL,572327,South,P0009,Paper_9,Office Supplies,Paper,3976.95,5,0.0,622.2,0.15645155206879646,2,1
+O00003,2023-04-17,2023-04-21,Second Class,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0076,Binders_76,Office Supplies,Binders,1348.59,3,0.0,408.94,0.3032352308707613,4,1
+O00689,2023-04-18,2023-04-21,Second Class,C0210,Customer_210,Consumer,Australia,Sydney,NY,677564,South,P0057,Storage_57,Office Supplies,Storage,591.76,2,0.2,59.5,0.10054751926456672,3,0
+O00189,2023-04-18,2023-04-22,Standard Class,C0184,Customer_184,Home Office,Australia,New York,NSW,151226,Central,P0026,Storage_26,Office Supplies,Storage,7475.44,7,0.0,439.12,0.058741692796678194,4,0
+O00241,2023-04-18,2023-04-25,Standard Class,C0184,Customer_184,Home Office,Australia,New York,NSW,151226,Central,P0075,Machines_75,Technology,Machines,2132.89,6,0.3,109.68,0.05142318638091979,7,1
+O00774,2023-04-19,2023-04-24,Second Class,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0016,Accessories_16,Technology,Accessories,2320.14,3,0.1,764.06,0.3293163343591335,5,1
+O00407,2023-04-20,2023-04-24,Second Class,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0062,Binders_62,Office Supplies,Binders,730.85,1,0.0,101.39,0.1387288773346104,4,1
+O00694,2023-04-21,2023-04-22,First Class,C0243,Customer_243,Home Office,UK,San Francisco,NY,724712,West,P0044,Binders_44,Office Supplies,Binders,5375.04,6,0.2,-4.82,-0.0008967375126510687,1,0
+O00714,2023-04-22,2023-04-28,Standard Class,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0021,Binders_21,Office Supplies,Binders,988.42,2,0.0,258.03,0.2610529936666599,6,1
+O00929,2023-04-22,2023-04-26,Standard Class,C0010,Customer_10,Corporate,USA,Bengaluru,DL,765755,South,P0007,Machines_7,Technology,Machines,1961.24,4,0.0,194.69,0.09926882992392567,4,0
+O00637,2023-04-23,2023-04-28,Second Class,C0023,Customer_23,Consumer,UK,San Francisco,NSW,306524,West,P0019,Bookcases_19,Furniture,Bookcases,163.65,5,0.0,51.39,0.3140238313473877,5,1
+O00790,2023-04-23,2023-04-27,Standard Class,C0100,Customer_100,Consumer,Canada,Vancouver,GJ,745588,Central,P0045,Machines_45,Technology,Machines,1470.69,5,0.1,228.02,0.1550428710333245,4,0
+O00785,2023-04-23,2023-04-29,Standard Class,C0224,Customer_224,Consumer,USA,Chennai,MH,745188,West,P0104,Machines_104,Technology,Machines,3299.67,5,0.1,328.39,0.09952207341946315,6,1
+O00357,2023-04-24,2023-04-28,Standard Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0105,Machines_105,Technology,Machines,1042.62,2,0.2,153.29,0.14702384377817423,4,0
+O00072,2023-04-24,2023-04-25,First Class,C0167,Customer_167,Consumer,UK,Chennai,GJ,444138,Central,P0092,Storage_92,Office Supplies,Storage,3450.29,5,0.1,634.79,0.18398163632622186,1,0
+O00310,2023-04-26,2023-04-26,Same Day,C0250,Customer_250,Home Office,Australia,New York,NY,707847,South,P0033,Binders_33,Office Supplies,Binders,2416.12,4,0.0,554.3,0.22941741304239854,0,0
+O00415,2023-04-27,2023-04-29,First Class,C0079,Customer_79,Consumer,USA,Ahmedabad,NY,549589,Central,P0054,Bookcases_54,Furniture,Bookcases,376.7,2,0.2,70.63,0.18749668170958322,2,1
+O00158,2023-04-27,2023-05-02,Second Class,C0168,Customer_168,Consumer,Australia,Sydney,NSW,418277,Central,P0111,Binders_111,Office Supplies,Binders,1724.42,2,0.1,386.26,0.22399415455631458,5,1
+O00778,2023-04-27,2023-04-30,First Class,C0148,Customer_148,Consumer,USA,San Francisco,CA,127856,Central,P0001,Machines_1,Technology,Machines,3684.0,4,0.0,518.84,0.14083604777415853,3,1
+O00793,2023-04-28,2023-05-01,First Class,C0019,Customer_19,Consumer,UK,Sydney,BC,414997,Central,P0070,Storage_70,Office Supplies,Storage,2251.62,3,0.0,-114.98,-0.051065455094554145,3,1
+O00208,2023-04-28,2023-04-28,First Class,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0072,Tables_72,Furniture,Tables,945.73,1,0.0,161.84,0.1711270658644645,0,0
+O00023,2023-04-29,2023-05-03,Second Class,C0059,Customer_59,Consumer,Canada,Houston,TX,402950,Central,P0038,Storage_38,Office Supplies,Storage,4355.68,7,0.0,639.97,0.14692768982110715,4,1
+O00752,2023-04-29,2023-05-03,Standard Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0064,Chairs_64,Furniture,Chairs,1610.1,6,0.0,669.4,0.41575057449847835,4,0
+O00608,2023-04-29,2023-05-03,Second Class,C0081,Customer_81,Home Office,India,Delhi,TX,578446,East,P0019,Bookcases_19,Furniture,Bookcases,3630.24,6,0.0,253.95,0.06995405262461986,4,1
+O00068,2023-04-29,2023-05-04,Standard Class,C0218,Customer_218,Corporate,Canada,Sydney,GJ,111046,West,P0117,Storage_117,Office Supplies,Storage,4248.4,5,0.0,143.48,0.033772714433669145,5,0
+O00533,2023-04-30,2023-05-04,Second Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0089,Bookcases_89,Furniture,Bookcases,337.28,1,0.0,26.11,0.07741342504743834,4,1
+O00002,2023-05-01,2023-05-05,Standard Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0058,Accessories_58,Technology,Accessories,1416.8,4,0.0,218.96,0.15454545454545457,4,0
+O00638,2023-05-02,2023-05-09,Standard Class,C0202,Customer_202,Consumer,India,Ahmedabad,GJ,490719,West,P0028,Phones_28,Technology,Phones,3738.82,5,0.1,444.81,0.1189706912876255,7,1
+O00469,2023-05-04,2023-05-08,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0074,Paper_74,Office Supplies,Paper,1159.42,5,0.1,126.78,0.10934777733694433,4,0
+O00159,2023-05-04,2023-05-08,Second Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0053,Accessories_53,Technology,Accessories,989.28,3,0.2,124.17,0.12551552644347405,4,1
+O00804,2023-05-04,2023-05-08,Second Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,360910,South,P0018,Accessories_18,Technology,Accessories,4624.32,5,0.2,150.52,0.03254965054321501,4,1
+O00629,2023-05-04,2023-05-09,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0082,Paper_82,Office Supplies,Paper,646.74,3,0.0,158.16,0.24454958716021893,5,0
+O00038,2023-05-06,2023-05-06,First Class,C0150,Customer_150,Consumer,UK,Delhi,TX,659655,South,P0078,Accessories_78,Technology,Accessories,682.9,6,0.2,-31.54,-0.04618538585444428,0,0
+O00423,2023-05-08,2023-05-15,Standard Class,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0037,Chairs_37,Furniture,Chairs,7547.4,7,0.1,3174.29,0.4205805972917826,7,1
+O00692,2023-05-08,2023-05-12,Second Class,C0016,Customer_16,Consumer,India,San Francisco,MH,670451,South,P0091,Phones_91,Technology,Phones,2050.44,2,0.0,35.54,0.01733286514114044,4,1
+O00536,2023-05-09,2023-05-09,Same Day,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0026,Storage_26,Office Supplies,Storage,1375.3,2,0.3,293.81,0.21363338907874646,0,0
+O00700,2023-05-09,2023-05-13,Second Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0051,Machines_51,Technology,Machines,5327.21,7,0.0,966.66,0.18145708541619346,4,1
+O00058,2023-05-09,2023-05-13,Standard Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0005,Bookcases_5,Furniture,Bookcases,179.3,2,0.1,46.22,0.25778025655326264,4,0
+O00537,2023-05-10,2023-05-13,Second Class,C0136,Customer_136,Consumer,UK,Bengaluru,MH,881817,South,P0110,Paper_110,Office Supplies,Paper,3261.18,6,0.0,895.06,0.27445893817575234,3,0
+O00398,2023-05-10,2023-05-14,Standard Class,C0052,Customer_52,Corporate,Australia,San Francisco,NY,651025,East,P0039,Paper_39,Office Supplies,Paper,385.92,1,0.1,32.64,0.0845771144278607,4,0
+O00435,2023-05-10,2023-05-12,Same Day,C0173,Customer_173,Consumer,India,Chennai,TX,288456,East,P0093,Chairs_93,Furniture,Chairs,1043.16,3,0.0,116.16,0.1113539629587024,2,1
+O00303,2023-05-10,2023-05-17,Standard Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0057,Storage_57,Office Supplies,Storage,4600.4,5,0.0,380.1,0.0826232501521607,7,1
+O00893,2023-05-11,2023-05-16,Standard Class,C0181,Customer_181,Consumer,Canada,Vancouver,KA,140809,West,P0103,Machines_103,Technology,Machines,392.62,1,0.0,94.31,0.24020681575059855,5,0
+O00736,2023-05-12,2023-05-18,Standard Class,C0120,Customer_120,Consumer,Australia,Ahmedabad,TN,187955,West,P0075,Machines_75,Technology,Machines,618.84,5,0.2,115.9,0.1872858897291707,6,1
+O00739,2023-05-12,2023-05-14,First Class,C0008,Customer_8,Home Office,USA,Chennai,KA,891189,West,P0045,Machines_45,Technology,Machines,3009.04,4,0.0,273.26,0.09081301677611464,2,1
+O00144,2023-05-13,2023-05-15,Second Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0115,Chairs_115,Furniture,Chairs,667.35,5,0.0,20.96,0.03140780699782723,2,0
+O00389,2023-05-14,2023-05-18,Standard Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0030,Paper_30,Office Supplies,Paper,1868.19,2,0.2,-41.04,-0.02196778700239269,4,0
+O00695,2023-05-16,2023-05-18,First Class,C0018,Customer_18,Consumer,India,Delhi,NSW,857907,South,P0082,Paper_82,Office Supplies,Paper,715.59,5,0.1,76.74,0.1072401794323565,2,1
+O00806,2023-05-17,2023-05-24,Standard Class,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0088,Accessories_88,Technology,Accessories,6438.88,7,0.0,666.27,0.10347607037248714,7,1
+O00590,2023-05-18,2023-05-18,Same Day,C0201,Customer_201,Corporate,Australia,New York,TN,791757,East,P0118,Phones_118,Technology,Phones,3360.58,6,0.1,992.62,0.2953716322777616,0,0
+O00812,2023-05-18,2023-05-25,Standard Class,C0070,Customer_70,Home Office,USA,Mumbai,TN,209575,Central,P0063,Paper_63,Office Supplies,Paper,1845.42,2,0.2,122.08,0.06615296246924819,7,1
+O00207,2023-05-21,2023-05-26,Standard Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0104,Machines_104,Technology,Machines,4173.23,6,0.1,460.16,0.11026471102718999,5,0
+O00164,2023-05-21,2023-05-25,Standard Class,C0102,Customer_102,Corporate,Canada,Mumbai,GJ,942393,South,P0072,Tables_72,Furniture,Tables,325.48,2,0.1,11.58,0.035578222932284624,4,0
+O00886,2023-05-22,2023-05-23,First Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0108,Paper_108,Office Supplies,Paper,1313.44,4,0.0,315.5,0.24020891704227068,1,0
+O00372,2023-05-23,2023-05-26,First Class,C0220,Customer_220,Home Office,India,Mumbai,TN,478165,Central,P0001,Machines_1,Technology,Machines,483.57,1,0.0,95.19,0.19684843972951174,3,1
+O00124,2023-05-23,2023-05-26,First Class,C0075,Customer_75,Corporate,India,Bengaluru,GJ,176218,South,P0084,Storage_84,Office Supplies,Storage,619.67,1,0.1,214.9,0.34679748898607327,3,1
+O00933,2023-05-24,2023-05-25,Same Day,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0089,Bookcases_89,Furniture,Bookcases,1081.7,5,0.0,313.53,0.2898493112692983,1,1
+O00175,2023-05-24,2023-05-30,Standard Class,C0139,Customer_139,Consumer,UK,New York,GJ,541501,West,P0028,Phones_28,Technology,Phones,1111.73,1,0.0,293.24,0.2637690806220935,6,1
+O00073,2023-05-25,2023-05-25,First Class,C0229,Customer_229,Home Office,UK,Houston,GJ,305550,East,P0083,Phones_83,Technology,Phones,644.97,1,0.3,67.81,0.10513667302355148,0,0
+O00788,2023-05-26,2023-06-02,Standard Class,C0197,Customer_197,Corporate,UK,Ahmedabad,BC,463476,South,P0034,Machines_34,Technology,Machines,5137.55,7,0.2,521.31,0.10147054529882919,7,1
+O00233,2023-05-26,2023-05-31,Standard Class,C0114,Customer_114,Home Office,Canada,Ahmedabad,KA,543676,East,P0013,Chairs_13,Furniture,Chairs,997.98,3,0.0,209.99,0.2104150383775226,5,0
+O00080,2023-05-27,2023-05-31,Standard Class,C0002,Customer_2,Home Office,Australia,New York,BC,429670,East,P0013,Chairs_13,Furniture,Chairs,2769.5,5,0.0,267.01,0.09641090449539627,4,0
+O00879,2023-05-28,2023-06-02,Standard Class,C0071,Customer_71,Corporate,USA,Vancouver,MH,997336,West,P0069,Tables_69,Furniture,Tables,4427.01,5,0.1,943.75,0.21318000185226596,5,0
+O00570,2023-05-28,2023-06-02,Standard Class,C0173,Customer_173,Consumer,India,Chennai,TX,288456,East,P0092,Storage_92,Office Supplies,Storage,1743.37,2,0.1,302.07,0.17326786625902707,5,0
+O00294,2023-05-29,2023-06-02,Standard Class,C0158,Customer_158,Corporate,USA,Vancouver,BC,413837,East,P0106,Accessories_106,Technology,Accessories,818.52,4,0.0,218.39,0.2668108293016664,4,0
+O00646,2023-05-29,2023-05-31,Same Day,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0040,Binders_40,Office Supplies,Binders,915.85,5,0.0,217.76,0.2377681934814653,2,1
+O00611,2023-05-29,2023-06-05,Standard Class,C0133,Customer_133,Consumer,India,Delhi,MH,492417,East,P0053,Accessories_53,Technology,Accessories,2201.1,6,0.0,447.79,0.20343918949616102,7,1
+O00452,2023-05-29,2023-06-01,First Class,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0096,Machines_96,Technology,Machines,1026.78,1,0.1,152.36,0.1483862171059039,3,1
+O00345,2023-05-29,2023-06-02,Standard Class,C0200,Customer_200,Corporate,Canada,Sydney,TN,610585,Central,P0047,Tables_47,Furniture,Tables,1309.39,2,0.1,95.53,0.07295763676215641,4,0
+O00050,2023-05-31,2023-06-01,First Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0015,Storage_15,Office Supplies,Storage,3765.55,6,0.2,590.39,0.15678718912243894,1,0
+O00220,2023-06-01,2023-06-05,Second Class,C0184,Customer_184,Home Office,Australia,New York,NSW,151226,Central,P0012,Machines_12,Technology,Machines,1567.36,2,0.2,-171.52,-0.10943242139648837,4,1
+O00951,2023-06-03,2023-06-10,Standard Class,C0080,Customer_80,Consumer,USA,Vancouver,DL,786840,East,P0027,Bookcases_27,Furniture,Bookcases,1480.48,5,0.2,298.22,0.2014346698368097,7,1
+O00223,2023-06-03,2023-06-07,Standard Class,C0170,Customer_170,Corporate,India,Mumbai,NY,423412,East,P0110,Paper_110,Office Supplies,Paper,6756.06,6,0.0,251.01,0.03715331124945604,4,0
+O00141,2023-06-03,2023-06-07,Standard Class,C0065,Customer_65,Consumer,USA,Delhi,NY,837334,West,P0073,Paper_73,Office Supplies,Paper,6093.36,6,0.0,1480.91,0.2430366825528116,4,0
+O00743,2023-06-03,2023-06-05,Same Day,C0036,Customer_36,Home Office,Canada,New York,TN,159676,South,P0040,Binders_40,Office Supplies,Binders,246.08,2,0.3,33.06,0.13434655396618986,2,1
+O00480,2023-06-04,2023-06-09,Standard Class,C0044,Customer_44,Home Office,USA,Delhi,GJ,526752,East,P0079,Binders_79,Office Supplies,Binders,38.28,3,0.0,7.04,0.1839080459770115,5,0
+O00011,2023-06-05,2023-06-11,Standard Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0078,Accessories_78,Technology,Accessories,1240.02,3,0.0,89.24,0.07196658118417444,6,1
+O00172,2023-06-05,2023-06-11,Standard Class,C0177,Customer_177,Corporate,India,New York,GJ,746117,Central,P0023,Bookcases_23,Furniture,Bookcases,6604.29,7,0.1,137.86,0.02087431048606285,6,1
+O00454,2023-06-05,2023-06-09,Standard Class,C0197,Customer_197,Corporate,UK,Ahmedabad,BC,463476,South,P0051,Machines_51,Technology,Machines,65.62,2,0.0,5.43,0.08274916184090216,4,0
+O00385,2023-06-07,2023-06-09,Second Class,C0220,Customer_220,Home Office,India,Mumbai,TN,478165,Central,P0101,Binders_101,Office Supplies,Binders,792.06,6,0.0,90.8,0.11463777996616419,2,0
+O00767,2023-06-08,2023-06-10,Same Day,C0180,Customer_180,Consumer,UK,Bengaluru,KA,317215,South,P0016,Accessories_16,Technology,Accessories,4054.18,6,0.2,317.59,0.07833643301481434,2,1
+O00192,2023-06-08,2023-06-10,First Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0011,Phones_11,Technology,Phones,1964.76,6,0.0,333.39,0.16968484700421424,2,1
+O00098,2023-06-08,2023-06-13,Standard Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0084,Storage_84,Office Supplies,Storage,962.66,1,0.1,217.63,0.22607151019051377,5,0
+O00293,2023-06-09,2023-06-13,Second Class,C0066,Customer_66,Consumer,UK,Ahmedabad,TN,730235,South,P0089,Bookcases_89,Furniture,Bookcases,441.23,1,0.2,79.39,0.17992883530131676,4,1
+O00251,2023-06-09,2023-06-14,Standard Class,C0250,Customer_250,Home Office,Australia,New York,NY,707847,South,P0045,Machines_45,Technology,Machines,1398.49,2,0.1,261.43,0.1869373395590959,5,0
+O00617,2023-06-09,2023-06-15,Standard Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0044,Binders_44,Office Supplies,Binders,6421.92,6,0.0,387.87,0.0603978249495478,6,1
+O00794,2023-06-10,2023-06-14,Second Class,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0096,Machines_96,Technology,Machines,3029.29,3,0.1,545.13,0.17995305830739217,4,1
+O00349,2023-06-10,2023-06-15,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0037,Chairs_37,Furniture,Chairs,1239.21,5,0.1,123.4,0.09957957085562576,5,0
+O00028,2023-06-10,2023-06-16,Standard Class,C0052,Customer_52,Corporate,Australia,San Francisco,NY,651025,East,P0016,Accessories_16,Technology,Accessories,6045.62,7,0.0,-228.52,-0.03779926624564561,6,1
+O00901,2023-06-10,2023-06-12,Same Day,C0019,Customer_19,Consumer,UK,Sydney,BC,414997,Central,P0082,Paper_82,Office Supplies,Paper,3192.0,5,0.0,70.31,0.022026942355889725,2,1
+O00092,2023-06-10,2023-06-12,Second Class,C0082,Customer_82,Corporate,USA,Sydney,NSW,562052,West,P0069,Tables_69,Furniture,Tables,1416.02,3,0.2,178.91,0.12634708549314275,2,0
+O00764,2023-06-11,2023-06-18,Standard Class,C0228,Customer_228,Consumer,Australia,San Francisco,TX,861379,Central,P0107,Machines_107,Technology,Machines,1296.8,2,0.0,209.43,0.16149753238741518,7,1
+O00853,2023-06-12,2023-06-13,Same Day,C0095,Customer_95,Corporate,India,Vancouver,TX,999885,East,P0013,Chairs_13,Furniture,Chairs,3745.32,4,0.0,916.12,0.24460393237426975,1,1
+O00405,2023-06-13,2023-06-18,Second Class,C0101,Customer_101,Consumer,Australia,Bengaluru,DL,711213,East,P0033,Binders_33,Office Supplies,Binders,2342.68,3,0.1,232.01,0.09903614663547732,5,1
+O00507,2023-06-13,2023-06-19,Standard Class,C0065,Customer_65,Consumer,USA,Delhi,NY,837334,West,P0060,Binders_60,Office Supplies,Binders,794.73,1,0.1,180.56,0.22719665798447272,6,1
+O00988,2023-06-13,2023-06-15,Second Class,C0156,Customer_156,Consumer,USA,Delhi,TN,941461,Central,P0020,Paper_20,Office Supplies,Paper,1171.18,2,0.0,301.09,0.2570826004542427,2,0
+O00006,2023-06-14,2023-06-19,Standard Class,C0150,Customer_150,Consumer,UK,Delhi,TX,659655,South,P0070,Storage_70,Office Supplies,Storage,6871.14,6,0.0,1806.97,0.26297965112048366,5,0
+O00888,2023-06-14,2023-06-20,Standard Class,C0092,Customer_92,Corporate,USA,Mumbai,BC,973559,East,P0081,Paper_81,Office Supplies,Paper,1820.07,7,0.1,285.58,0.15690605306389313,6,1
+O00231,2023-06-16,2023-06-23,Standard Class,C0216,Customer_216,Consumer,UK,Houston,MH,322320,East,P0088,Accessories_88,Technology,Accessories,734.45,7,0.1,103.17,0.14047246238682007,7,1
+O00266,2023-06-16,2023-06-23,Standard Class,C0186,Customer_186,Corporate,India,Chennai,TN,705470,Central,P0078,Accessories_78,Technology,Accessories,3070.89,3,0.0,524.87,0.17091787722777438,7,1
+O00277,2023-06-16,2023-06-22,Standard Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0045,Machines_45,Technology,Machines,2507.0,5,0.2,609.47,0.24310729956122856,6,1
+O00605,2023-06-18,2023-06-22,Second Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0111,Binders_111,Office Supplies,Binders,4250.3,4,0.1,1064.31,0.2504082064795426,4,1
+O00305,2023-06-21,2023-06-25,Standard Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0112,Accessories_112,Technology,Accessories,3492.22,4,0.1,674.0,0.19300044098023608,4,0
+O00633,2023-06-21,2023-06-28,Standard Class,C0018,Customer_18,Consumer,India,Delhi,NSW,857907,South,P0092,Storage_92,Office Supplies,Storage,716.67,3,0.0,60.2,0.08399960930414278,7,1
+O00202,2023-06-21,2023-06-25,Standard Class,C0043,Customer_43,Consumer,USA,Vancouver,TX,249521,South,P0113,Accessories_113,Technology,Accessories,86.83,6,0.2,-1.85,-0.02130600023033514,4,0
+O00550,2023-06-22,2023-06-22,Same Day,C0115,Customer_115,Corporate,USA,Ahmedabad,GJ,262491,South,P0062,Binders_62,Office Supplies,Binders,1998.0,6,0.0,294.01,0.14715215215215216,0,0
+O00505,2023-06-22,2023-06-22,Same Day,C0107,Customer_107,Consumer,India,Ahmedabad,KA,890857,West,P0112,Accessories_112,Technology,Accessories,1541.82,3,0.0,-63.7,-0.0413148097702715,0,0
+O00421,2023-06-22,2023-06-25,Second Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0108,Paper_108,Office Supplies,Paper,883.83,7,0.1,116.9,0.13226525463041536,3,0
+O00065,2023-06-24,2023-06-26,First Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0079,Binders_79,Office Supplies,Binders,2728.9,5,0.0,-269.77,-0.09885668217963281,2,1
+O00919,2023-06-26,2023-07-01,Standard Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0089,Bookcases_89,Furniture,Bookcases,401.21,4,0.3,96.01,0.23930111412975752,5,0
+O00902,2023-06-27,2023-06-28,Same Day,C0154,Customer_154,Consumer,USA,Delhi,TN,422918,South,P0075,Machines_75,Technology,Machines,1127.16,5,0.1,36.52,0.03240001419496789,1,1
+O00047,2023-06-27,2023-07-02,Standard Class,C0244,Customer_244,Consumer,USA,Ahmedabad,DL,901480,South,P0071,Tables_71,Furniture,Tables,3416.14,7,0.0,611.14,0.1788978203469413,5,0
+O00977,2023-06-27,2023-06-27,Same Day,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0051,Machines_51,Technology,Machines,534.24,3,0.0,69.8,0.13065289008685235,0,0
+O00362,2023-06-29,2023-07-03,Standard Class,C0073,Customer_73,Consumer,USA,Ahmedabad,NSW,605815,Central,P0075,Machines_75,Technology,Machines,1420.58,6,0.1,81.34,0.057258302946683756,4,0
+O00838,2023-07-01,2023-07-01,Same Day,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0061,Bookcases_61,Furniture,Bookcases,5811.0,6,0.0,928.64,0.15980726208914128,0,0
+O00858,2023-07-01,2023-07-06,Second Class,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0037,Chairs_37,Furniture,Chairs,3372.8,4,0.2,-183.54,-0.054417694497153696,5,1
+O00786,2023-07-02,2023-07-04,First Class,C0016,Customer_16,Consumer,India,San Francisco,MH,670451,South,P0055,Tables_55,Furniture,Tables,219.42,2,0.0,18.21,0.08299152310637135,2,1
+O00514,2023-07-02,2023-07-09,Standard Class,C0128,Customer_128,Home Office,Canada,Delhi,TX,478387,Central,P0102,Storage_102,Office Supplies,Storage,445.42,1,0.0,8.18,0.01836468950653316,7,1
+O00784,2023-07-02,2023-07-02,First Class,C0150,Customer_150,Consumer,UK,Delhi,TX,659655,South,P0108,Paper_108,Office Supplies,Paper,263.51,1,0.0,22.04,0.0836400895601685,0,0
+O00487,2023-07-02,2023-07-07,Second Class,C0236,Customer_236,Corporate,Canada,San Francisco,GJ,800780,West,P0093,Chairs_93,Furniture,Chairs,6650.97,7,0.1,2377.99,0.3575403287039334,5,1
+O00626,2023-07-02,2023-07-09,Standard Class,C0003,Customer_3,Corporate,India,Chennai,MH,906388,South,P0056,Bookcases_56,Furniture,Bookcases,1019.4,3,0.0,266.1,0.261035903472631,7,1
+O00044,2023-07-03,2023-07-07,Second Class,C0114,Customer_114,Home Office,Canada,Ahmedabad,KA,543676,East,P0087,Chairs_87,Furniture,Chairs,84.02,1,0.0,13.53,0.16103308736015234,4,1
+O00041,2023-07-04,2023-07-04,Same Day,C0045,Customer_45,Consumer,India,Vancouver,TN,688365,Central,P0016,Accessories_16,Technology,Accessories,4200.32,5,0.2,453.6,0.10799177205546245,0,0
+O00697,2023-07-05,2023-07-10,Standard Class,C0245,Customer_245,Consumer,USA,Sydney,CA,793264,East,P0115,Chairs_115,Furniture,Chairs,117.69,3,0.1,13.59,0.11547285240887076,5,0
+O00841,2023-07-07,2023-07-13,Standard Class,C0068,Customer_68,Home Office,UK,Chennai,TN,752465,South,P0008,Machines_8,Technology,Machines,2008.44,3,0.0,105.25,0.05240385572882436,6,1
+O00768,2023-07-07,2023-07-14,Standard Class,C0019,Customer_19,Consumer,UK,Sydney,BC,414997,Central,P0098,Chairs_98,Furniture,Chairs,27.1,1,0.0,5.05,0.18634686346863466,7,1
+O00748,2023-07-07,2023-07-09,Same Day,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0097,Phones_97,Technology,Phones,3984.62,6,0.2,593.16,0.1488623758350859,2,1
+O00455,2023-07-09,2023-07-11,First Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0119,Binders_119,Office Supplies,Binders,2515.54,6,0.2,402.86,0.1601485168194503,2,1
+O00609,2023-07-09,2023-07-15,Standard Class,C0041,Customer_41,Consumer,USA,Bengaluru,KA,717895,South,P0035,Chairs_35,Furniture,Chairs,810.5,5,0.0,137.9,0.1701418877236274,6,1
+O00531,2023-07-11,2023-07-11,Same Day,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0050,Tables_50,Furniture,Tables,900.99,6,0.1,109.77,0.12183265075084074,0,0
+O00066,2023-07-12,2023-07-17,Second Class,C0008,Customer_8,Home Office,USA,Chennai,KA,891189,West,P0043,Accessories_43,Technology,Accessories,313.15,1,0.0,31.02,0.09905795944435575,5,1
+O00871,2023-07-15,2023-07-18,First Class,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0064,Chairs_64,Furniture,Chairs,1024.45,5,0.3,256.12,0.250007321001513,3,1
+O00366,2023-07-15,2023-07-17,Same Day,C0193,Customer_193,Home Office,Canada,Delhi,NSW,436326,West,P0094,Binders_94,Office Supplies,Binders,6942.53,7,0.0,0.0,0.0,2,1
+O00923,2023-07-17,2023-07-17,Same Day,C0084,Customer_84,Consumer,Australia,Delhi,CA,139986,West,P0055,Tables_55,Furniture,Tables,1177.51,1,0.0,-73.61,-0.06251326952637346,0,0
+O00025,2023-07-17,2023-07-19,Same Day,C0093,Customer_93,Corporate,UK,Ahmedabad,MH,525037,South,P0023,Bookcases_23,Furniture,Bookcases,2827.9,5,0.0,65.33,0.02310194844230701,2,1
+O00796,2023-07-17,2023-07-21,Second Class,C0141,Customer_141,Home Office,India,Vancouver,TX,167642,West,P0048,Chairs_48,Furniture,Chairs,4423.4,5,0.0,234.36,0.05298186915042728,4,1
+O00882,2023-07-18,2023-07-24,Standard Class,C0050,Customer_50,Consumer,Australia,New York,TN,481915,West,P0089,Bookcases_89,Furniture,Bookcases,6908.23,7,0.0,828.58,0.1199409979111871,6,1
+O00548,2023-07-19,2023-07-26,Standard Class,C0248,Customer_248,Home Office,Australia,Mumbai,MH,997336,Central,P0025,Tables_25,Furniture,Tables,1148.3,2,0.0,259.68,0.2261429939911173,7,1
+O00558,2023-07-19,2023-07-25,Standard Class,C0202,Customer_202,Consumer,India,Ahmedabad,GJ,490719,West,P0063,Paper_63,Office Supplies,Paper,1664.16,3,0.0,514.51,0.30917099317373326,6,1
+O00232,2023-07-21,2023-07-26,Standard Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0080,Binders_80,Office Supplies,Binders,6028.96,7,0.0,1850.27,0.3068970436028768,5,0
+O00746,2023-07-21,2023-07-27,Standard Class,C0093,Customer_93,Corporate,UK,Ahmedabad,MH,525037,South,P0117,Storage_117,Office Supplies,Storage,318.0,3,0.0,28.51,0.08965408805031447,6,1
+O00878,2023-07-22,2023-07-29,Standard Class,C0004,Customer_4,Corporate,UK,Mumbai,TN,318967,South,P0051,Machines_51,Technology,Machines,448.41,1,0.2,120.14,0.2679244441470975,7,1
+O00656,2023-07-22,2023-07-28,Standard Class,C0206,Customer_206,Consumer,Canada,Vancouver,NSW,292192,West,P0035,Chairs_35,Furniture,Chairs,5048.26,7,0.0,632.82,0.12535408239670698,6,1
+O00005,2023-07-23,2023-07-27,Second Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0120,Paper_120,Office Supplies,Paper,452.1,3,0.0,74.43,0.1646317186463172,4,1
+O00861,2023-07-24,2023-07-27,First Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0073,Paper_73,Office Supplies,Paper,1826.05,5,0.0,494.65,0.27088524410613074,3,1
+O00030,2023-07-25,2023-07-25,First Class,C0127,Customer_127,Home Office,Canada,Houston,CA,307990,West,P0069,Tables_69,Furniture,Tables,3381.78,3,0.0,1057.1,0.31258686253984586,0,0
+O00400,2023-07-25,2023-07-31,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0118,Phones_118,Technology,Phones,1618.56,2,0.0,261.68,0.1616745749308027,6,1
+O00320,2023-07-27,2023-07-31,Standard Class,C0133,Customer_133,Consumer,India,Delhi,MH,492417,East,P0118,Phones_118,Technology,Phones,3616.42,5,0.1,137.37,0.03798507916668971,4,0
+O00307,2023-07-28,2023-07-30,Second Class,C0038,Customer_38,Consumer,USA,Ahmedabad,CA,273532,South,P0102,Storage_102,Office Supplies,Storage,1782.47,2,0.1,299.54,0.16804770907785266,2,0
+O00724,2023-07-28,2023-07-31,Second Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0118,Phones_118,Technology,Phones,891.34,2,0.0,368.95,0.41392734534521053,3,0
+O00996,2023-07-29,2023-08-03,Second Class,C0078,Customer_78,Consumer,India,Bengaluru,MH,436199,West,P0001,Machines_1,Technology,Machines,242.55,2,0.1,32.28,0.13308596165739023,5,1
+O00733,2023-07-30,2023-08-04,Standard Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0114,Phones_114,Technology,Phones,3761.42,6,0.2,389.64,0.10358853837114707,5,0
+O00771,2023-07-30,2023-08-04,Standard Class,C0021,Customer_21,Corporate,USA,Houston,NY,721019,South,P0023,Bookcases_23,Furniture,Bookcases,666.54,2,0.2,127.79,0.19172142707114354,5,0
+O00578,2023-07-30,2023-08-06,Standard Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0008,Machines_8,Technology,Machines,1660.82,2,0.3,143.38,0.08633084861694826,7,1
+O00502,2023-08-01,2023-08-05,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0016,Accessories_16,Technology,Accessories,498.07,1,0.2,45.78,0.09191479109362138,4,0
+O00499,2023-08-01,2023-08-07,Standard Class,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0045,Machines_45,Technology,Machines,1967.58,2,0.0,358.25,0.18207645940698727,6,1
+O00957,2023-08-01,2023-08-05,Standard Class,C0012,Customer_12,Home Office,UK,San Francisco,NY,990324,South,P0024,Storage_24,Office Supplies,Storage,92.02,6,0.3,4.05,0.044012171267115846,4,0
+O00665,2023-08-01,2023-08-03,Same Day,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0085,Paper_85,Office Supplies,Paper,491.03,1,0.2,1.85,0.0037675905749139566,2,1
+O00954,2023-08-02,2023-08-06,Second Class,C0218,Customer_218,Corporate,Canada,Sydney,GJ,111046,West,P0036,Tables_36,Furniture,Tables,1078.99,3,0.2,244.52,0.22661933845540738,4,1
+O00386,2023-08-04,2023-08-08,Standard Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0018,Accessories_18,Technology,Accessories,96.72,4,0.0,14.36,0.14846980976013233,4,0
+O00036,2023-08-04,2023-08-09,Second Class,C0231,Customer_231,Corporate,USA,Sydney,GJ,738418,Central,P0103,Machines_103,Technology,Machines,3588.6,3,0.0,241.98,0.06743019561946163,5,1
+O00039,2023-08-05,2023-08-10,Standard Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0070,Storage_70,Office Supplies,Storage,291.0,7,0.1,18.12,0.06226804123711341,5,0
+O00606,2023-08-05,2023-08-07,Second Class,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0055,Tables_55,Furniture,Tables,2196.8,5,0.0,48.87,0.022245994173343043,2,0
+O00069,2023-08-06,2023-08-11,Second Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0031,Bookcases_31,Furniture,Bookcases,3783.9,6,0.0,281.49,0.07439150083247444,5,1
+O00273,2023-08-06,2023-08-06,Same Day,C0105,Customer_105,Home Office,Australia,New York,DL,147057,Central,P0110,Paper_110,Office Supplies,Paper,941.65,2,0.1,63.65,0.06759411671003027,0,0
+O00594,2023-08-08,2023-08-15,Standard Class,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0066,Chairs_66,Furniture,Chairs,268.81,4,0.1,34.99,0.13016628845653064,7,1
+O00211,2023-08-08,2023-08-12,Standard Class,C0228,Customer_228,Consumer,Australia,San Francisco,TX,861379,Central,P0118,Phones_118,Technology,Phones,3064.32,3,0.0,513.41,0.16754451232247283,4,0
+O00854,2023-08-08,2023-08-13,Second Class,C0181,Customer_181,Consumer,Canada,Vancouver,KA,140809,West,P0036,Tables_36,Furniture,Tables,298.12,2,0.3,49.67,0.1666107607674762,5,1
+O00852,2023-08-08,2023-08-11,First Class,C0083,Customer_83,Consumer,India,Houston,GJ,434402,West,P0042,Accessories_42,Technology,Accessories,545.84,4,0.0,82.52,0.15117983291807122,3,1
+O00088,2023-08-08,2023-08-10,Same Day,C0242,Customer_242,Home Office,USA,Vancouver,NSW,756884,South,P0095,Tables_95,Furniture,Tables,1542.7,5,0.0,52.73,0.034180333182083356,2,1
+O00140,2023-08-09,2023-08-13,Standard Class,C0012,Customer_12,Home Office,UK,San Francisco,NY,990324,South,P0020,Paper_20,Office Supplies,Paper,472.26,6,0.0,81.28,0.17210858425443612,4,0
+O00467,2023-08-09,2023-08-13,Second Class,C0198,Customer_198,Home Office,India,Ahmedabad,MH,451707,East,P0096,Machines_96,Technology,Machines,2343.08,2,0.0,239.16,0.10207077863325197,4,1
+O00755,2023-08-09,2023-08-09,Same Day,C0071,Customer_71,Corporate,USA,Vancouver,MH,997336,West,P0088,Accessories_88,Technology,Accessories,892.51,6,0.2,266.7,0.2988201812864842,0,0
+O00640,2023-08-10,2023-08-11,Same Day,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0049,Paper_49,Office Supplies,Paper,4801.99,7,0.1,972.18,0.2024535661257104,1,1
+O00043,2023-08-11,2023-08-13,Second Class,C0170,Customer_170,Corporate,India,Mumbai,NY,423412,East,P0109,Paper_109,Office Supplies,Paper,1389.85,7,0.0,389.62,0.2803324099722992,2,0
+O00596,2023-08-11,2023-08-16,Second Class,C0120,Customer_120,Consumer,Australia,Ahmedabad,TN,187955,West,P0119,Binders_119,Office Supplies,Binders,1085.46,6,0.0,-28.84,-0.02656938072337995,5,1
+O00706,2023-08-12,2023-08-14,Second Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0091,Phones_91,Technology,Phones,1417.72,4,0.0,284.84,0.20091414383658265,2,0
+O00242,2023-08-14,2023-08-19,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0096,Machines_96,Technology,Machines,2424.74,5,0.1,591.28,0.24385294918218037,5,0
+O00621,2023-08-14,2023-08-17,Second Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0051,Machines_51,Technology,Machines,2951.53,3,0.1,521.17,0.17657621640301807,3,0
+O00742,2023-08-15,2023-08-20,Standard Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0066,Chairs_66,Furniture,Chairs,6087.48,6,0.0,213.87,0.035132764296556214,5,0
+O00972,2023-08-15,2023-08-17,Second Class,C0065,Customer_65,Consumer,USA,Delhi,NY,837334,West,P0003,Chairs_3,Furniture,Chairs,910.84,7,0.0,320.0,0.35132405252294585,2,0
+O00522,2023-08-15,2023-08-20,Standard Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0001,Machines_1,Technology,Machines,2223.07,4,0.1,395.7,0.17799709410859754,5,0
+O00574,2023-08-16,2023-08-23,Standard Class,C0134,Customer_134,Consumer,Australia,New York,BC,238155,South,P0098,Chairs_98,Furniture,Chairs,1750.74,6,0.0,170.19,0.0972103224922033,7,1
+O00864,2023-08-16,2023-08-22,Standard Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0002,Binders_2,Office Supplies,Binders,681.9,2,0.0,111.13,0.16297111013345064,6,1
+O00693,2023-08-17,2023-08-19,Second Class,C0241,Customer_241,Home Office,India,Bengaluru,BC,599137,East,P0045,Machines_45,Technology,Machines,2241.92,2,0.0,412.45,0.18397177419354838,2,0
+O00295,2023-08-18,2023-08-23,Second Class,C0131,Customer_131,Consumer,Canada,Sydney,MH,294269,South,P0007,Machines_7,Technology,Machines,743.82,2,0.0,160.75,0.21611411362964156,5,1
+O00712,2023-08-19,2023-08-19,Same Day,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0057,Storage_57,Office Supplies,Storage,2217.24,4,0.1,283.74,0.12796990853493534,0,0
+O00471,2023-08-19,2023-08-24,Standard Class,C0146,Customer_146,Consumer,Australia,Delhi,NY,783889,East,P0015,Storage_15,Office Supplies,Storage,560.74,2,0.1,-38.14,-0.068017262902593,5,0
+O00572,2023-08-20,2023-08-21,First Class,C0197,Customer_197,Corporate,UK,Ahmedabad,BC,463476,South,P0068,Tables_68,Furniture,Tables,502.31,1,0.0,51.73,0.1029842129362346,1,0
+O00544,2023-08-20,2023-08-21,Same Day,C0045,Customer_45,Consumer,India,Vancouver,TN,688365,Central,P0006,Tables_6,Furniture,Tables,7904.33,7,0.0,-213.99,-0.027072503298824824,1,1
+O00644,2023-08-21,2023-08-22,Same Day,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0098,Chairs_98,Furniture,Chairs,722.52,1,0.2,67.18,0.09298012511764381,1,1
+O00719,2023-08-22,2023-08-22,First Class,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0077,Binders_77,Office Supplies,Binders,2032.62,2,0.0,242.91,0.11950585943265343,0,0
+O00660,2023-08-23,2023-08-24,First Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0072,Tables_72,Furniture,Tables,393.98,6,0.1,67.24,0.17066856185593174,1,0
+O00655,2023-08-24,2023-08-28,Standard Class,C0074,Customer_74,Home Office,Australia,Chennai,NY,392822,South,P0112,Accessories_112,Technology,Accessories,4188.48,6,0.0,1395.42,0.33315665826266333,4,0
+O00333,2023-08-25,2023-08-27,Same Day,C0227,Customer_227,Home Office,UK,Sydney,KA,683417,South,P0036,Tables_36,Furniture,Tables,940.34,2,0.0,205.15,0.21816576982793456,2,1
+O00994,2023-08-26,2023-08-31,Standard Class,C0138,Customer_138,Corporate,Canada,Mumbai,DL,356713,Central,P0009,Paper_9,Office Supplies,Paper,2098.6,7,0.0,366.73,0.17474983322214813,5,0
+O00409,2023-08-26,2023-08-29,First Class,C0249,Customer_249,Home Office,UK,San Francisco,KA,830026,West,P0015,Storage_15,Office Supplies,Storage,3823.14,6,0.0,893.46,0.23369795508404087,3,1
+O00652,2023-08-26,2023-08-30,Standard Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0022,Phones_22,Technology,Phones,2142.75,5,0.0,225.5,0.1052385952630965,4,0
+O00379,2023-08-27,2023-08-29,Same Day,C0200,Customer_200,Corporate,Canada,Sydney,TN,610585,Central,P0070,Storage_70,Office Supplies,Storage,1623.53,2,0.1,150.69,0.09281627071874249,2,1
+O00195,2023-08-29,2023-09-02,Second Class,C0037,Customer_37,Consumer,USA,Ahmedabad,TX,841804,South,P0043,Accessories_43,Technology,Accessories,273.26,2,0.0,44.53,0.16295835468052405,4,1
+O00500,2023-08-30,2023-09-01,First Class,C0152,Customer_152,Consumer,UK,Delhi,TN,862092,West,P0008,Machines_8,Technology,Machines,2456.76,6,0.0,162.19,0.06601784464090915,2,1
+O00035,2023-08-30,2023-09-02,Second Class,C0084,Customer_84,Consumer,Australia,Delhi,CA,139986,West,P0078,Accessories_78,Technology,Accessories,6226.38,6,0.0,1660.68,0.26671677604001043,3,0
+O00236,2023-08-30,2023-09-03,Standard Class,C0236,Customer_236,Corporate,Canada,San Francisco,GJ,800780,West,P0054,Bookcases_54,Furniture,Bookcases,16.92,1,0.1,1.72,0.1016548463356974,4,0
+O00543,2023-08-30,2023-09-04,Second Class,C0231,Customer_231,Corporate,USA,Sydney,GJ,738418,Central,P0043,Accessories_43,Technology,Accessories,1960.7,4,0.1,1.11,0.000566124343346764,5,1
+O00945,2023-08-31,2023-08-31,First Class,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0042,Accessories_42,Technology,Accessories,6405.66,6,0.0,1001.02,0.15627117268165966,0,0
+O00376,2023-09-01,2023-09-08,Standard Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0090,Accessories_90,Technology,Accessories,3532.32,3,0.0,482.96,0.13672600443900892,7,1
+O00491,2023-09-03,2023-09-03,Same Day,C0147,Customer_147,Corporate,Canada,Bengaluru,KA,135954,East,P0008,Machines_8,Technology,Machines,3701.4,5,0.0,17.81,0.004811692872966985,0,0
+O00340,2023-09-05,2023-09-09,Standard Class,C0242,Customer_242,Home Office,USA,Vancouver,NSW,756884,South,P0018,Accessories_18,Technology,Accessories,5156.35,5,0.0,1262.29,0.24480300988102047,4,0
+O00868,2023-09-07,2023-09-11,Standard Class,C0046,Customer_46,Corporate,Canada,Mumbai,TX,924690,East,P0023,Bookcases_23,Furniture,Bookcases,3519.6,4,0.0,985.72,0.2800659165814297,4,0
+O00037,2023-09-08,2023-09-09,Same Day,C0127,Customer_127,Home Office,Canada,Houston,CA,307990,West,P0095,Tables_95,Furniture,Tables,2071.84,4,0.0,-101.1,-0.048797204417329515,1,1
+O00015,2023-09-08,2023-09-08,Same Day,C0206,Customer_206,Consumer,Canada,Vancouver,NSW,292192,West,P0056,Bookcases_56,Furniture,Bookcases,4945.5,7,0.0,957.12,0.1935335153169548,0,0
+O00403,2023-09-10,2023-09-11,First Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0119,Binders_119,Office Supplies,Binders,4793.99,7,0.1,559.45,0.11669819920358618,1,0
+O00446,2023-09-10,2023-09-13,Second Class,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0055,Tables_55,Furniture,Tables,934.5,1,0.0,11.06,0.011835205992509364,3,0
+O00434,2023-09-11,2023-09-11,First Class,C0078,Customer_78,Consumer,India,Bengaluru,MH,436199,West,P0098,Chairs_98,Furniture,Chairs,4152.05,5,0.0,0.0,0.0,0,0
+O00258,2023-09-11,2023-09-17,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0026,Storage_26,Office Supplies,Storage,197.52,1,0.1,22.75,0.11517820980153907,6,1
+O00968,2023-09-11,2023-09-16,Standard Class,C0020,Customer_20,Consumer,Australia,Chennai,GJ,255989,Central,P0026,Storage_26,Office Supplies,Storage,3069.64,7,0.0,491.37,0.1600741455024042,5,0
+O00816,2023-09-11,2023-09-12,Same Day,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0009,Paper_9,Office Supplies,Paper,1345.04,5,0.2,190.27,0.1414604770118361,1,1
+O00657,2023-09-13,2023-09-14,Same Day,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0060,Binders_60,Office Supplies,Binders,5335.98,6,0.0,280.28,0.05252643375724796,1,1
+O00301,2023-09-16,2023-09-22,Standard Class,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0074,Paper_74,Office Supplies,Paper,353.56,7,0.1,19.06,0.05390881321416449,6,1
+O00832,2023-09-17,2023-09-20,Second Class,C0221,Customer_221,Corporate,Australia,Houston,NY,808662,West,P0093,Chairs_93,Furniture,Chairs,1760.68,5,0.2,359.33,0.20408592134856984,3,0
+O00797,2023-09-17,2023-09-23,Standard Class,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0107,Machines_107,Technology,Machines,6246.48,6,0.0,1164.63,0.18644580627809584,6,1
+O00461,2023-09-17,2023-09-22,Standard Class,C0026,Customer_26,Corporate,Australia,Vancouver,NY,830880,South,P0032,Bookcases_32,Furniture,Bookcases,1883.7,7,0.0,653.49,0.3469182990922121,5,0
+O00585,2023-09-18,2023-09-23,Standard Class,C0146,Customer_146,Consumer,Australia,Delhi,NY,783889,East,P0045,Machines_45,Technology,Machines,1767.29,7,0.0,305.83,0.1730502633976314,5,0
+O00828,2023-09-18,2023-09-21,Second Class,C0165,Customer_165,Consumer,USA,Mumbai,DL,488822,South,P0079,Binders_79,Office Supplies,Binders,3789.56,6,0.1,177.44,0.04682337791194756,3,0
+O00701,2023-09-18,2023-09-19,Same Day,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0042,Accessories_42,Technology,Accessories,2754.34,4,0.2,612.79,0.22248161083962037,1,1
+O00369,2023-09-19,2023-09-26,Standard Class,C0051,Customer_51,Home Office,India,Bengaluru,NY,662288,Central,P0090,Accessories_90,Technology,Accessories,4716.4,5,0.0,1394.87,0.29574887626155544,7,1
+O00187,2023-09-20,2023-09-24,Standard Class,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0078,Accessories_78,Technology,Accessories,7045.99,7,0.0,2437.36,0.34592158092759145,4,0
+O00457,2023-09-20,2023-09-25,Second Class,C0049,Customer_49,Consumer,Canada,New York,TN,237717,Central,P0009,Paper_9,Office Supplies,Paper,3091.99,3,0.1,157.29,0.05087015158522505,5,1
+O00260,2023-09-20,2023-09-21,First Class,C0010,Customer_10,Corporate,USA,Bengaluru,DL,765755,South,P0054,Bookcases_54,Furniture,Bookcases,2908.33,6,0.1,610.5,0.20991428070404666,1,0
+O00311,2023-09-21,2023-09-27,Standard Class,C0110,Customer_110,Consumer,USA,Bengaluru,NY,626486,East,P0001,Machines_1,Technology,Machines,1741.82,6,0.2,159.12,0.09135272301385908,6,1
+O00401,2023-09-23,2023-09-24,Same Day,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0021,Binders_21,Office Supplies,Binders,1222.02,3,0.0,169.84,0.1389829953683246,1,1
+O00132,2023-09-24,2023-09-27,Second Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0060,Binders_60,Office Supplies,Binders,1318.2,5,0.0,188.33,0.14286906387498105,3,0
+O00982,2023-09-25,2023-09-27,First Class,C0078,Customer_78,Consumer,India,Bengaluru,MH,436199,West,P0056,Bookcases_56,Furniture,Bookcases,31.08,3,0.1,1.01,0.0324967824967825,2,1
+O01000,2023-09-25,2023-09-27,Same Day,C0142,Customer_142,Consumer,USA,Mumbai,KA,190093,West,P0056,Bookcases_56,Furniture,Bookcases,112.88,4,0.0,-12.32,-0.10914245216158754,2,1
+O00855,2023-09-27,2023-09-29,First Class,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0120,Paper_120,Office Supplies,Paper,2711.75,5,0.0,216.33,0.07977505301004886,2,1
+O00624,2023-09-30,2023-10-01,Same Day,C0205,Customer_205,Corporate,India,Ahmedabad,TX,662997,Central,P0086,Machines_86,Technology,Machines,119.53,3,0.1,10.99,0.09194344516021083,1,1
+O00751,2023-09-30,2023-09-30,First Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0018,Accessories_18,Technology,Accessories,4891.6,5,0.0,374.54,0.07656799411235587,0,0
+O00033,2023-10-03,2023-10-07,Second Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0104,Machines_104,Technology,Machines,3642.96,4,0.0,416.52,0.11433559523025232,4,1
+O00571,2023-10-04,2023-10-07,First Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0097,Phones_97,Technology,Phones,405.56,4,0.0,71.58,0.17649669592661998,3,1
+O00209,2023-10-04,2023-10-10,Standard Class,C0209,Customer_209,Consumer,USA,Mumbai,BC,635843,South,P0059,Paper_59,Office Supplies,Paper,1771.49,4,0.1,91.56,0.05168530446121627,6,1
+O00949,2023-10-04,2023-10-08,Standard Class,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0077,Binders_77,Office Supplies,Binders,4310.21,7,0.1,182.01,0.042227640880606744,4,0
+O00676,2023-10-05,2023-10-06,Same Day,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0087,Chairs_87,Furniture,Chairs,1883.63,7,0.0,104.13,0.05528155741838896,1,1
+O00112,2023-10-06,2023-10-12,Standard Class,C0128,Customer_128,Home Office,Canada,Delhi,TX,478387,Central,P0099,Storage_99,Office Supplies,Storage,68.92,1,0.3,4.59,0.06659895531050493,6,1
+O00334,2023-10-06,2023-10-10,Standard Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0050,Tables_50,Furniture,Tables,5922.96,6,0.0,435.59,0.07354262058160109,4,0
+O00268,2023-10-07,2023-10-12,Second Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0030,Paper_30,Office Supplies,Paper,402.75,3,0.0,139.38,0.3460707635009311,5,1
+O00691,2023-10-08,2023-10-10,Same Day,C0075,Customer_75,Corporate,India,Bengaluru,GJ,176218,South,P0023,Bookcases_23,Furniture,Bookcases,453.82,1,0.2,34.61,0.07626371689215988,2,1
+O00021,2023-10-09,2023-10-09,First Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0020,Paper_20,Office Supplies,Paper,812.6,1,0.1,193.02,0.23753384198867833,0,0
+O00668,2023-10-10,2023-10-12,Same Day,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0085,Paper_85,Office Supplies,Paper,356.29,1,0.0,7.72,0.02166774256925538,2,1
+O00001,2023-10-11,2023-10-16,Second Class,C0131,Customer_131,Consumer,Canada,Sydney,MH,294269,South,P0034,Machines_34,Technology,Machines,1534.46,6,0.1,296.04,0.1929278052213808,5,1
+O00545,2023-10-11,2023-10-17,Standard Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0111,Binders_111,Office Supplies,Binders,800.71,1,0.3,-22.34,-0.02790023853829726,6,1
+O00344,2023-10-13,2023-10-18,Second Class,C0241,Customer_241,Home Office,India,Bengaluru,BC,599137,East,P0099,Storage_99,Office Supplies,Storage,2847.06,3,0.0,405.5,0.14242762709602186,5,1
+O00081,2023-10-14,2023-10-21,Standard Class,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0084,Storage_84,Office Supplies,Storage,710.8,2,0.0,164.44,0.2313449634214969,7,1
+O00439,2023-10-14,2023-10-19,Standard Class,C0014,Customer_14,Consumer,USA,Sydney,TX,346726,East,P0044,Binders_44,Office Supplies,Binders,3737.5,5,0.0,823.2,0.2202541806020067,5,0
+O00317,2023-10-14,2023-10-16,Second Class,C0216,Customer_216,Consumer,UK,Houston,MH,322320,East,P0017,Paper_17,Office Supplies,Paper,1129.9,2,0.2,194.04,0.17173201168244975,2,0
+O00276,2023-10-15,2023-10-19,Second Class,C0026,Customer_26,Corporate,Australia,Vancouver,NY,830880,South,P0093,Chairs_93,Furniture,Chairs,1280.96,4,0.0,131.2,0.1024231826130402,4,1
+O00619,2023-10-15,2023-10-17,Second Class,C0212,Customer_212,Corporate,UK,Sydney,TX,808362,Central,P0105,Machines_105,Technology,Machines,2324.13,3,0.1,298.17,0.12829316776600277,2,0
+O00620,2023-10-15,2023-10-19,Second Class,C0150,Customer_150,Consumer,UK,Delhi,TX,659655,South,P0065,Storage_65,Office Supplies,Storage,2142.49,7,0.0,134.95,0.06298745851789274,4,1
+O00634,2023-10-15,2023-10-20,Standard Class,C0113,Customer_113,Home Office,USA,Ahmedabad,GJ,244931,West,P0060,Binders_60,Office Supplies,Binders,1554.61,2,0.1,110.68,0.07119470478126348,5,0
+O00404,2023-10-16,2023-10-23,Standard Class,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0029,Binders_29,Office Supplies,Binders,71.51,2,0.1,21.81,0.3049923087680044,7,1
+O00908,2023-10-16,2023-10-18,Second Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0086,Machines_86,Technology,Machines,4378.85,5,0.0,1105.49,0.2524612626602875,2,0
+O00173,2023-10-18,2023-10-18,Same Day,C0227,Customer_227,Home Office,UK,Sydney,KA,683417,South,P0043,Accessories_43,Technology,Accessories,540.97,2,0.1,99.76,0.18440948666284637,0,0
+O00130,2023-10-18,2023-10-18,Same Day,C0140,Customer_140,Home Office,India,Ahmedabad,TX,643351,East,P0033,Binders_33,Office Supplies,Binders,4145.6,5,0.0,493.03,0.11892850250868389,0,0
+O00146,2023-10-20,2023-10-26,Standard Class,C0115,Customer_115,Corporate,USA,Ahmedabad,GJ,262491,South,P0019,Bookcases_19,Furniture,Bookcases,353.31,3,0.0,57.88,0.16382213919787156,6,1
+O00019,2023-10-20,2023-10-21,Same Day,C0131,Customer_131,Consumer,Canada,Sydney,MH,294269,South,P0045,Machines_45,Technology,Machines,1917.8,2,0.0,299.97,0.15641359891542395,1,1
+O00224,2023-10-20,2023-10-20,Same Day,C0210,Customer_210,Consumer,Australia,Sydney,NY,677564,South,P0012,Machines_12,Technology,Machines,2936.88,4,0.1,682.62,0.23243033423224646,0,0
+O00049,2023-10-21,2023-10-23,First Class,C0081,Customer_81,Home Office,India,Delhi,TX,578446,East,P0032,Bookcases_32,Furniture,Bookcases,2017.9,2,0.0,157.1,0.07785321373705337,2,1
+O00940,2023-10-21,2023-10-25,Standard Class,C0165,Customer_165,Consumer,USA,Mumbai,DL,488822,South,P0082,Paper_82,Office Supplies,Paper,4010.6,5,0.0,180.15,0.04491846606492794,4,0
+O00834,2023-10-22,2023-10-27,Second Class,C0034,Customer_34,Home Office,Canada,Sydney,NY,808662,Central,P0004,Chairs_4,Furniture,Chairs,1279.66,2,0.0,230.47,0.18010252723379647,5,1
+O00987,2023-10-24,2023-10-26,Same Day,C0101,Customer_101,Consumer,Australia,Bengaluru,DL,711213,East,P0051,Machines_51,Technology,Machines,7789.11,7,0.0,1290.68,0.1657031419507492,2,1
+O00197,2023-10-25,2023-10-29,Standard Class,C0244,Customer_244,Consumer,USA,Ahmedabad,DL,901480,South,P0064,Chairs_64,Furniture,Chairs,420.89,3,0.2,63.05,0.1498016108721994,4,0
+O00147,2023-10-27,2023-11-02,Standard Class,C0139,Customer_139,Consumer,UK,New York,GJ,541501,West,P0102,Storage_102,Office Supplies,Storage,3863.62,6,0.2,120.51,0.03119095563228268,6,1
+O00711,2023-10-29,2023-11-03,Standard Class,C0077,Customer_77,Corporate,Australia,Delhi,KA,870044,West,P0109,Paper_109,Office Supplies,Paper,414.53,4,0.2,-27.52,-0.0663884399199093,5,0
+O00650,2023-10-29,2023-10-29,Same Day,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0087,Chairs_87,Furniture,Chairs,2793.9,6,0.0,237.24,0.08491356168796306,0,0
+O00822,2023-10-29,2023-10-29,Same Day,C0082,Customer_82,Corporate,USA,Sydney,NSW,562052,West,P0099,Storage_99,Office Supplies,Storage,283.36,5,0.1,38.09,0.13442264257481648,0,0
+O00270,2023-10-29,2023-11-02,Standard Class,C0015,Customer_15,Consumer,USA,Bengaluru,TX,956912,West,P0017,Paper_17,Office Supplies,Paper,2569.84,4,0.0,4.62,0.0017977772935280018,4,0
+O00318,2023-10-30,2023-11-01,Second Class,C0121,Customer_121,Home Office,Australia,Vancouver,BC,840874,Central,P0004,Chairs_4,Furniture,Chairs,2956.85,5,0.0,310.76,0.10509833099413227,2,0
+O00076,2023-10-30,2023-11-02,Second Class,C0217,Customer_217,Consumer,Australia,Mumbai,GJ,517978,West,P0062,Binders_62,Office Supplies,Binders,208.78,7,0.1,39.73,0.1902960053644985,3,0
+O00792,2023-10-30,2023-11-06,Standard Class,C0045,Customer_45,Consumer,India,Vancouver,TN,688365,Central,P0021,Binders_21,Office Supplies,Binders,608.56,4,0.0,182.29,0.299543183909557,7,1
+O00145,2023-10-31,2023-11-05,Standard Class,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0118,Phones_118,Technology,Phones,1952.37,6,0.1,809.6,0.4146754969601049,5,0
+O00084,2023-10-31,2023-11-05,Standard Class,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0073,Paper_73,Office Supplies,Paper,4632.45,7,0.1,592.54,0.12791071679133073,5,0
+O00007,2023-11-01,2023-11-07,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0036,Tables_36,Furniture,Tables,5200.15,5,0.0,-203.53,-0.039139255598396205,6,1
+O00896,2023-11-01,2023-11-06,Standard Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0119,Binders_119,Office Supplies,Binders,3954.56,4,0.1,1523.31,0.3852034107460754,5,0
+O00128,2023-11-01,2023-11-03,First Class,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0112,Accessories_112,Technology,Accessories,115.83,3,0.0,31.8,0.2745402745402746,2,1
+O00040,2023-11-02,2023-11-03,Same Day,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0012,Machines_12,Technology,Machines,3062.43,5,0.3,1032.05,0.3370036213072625,1,1
+O00980,2023-11-03,2023-11-08,Standard Class,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0021,Binders_21,Office Supplies,Binders,5732.65,5,0.0,844.76,0.14735942365223764,5,0
+O00513,2023-11-04,2023-11-04,First Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0071,Tables_71,Furniture,Tables,633.16,4,0.0,-11.94,-0.018857792659043526,0,0
+O00053,2023-11-04,2023-11-05,Same Day,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0041,Binders_41,Office Supplies,Binders,3910.41,7,0.1,698.85,0.17871527538033097,1,1
+O00319,2023-11-07,2023-11-08,First Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0043,Accessories_43,Technology,Accessories,633.79,1,0.0,178.82,0.2821439277994288,1,0
+O00067,2023-11-07,2023-11-09,First Class,C0059,Customer_59,Consumer,Canada,Houston,TX,402950,Central,P0097,Phones_97,Technology,Phones,857.48,2,0.0,111.99,0.1306036292391659,2,1
+O00368,2023-11-07,2023-11-13,Standard Class,C0188,Customer_188,Corporate,India,Chennai,TX,129402,Central,P0018,Accessories_18,Technology,Accessories,3538.77,7,0.1,340.7,0.09627638981906142,6,1
+O00194,2023-11-08,2023-11-14,Standard Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0098,Chairs_98,Furniture,Chairs,568.16,2,0.0,91.49,0.16102858349760632,6,1
+O00836,2023-11-09,2023-11-14,Standard Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0109,Paper_109,Office Supplies,Paper,4791.35,5,0.0,-108.22,-0.022586536153693635,5,0
+O00887,2023-11-09,2023-11-10,Same Day,C0203,Customer_203,Consumer,UK,New York,TX,579361,Central,P0055,Tables_55,Furniture,Tables,1883.58,3,0.0,329.3,0.17482665987109655,1,1
+O00889,2023-11-10,2023-11-11,Same Day,C0224,Customer_224,Consumer,USA,Chennai,MH,745188,West,P0109,Paper_109,Office Supplies,Paper,1099.28,7,0.0,147.79,0.13444254421075613,1,1
+O00721,2023-11-10,2023-11-15,Second Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0087,Chairs_87,Furniture,Chairs,356.76,6,0.0,149.29,0.41846058975221434,5,1
+O00777,2023-11-10,2023-11-16,Standard Class,C0029,Customer_29,Corporate,India,Houston,MH,535165,South,P0073,Paper_73,Office Supplies,Paper,159.44,1,0.0,34.0,0.21324636226793778,6,1
+O00374,2023-11-12,2023-11-17,Standard Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0090,Accessories_90,Technology,Accessories,2598.69,7,0.1,445.9,0.17158645317448407,5,0
+O00770,2023-11-15,2023-11-22,Standard Class,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0019,Bookcases_19,Furniture,Bookcases,1446.48,2,0.0,40.78,0.028192577844145788,7,1
+O00589,2023-11-16,2023-11-20,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0020,Paper_20,Office Supplies,Paper,406.82,1,0.2,76.52,0.18809301410943413,4,0
+O00259,2023-11-16,2023-11-22,Standard Class,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0025,Tables_25,Furniture,Tables,6244.92,6,0.0,1025.6,0.16422948572599808,6,1
+O00342,2023-11-17,2023-11-21,Standard Class,C0089,Customer_89,Home Office,Australia,New York,TN,427073,West,P0029,Binders_29,Office Supplies,Binders,3337.36,7,0.1,670.97,0.201048133854304,4,0
+O00163,2023-11-20,2023-11-24,Standard Class,C0178,Customer_178,Consumer,UK,Ahmedabad,TN,752665,East,P0083,Phones_83,Technology,Phones,1047.02,4,0.1,0.0,0.0,4,0
+O00100,2023-11-20,2023-11-27,Standard Class,C0081,Customer_81,Home Office,India,Delhi,TX,578446,East,P0087,Chairs_87,Furniture,Chairs,2859.9,5,0.0,580.67,0.20303856778209026,7,1
+O00150,2023-11-22,2023-11-25,First Class,C0095,Customer_95,Corporate,India,Vancouver,TX,999885,East,P0043,Accessories_43,Technology,Accessories,6877.22,7,0.0,887.79,0.12909140612049635,3,1
+O00906,2023-11-23,2023-11-26,Second Class,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0069,Tables_69,Furniture,Tables,3119.1,3,0.0,855.01,0.2741207399570389,3,0
+O00136,2023-11-24,2023-11-29,Standard Class,C0136,Customer_136,Consumer,UK,Bengaluru,MH,881817,South,P0108,Paper_108,Office Supplies,Paper,1060.31,1,0.0,27.08,0.025539700653582444,5,0
+O00453,2023-11-25,2023-11-27,Same Day,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0092,Storage_92,Office Supplies,Storage,1467.72,5,0.2,0.2,0.00013626577276319734,2,1
+O00599,2023-11-25,2023-11-29,Standard Class,C0067,Customer_67,Consumer,India,Vancouver,KA,912831,South,P0047,Tables_47,Furniture,Tables,3027.01,4,0.2,350.13,0.1156685970644299,4,0
+O00114,2023-11-27,2023-12-01,Standard Class,C0158,Customer_158,Corporate,USA,Vancouver,BC,413837,East,P0046,Chairs_46,Furniture,Chairs,7314.44,7,0.0,2509.77,0.3431253793865286,4,0
+O00016,2023-11-30,2023-12-03,First Class,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0089,Bookcases_89,Furniture,Bookcases,220.59,1,0.3,9.58,0.04342898590144612,3,1
+O00166,2023-11-30,2023-12-02,First Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0072,Tables_72,Furniture,Tables,1427.96,7,0.1,47.48,0.03325023109891033,2,1
+O00054,2023-12-02,2023-12-08,Standard Class,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0054,Bookcases_54,Furniture,Bookcases,6029.1,7,0.0,1359.66,0.22551624620590138,6,1
+O00759,2023-12-02,2023-12-07,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0001,Machines_1,Technology,Machines,917.28,2,0.0,198.93,0.2168694400837258,5,0
+O00408,2023-12-02,2023-12-05,Second Class,C0065,Customer_65,Consumer,USA,Delhi,NY,837334,West,P0117,Storage_117,Office Supplies,Storage,5333.58,7,0.0,1040.49,0.19508285241807566,3,0
+O00157,2023-12-02,2023-12-05,First Class,C0085,Customer_85,Consumer,Australia,Ahmedabad,NSW,779520,East,P0052,Paper_52,Office Supplies,Paper,2796.75,5,0.1,301.36,0.10775364262089926,3,1
+O00595,2023-12-03,2023-12-07,Second Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0074,Paper_74,Office Supplies,Paper,76.92,3,0.2,-0.65,-0.00845033801352054,4,1
+O00504,2023-12-04,2023-12-09,Standard Class,C0071,Customer_71,Corporate,USA,Vancouver,MH,997336,West,P0067,Bookcases_67,Furniture,Bookcases,619.16,5,0.1,93.22,0.15055882162930423,5,0
+O00360,2023-12-07,2023-12-13,Standard Class,C0093,Customer_93,Corporate,UK,Ahmedabad,MH,525037,South,P0030,Paper_30,Office Supplies,Paper,4342.27,6,0.2,971.35,0.22369636158046366,6,1
+O00057,2023-12-07,2023-12-13,Standard Class,C0152,Customer_152,Consumer,UK,Delhi,TN,862092,West,P0098,Chairs_98,Furniture,Chairs,134.57,7,0.1,25.11,0.18659433751950658,6,1
+O00851,2023-12-08,2023-12-11,First Class,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0101,Binders_101,Office Supplies,Binders,2790.21,3,0.0,432.18,0.15489156730138592,3,1
+O00302,2023-12-08,2023-12-15,Standard Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0010,Binders_10,Office Supplies,Binders,2176.06,4,0.1,205.71,0.09453323897319009,7,1
+O00373,2023-12-08,2023-12-15,Standard Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0058,Accessories_58,Technology,Accessories,1006.61,1,0.1,47.07,0.04676091038237252,7,1
+O00149,2023-12-09,2023-12-10,Same Day,C0171,Customer_171,Corporate,Australia,Sydney,NY,585417,South,P0045,Machines_45,Technology,Machines,2047.4,2,0.0,197.37,0.09640031259157957,1,1
+O00939,2023-12-10,2023-12-12,Same Day,C0047,Customer_47,Consumer,USA,Mumbai,NY,803662,East,P0072,Tables_72,Furniture,Tables,2150.62,2,0.1,198.72,0.09240126103170249,2,1
+O00116,2023-12-10,2023-12-15,Second Class,C0057,Customer_57,Consumer,Canada,Houston,BC,676775,Central,P0065,Storage_65,Office Supplies,Storage,3433.32,4,0.0,-71.89,-0.02093891626763599,5,1
+O00184,2023-12-11,2023-12-17,Standard Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0079,Binders_79,Office Supplies,Binders,2992.14,5,0.1,342.72,0.11454009504902847,6,1
+O00661,2023-12-11,2023-12-15,Standard Class,C0094,Customer_94,Corporate,Australia,Sydney,BC,830399,South,P0108,Paper_108,Office Supplies,Paper,3377.44,4,0.0,909.96,0.2694229949310721,4,0
+O00442,2023-12-11,2023-12-15,Standard Class,C0189,Customer_189,Consumer,UK,Houston,NY,104263,West,P0025,Tables_25,Furniture,Tables,418.53,1,0.0,128.95,0.30810216710868993,4,0
+O00078,2023-12-11,2023-12-11,First Class,C0016,Customer_16,Consumer,India,San Francisco,MH,670451,South,P0032,Bookcases_32,Furniture,Bookcases,2717.01,6,0.1,853.9,0.31427929967132984,0,0
+O00335,2023-12-14,2023-12-14,Same Day,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0116,Binders_116,Office Supplies,Binders,5818.45,5,0.0,372.0,0.06393455301669689,0,0
+O00824,2023-12-15,2023-12-19,Second Class,C0148,Customer_148,Consumer,USA,San Francisco,CA,127856,Central,P0069,Tables_69,Furniture,Tables,1641.09,3,0.0,243.54,0.1484013673838729,4,1
+O00783,2023-12-16,2023-12-23,Standard Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0080,Binders_80,Office Supplies,Binders,7233.31,7,0.0,1314.87,0.1817798490594209,7,1
+O00586,2023-12-16,2023-12-19,Second Class,C0015,Customer_15,Consumer,USA,Bengaluru,TX,956912,West,P0013,Chairs_13,Furniture,Chairs,2017.2,7,0.1,199.31,0.09880527463811223,3,0
+O00185,2023-12-16,2023-12-23,Standard Class,C0156,Customer_156,Consumer,USA,Delhi,TN,941461,Central,P0095,Tables_95,Furniture,Tables,870.25,2,0.3,135.03,0.15516230968112613,7,1
+O00188,2023-12-17,2023-12-21,Standard Class,C0147,Customer_147,Corporate,Canada,Bengaluru,KA,135954,East,P0011,Phones_11,Technology,Phones,788.72,2,0.0,82.2,0.10421949487777665,4,0
+O00618,2023-12-17,2023-12-23,Standard Class,C0193,Customer_193,Home Office,Canada,Delhi,NSW,436326,West,P0088,Accessories_88,Technology,Accessories,4890.95,5,0.0,1258.71,0.25735491060019017,6,1
+O00060,2023-12-18,2023-12-23,Standard Class,C0242,Customer_242,Home Office,USA,Vancouver,NSW,756884,South,P0027,Bookcases_27,Furniture,Bookcases,5524.12,7,0.2,22.85,0.004136405436522017,5,0
+O00587,2023-12-18,2023-12-20,Same Day,C0168,Customer_168,Consumer,Australia,Sydney,NSW,418277,Central,P0069,Tables_69,Furniture,Tables,480.44,5,0.2,95.49,0.1987553076346682,2,1
+O00284,2023-12-19,2023-12-20,First Class,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0106,Accessories_106,Technology,Accessories,1307.11,3,0.2,164.59,0.12591901217189067,1,0
+O00280,2023-12-19,2023-12-21,First Class,C0095,Customer_95,Corporate,India,Vancouver,TX,999885,East,P0120,Paper_120,Office Supplies,Paper,3303.95,5,0.0,783.72,0.23720697952450856,2,1
+O00680,2023-12-19,2023-12-26,Standard Class,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0096,Machines_96,Technology,Machines,1178.66,2,0.0,183.64,0.1558040486654336,7,1
+O00308,2023-12-20,2023-12-20,Same Day,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0091,Phones_91,Technology,Phones,601.94,6,0.1,102.66,0.17054855965710866,0,0
+O00913,2023-12-20,2023-12-20,Same Day,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0062,Binders_62,Office Supplies,Binders,6661.49,7,0.1,1559.29,0.23407525943895435,0,0
+O00829,2023-12-22,2023-12-28,Standard Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0018,Accessories_18,Technology,Accessories,93.54,1,0.1,7.02,0.0750481077613855,6,1
+O00061,2023-12-24,2023-12-30,Standard Class,C0219,Customer_219,Corporate,Australia,Chennai,NSW,328071,Central,P0116,Binders_116,Office Supplies,Binders,129.5,7,0.0,12.52,0.09667953667953667,6,1
+O00465,2023-12-25,2023-12-30,Second Class,C0020,Customer_20,Consumer,Australia,Chennai,GJ,255989,Central,P0042,Accessories_42,Technology,Accessories,27.43,1,0.0,7.46,0.27196500182282174,5,1
+O00598,2023-12-26,2023-12-27,Same Day,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0114,Phones_114,Technology,Phones,6129.9,7,0.0,1669.56,0.27236333382273775,1,1
+O00651,2023-12-26,2023-12-30,Second Class,C0248,Customer_248,Home Office,Australia,Mumbai,MH,316454,Central,P0054,Bookcases_54,Furniture,Bookcases,443.36,2,0.0,78.69,0.17748556477805846,4,1
+O00359,2023-12-27,2023-12-31,Second Class,C0102,Customer_102,Corporate,Canada,Mumbai,GJ,134911,South,P0030,Paper_30,Office Supplies,Paper,6466.39,7,0.0,995.21,0.1539050382052428,4,1
+O00086,2023-12-27,2023-12-27,Same Day,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0070,Storage_70,Office Supplies,Storage,6000.56,7,0.1,2169.59,0.36156458730518487,0,0
+O00205,2023-12-28,2024-01-04,Standard Class,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0065,Storage_65,Office Supplies,Storage,843.7,1,0.1,106.05,0.12569633756074433,7,1
+O00696,2023-12-28,2024-01-03,Standard Class,C0227,Customer_227,Home Office,UK,Sydney,KA,683417,South,P0088,Accessories_88,Technology,Accessories,1393.92,3,0.0,95.84,0.06875573921028466,6,1
+O00341,2023-12-30,2024-01-01,Second Class,C0138,Customer_138,Corporate,Canada,Mumbai,DL,356713,Central,P0028,Phones_28,Technology,Phones,1192.91,7,0.2,235.76,0.1976343563219354,2,0
+O00152,2023-12-30,2024-01-01,First Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0013,Chairs_13,Furniture,Chairs,6778.23,7,0.1,439.97,0.06490927572537374,2,1
+O00840,2023-12-30,2024-01-02,First Class,C0135,Customer_135,Home Office,UK,New York,MH,220674,South,P0105,Machines_105,Technology,Machines,379.85,5,0.0,59.93,0.15777280505462682,3,1
+O00113,2023-12-31,2024-01-05,Standard Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,681780,South,P0020,Paper_20,Office Supplies,Paper,294.56,2,0.0,49.8,0.16906572514937532,5,0
+O00573,2024-01-01,2024-01-05,Standard Class,C0094,Customer_94,Corporate,Australia,Sydney,BC,830399,South,P0046,Chairs_46,Furniture,Chairs,4089.4,5,0.0,587.8,0.14373746759915879,4,0
+O00690,2024-01-02,2024-01-08,Standard Class,C0054,Customer_54,Home Office,Canada,Sydney,TX,400709,West,P0103,Machines_103,Technology,Machines,281.84,4,0.0,57.87,0.20532926483110986,6,1
+O00012,2024-01-02,2024-01-04,Second Class,C0062,Customer_62,Consumer,Australia,Sydney,GJ,465321,South,P0080,Binders_80,Office Supplies,Binders,5741.04,6,0.0,1411.81,0.24591537421791174,2,0
+O00593,2024-01-03,2024-01-08,Standard Class,C0212,Customer_212,Corporate,UK,Sydney,TX,808362,Central,P0082,Paper_82,Office Supplies,Paper,695.6,4,0.0,90.88,0.13064979873490512,5,0
+O00610,2024-01-05,2024-01-11,Standard Class,C0211,Customer_211,Consumer,Australia,Vancouver,KA,681780,South,P0103,Machines_103,Technology,Machines,1968.01,4,0.3,440.07,0.22361166863989512,6,1
+O00897,2024-01-06,2024-01-11,Standard Class,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0070,Storage_70,Office Supplies,Storage,1194.64,2,0.0,55.34,0.04632357865130918,5,0
+O00167,2024-01-08,2024-01-11,Second Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0042,Accessories_42,Technology,Accessories,2481.24,4,0.0,799.56,0.32224210475407455,3,0
+O00264,2024-01-09,2024-01-13,Second Class,C0005,Customer_5,Consumer,USA,San Francisco,BC,932672,Central,P0036,Tables_36,Furniture,Tables,7085.1,6,0.0,1064.12,0.1501912464185403,4,1
+O00615,2024-01-09,2024-01-15,Standard Class,C0198,Customer_198,Home Office,India,Ahmedabad,MH,451707,East,P0118,Phones_118,Technology,Phones,1008.67,3,0.2,251.34,0.24917961275739342,6,1
+O00055,2024-01-10,2024-01-15,Second Class,C0205,Customer_205,Corporate,India,Ahmedabad,TX,662997,Central,P0111,Binders_111,Office Supplies,Binders,5607.26,6,0.2,988.33,0.17625899280575538,5,1
+O00956,2024-01-11,2024-01-13,First Class,C0066,Customer_66,Consumer,UK,Ahmedabad,TN,730235,South,P0006,Tables_6,Furniture,Tables,7446.74,7,0.0,1588.74,0.213347048507132,2,1
+O00203,2024-01-11,2024-01-16,Second Class,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0042,Accessories_42,Technology,Accessories,5513.94,6,0.0,1761.97,0.31954827219737614,5,1
+O00729,2024-01-12,2024-01-12,Same Day,C0124,Customer_124,Consumer,India,Chennai,DL,330785,South,P0041,Binders_41,Office Supplies,Binders,7544.82,7,0.1,505.52,0.0670022611540103,0,0
+O00607,2024-01-13,2024-01-19,Standard Class,C0196,Customer_196,Consumer,UK,Bengaluru,DL,397881,Central,P0075,Machines_75,Technology,Machines,5435.34,6,0.0,1039.26,0.19120423009416154,6,1
+O00215,2024-01-13,2024-01-19,Standard Class,C0083,Customer_83,Consumer,India,Houston,GJ,434402,West,P0011,Phones_11,Technology,Phones,3573.54,6,0.0,224.79,0.06290401114860894,6,1
+O00976,2024-01-14,2024-01-18,Second Class,C0152,Customer_152,Consumer,UK,Delhi,TN,862092,West,P0078,Accessories_78,Technology,Accessories,3080.08,5,0.2,-300.14,-0.09744552089556115,4,1
+O00466,2024-01-15,2024-01-19,Second Class,C0134,Customer_134,Consumer,Australia,New York,BC,238155,South,P0053,Accessories_53,Technology,Accessories,2212.32,2,0.0,336.91,0.15228809575468286,4,1
+O00102,2024-01-16,2024-01-18,Same Day,C0211,Customer_211,Consumer,Australia,Vancouver,KA,681780,South,P0075,Machines_75,Technology,Machines,5143.73,5,0.1,1304.24,0.25355918759343904,2,1
+O00299,2024-01-16,2024-01-20,Standard Class,C0084,Customer_84,Consumer,Australia,Delhi,CA,139986,West,P0113,Accessories_113,Technology,Accessories,2273.4,3,0.0,514.79,0.22644057359021727,4,0
+O00410,2024-01-16,2024-01-17,Same Day,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0002,Binders_2,Office Supplies,Binders,1898.69,3,0.1,215.59,0.1135467085200849,1,1
+O00738,2024-01-16,2024-01-18,First Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0006,Tables_6,Furniture,Tables,6479.04,6,0.0,529.1,0.081663332839433,2,1
+O00962,2024-01-16,2024-01-22,Standard Class,C0201,Customer_201,Corporate,Australia,New York,TN,791757,East,P0025,Tables_25,Furniture,Tables,2579.77,6,0.3,793.76,0.30768634413145357,6,1
+O00444,2024-01-17,2024-01-23,Standard Class,C0054,Customer_54,Home Office,Canada,Sydney,TX,400709,West,P0057,Storage_57,Office Supplies,Storage,726.68,1,0.0,152.92,0.21043650575218803,6,1
+O00602,2024-01-17,2024-01-22,Second Class,C0043,Customer_43,Consumer,USA,Vancouver,TX,249521,South,P0111,Binders_111,Office Supplies,Binders,2807.66,6,0.2,-131.4,-0.0468005385267447,5,1
+O00952,2024-01-18,2024-01-21,First Class,C0162,Customer_162,Corporate,Canada,San Francisco,MH,354726,South,P0010,Binders_10,Office Supplies,Binders,1337.71,3,0.2,156.19,0.1167592378019152,3,1
+O00898,2024-01-19,2024-01-22,First Class,C0024,Customer_24,Consumer,USA,Mumbai,DL,687111,East,P0067,Bookcases_67,Furniture,Bookcases,2748.75,5,0.0,148.35,0.0539699863574352,3,1
+O00051,2024-01-19,2024-01-24,Standard Class,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0044,Binders_44,Office Supplies,Binders,3561.26,6,0.2,919.93,0.25831587696489444,5,0
+O00201,2024-01-20,2024-01-24,Second Class,C0177,Customer_177,Corporate,India,New York,GJ,746117,Central,P0102,Storage_102,Office Supplies,Storage,5993.96,7,0.0,309.48,0.051631976189363965,4,1
+O00562,2024-01-20,2024-01-22,Second Class,C0197,Customer_197,Corporate,UK,Ahmedabad,BC,463476,South,P0056,Bookcases_56,Furniture,Bookcases,2351.94,2,0.0,255.77,0.10874852249632219,2,0
+O00488,2024-01-21,2024-01-25,Second Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0019,Bookcases_19,Furniture,Bookcases,732.09,3,0.0,136.35,0.1862475925091177,4,1
+O00431,2024-01-25,2024-01-30,Second Class,C0166,Customer_166,Home Office,Australia,Ahmedabad,NSW,436676,Central,P0082,Paper_82,Office Supplies,Paper,2584.77,3,0.0,768.36,0.2972643600784596,5,1
+O00579,2024-01-26,2024-01-30,Second Class,C0004,Customer_4,Corporate,UK,Mumbai,TN,318967,South,P0006,Tables_6,Furniture,Tables,2098.65,5,0.0,70.08,0.033392895432778215,4,1
+O00948,2024-01-26,2024-02-02,Standard Class,C0107,Customer_107,Consumer,India,Ahmedabad,KA,890857,West,P0045,Machines_45,Technology,Machines,253.62,1,0.0,-1.0,-0.003942906710827222,7,1
+O00417,2024-01-27,2024-02-03,Standard Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0003,Chairs_3,Furniture,Chairs,2275.76,2,0.0,404.11,0.17757144865890953,7,1
+O00716,2024-01-28,2024-02-02,Second Class,C0218,Customer_218,Corporate,Canada,Sydney,GJ,111046,West,P0040,Binders_40,Office Supplies,Binders,3223.2,5,0.0,867.44,0.2691238520724746,5,1
+O00534,2024-01-28,2024-01-31,First Class,C0031,Customer_31,Corporate,Australia,New York,NY,233554,Central,P0081,Paper_81,Office Supplies,Paper,248.49,1,0.1,71.27,0.28681234657330273,3,1
+O00511,2024-01-30,2024-01-30,Same Day,C0141,Customer_141,Home Office,India,Vancouver,TX,167642,West,P0071,Tables_71,Furniture,Tables,1167.4,4,0.0,179.84,0.15405173890697274,0,0
+O00111,2024-02-01,2024-02-08,Standard Class,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0016,Accessories_16,Technology,Accessories,258.12,3,0.0,13.61,0.05272741360607469,7,1
+O00528,2024-02-01,2024-02-08,Standard Class,C0173,Customer_173,Consumer,India,Chennai,TX,288456,East,P0056,Bookcases_56,Furniture,Bookcases,3394.5,6,0.0,332.49,0.09794962439239947,7,1
+O00647,2024-02-01,2024-02-03,Second Class,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0080,Binders_80,Office Supplies,Binders,4746.56,5,0.1,779.16,0.16415256522618485,2,0
+O00876,2024-02-03,2024-02-09,Standard Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0078,Accessories_78,Technology,Accessories,4405.28,4,0.0,629.21,0.142830875676461,6,1
+O00800,2024-02-03,2024-02-04,First Class,C0221,Customer_221,Corporate,Australia,Houston,NY,808662,West,P0106,Accessories_106,Technology,Accessories,4703.38,6,0.2,1109.79,0.23595584452032367,1,0
+O00160,2024-02-03,2024-02-08,Second Class,C0056,Customer_56,Home Office,Australia,New York,KA,286240,West,P0109,Paper_109,Office Supplies,Paper,2548.59,3,0.0,340.61,0.133646447643599,5,1
+O00577,2024-02-03,2024-02-06,First Class,C0238,Customer_238,Consumer,Australia,Sydney,BC,166017,West,P0026,Storage_26,Office Supplies,Storage,3039.64,4,0.0,481.51,0.15841020647181903,3,1
+O00394,2024-02-03,2024-02-05,Same Day,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0012,Machines_12,Technology,Machines,2424.96,4,0.0,169.22,0.06978259435207179,2,1
+O00808,2024-02-04,2024-02-06,First Class,C0231,Customer_231,Corporate,USA,Sydney,GJ,738418,Central,P0073,Paper_73,Office Supplies,Paper,488.28,1,0.1,99.48,0.20373556156303763,2,1
+O00459,2024-02-04,2024-02-06,First Class,C0217,Customer_217,Consumer,Australia,Mumbai,GJ,517978,West,P0045,Machines_45,Technology,Machines,3795.28,5,0.2,882.4,0.23249931493855525,2,1
+O00857,2024-02-04,2024-02-07,First Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0012,Machines_12,Technology,Machines,4983.6,6,0.0,1025.05,0.2056846456376916,3,1
+O00328,2024-02-04,2024-02-08,Standard Class,C0196,Customer_196,Consumer,UK,Bengaluru,DL,397881,Central,P0061,Bookcases_61,Furniture,Bookcases,4722.54,7,0.1,740.04,0.15670380769670558,4,0
+O00795,2024-02-05,2024-02-05,Same Day,C0034,Customer_34,Home Office,Canada,Sydney,NY,783889,Central,P0105,Machines_105,Technology,Machines,460.4,2,0.1,60.49,0.13138575152041704,0,0
+O00625,2024-02-06,2024-02-13,Standard Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0023,Bookcases_23,Furniture,Bookcases,3880.15,5,0.0,454.94,0.11724804453436079,7,1
+O00490,2024-02-09,2024-02-12,First Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0008,Machines_8,Technology,Machines,1018.76,4,0.0,278.99,0.2738525266009659,3,1
+O00395,2024-02-09,2024-02-13,Standard Class,C0162,Customer_162,Corporate,Canada,San Francisco,MH,697794,South,P0118,Phones_118,Technology,Phones,3112.16,5,0.1,581.06,0.18670633900570663,4,0
+O00710,2024-02-09,2024-02-09,Same Day,C0188,Customer_188,Corporate,India,Chennai,TX,129402,Central,P0117,Storage_117,Office Supplies,Storage,2254.9,5,0.1,420.87,0.18664685795378952,0,0
+O00745,2024-02-09,2024-02-14,Standard Class,C0118,Customer_118,Consumer,USA,Bengaluru,KA,360910,South,P0119,Binders_119,Office Supplies,Binders,43.33,1,0.2,3.87,0.08931456265866605,5,0
+O00772,2024-02-10,2024-02-10,Same Day,C0064,Customer_64,Consumer,Canada,Sydney,NSW,283675,South,P0083,Phones_83,Technology,Phones,1831.12,2,0.2,544.01,0.2970913976145747,0,0
+O00347,2024-02-10,2024-02-15,Second Class,C0203,Customer_203,Consumer,UK,New York,TX,579361,Central,P0031,Bookcases_31,Furniture,Bookcases,6708.02,7,0.2,1313.16,0.19575970256498937,5,1
+O00371,2024-02-10,2024-02-15,Standard Class,C0011,Customer_11,Consumer,USA,New York,TN,247313,East,P0071,Tables_71,Furniture,Tables,337.45,1,0.0,104.83,0.3106534301377982,5,0
+O00155,2024-02-11,2024-02-11,Same Day,C0221,Customer_221,Corporate,Australia,Houston,NY,808662,West,P0086,Machines_86,Technology,Machines,174.74,4,0.1,43.19,0.2471672198695204,0,0
+O00672,2024-02-11,2024-02-17,Standard Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0006,Tables_6,Furniture,Tables,5019.14,7,0.0,569.56,0.11347760771765679,6,1
+O00364,2024-02-11,2024-02-11,Same Day,C0240,Customer_240,Consumer,USA,Bengaluru,TN,788281,West,P0108,Paper_108,Office Supplies,Paper,138.3,2,0.2,45.79,0.3310918293564714,0,0
+O00848,2024-02-12,2024-02-17,Second Class,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0117,Storage_117,Office Supplies,Storage,4466.28,7,0.0,225.04,0.05038645136444648,5,1
+O00565,2024-02-12,2024-02-18,Standard Class,C0167,Customer_167,Consumer,UK,Chennai,GJ,444138,Central,P0111,Binders_111,Office Supplies,Binders,389.82,6,0.0,13.87,0.035580524344569285,6,1
+O00687,2024-02-17,2024-02-17,Same Day,C0121,Customer_121,Home Office,Australia,Vancouver,BC,840874,Central,P0097,Phones_97,Technology,Phones,2779.3,5,0.0,-268.54,-0.09662145144460836,0,0
+O00631,2024-02-18,2024-02-22,Second Class,C0014,Customer_14,Consumer,USA,Sydney,TX,346726,East,P0055,Tables_55,Furniture,Tables,2542.92,3,0.2,615.9,0.24220187815582084,4,1
+O00850,2024-02-18,2024-02-25,Standard Class,C0189,Customer_189,Consumer,UK,Houston,NY,104263,West,P0099,Storage_99,Office Supplies,Storage,1878.74,2,0.2,400.83,0.21335043699500728,7,1
+O00071,2024-02-18,2024-02-18,Same Day,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0017,Paper_17,Office Supplies,Paper,1154.08,1,0.0,182.13,0.1578140163593512,0,0
+O00553,2024-02-20,2024-02-24,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0078,Accessories_78,Technology,Accessories,681.49,2,0.2,137.74,0.20211595181147193,4,0
+O00127,2024-02-21,2024-02-25,Standard Class,C0009,Customer_9,Corporate,UK,New York,BC,643385,East,P0029,Binders_29,Office Supplies,Binders,3033.47,4,0.2,1014.43,0.33441240559491275,4,0
+O00727,2024-02-22,2024-02-22,Same Day,C0063,Customer_63,Home Office,USA,Houston,NY,962061,East,P0017,Paper_17,Office Supplies,Paper,1172.32,4,0.2,282.0,0.24054865565715847,0,0
+O00370,2024-02-23,2024-02-28,Second Class,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0053,Accessories_53,Technology,Accessories,2273.58,2,0.0,523.86,0.23041194943657142,5,1
+O00249,2024-02-23,2024-02-27,Second Class,C0034,Customer_34,Home Office,Canada,Sydney,NY,233554,Central,P0105,Machines_105,Technology,Machines,898.46,1,0.0,86.77,0.09657636400062328,4,1
+O00177,2024-02-24,2024-02-24,First Class,C0049,Customer_49,Consumer,Canada,New York,TN,237717,Central,P0020,Paper_20,Office Supplies,Paper,850.73,2,0.1,134.72,0.15835811597098962,0,0
+O00468,2024-02-24,2024-02-26,First Class,C0059,Customer_59,Consumer,Canada,Houston,TX,402950,Central,P0059,Paper_59,Office Supplies,Paper,1098.08,4,0.0,2.84,0.002586332507649716,2,1
+O00678,2024-02-25,2024-02-27,First Class,C0173,Customer_173,Consumer,India,Chennai,TX,288456,East,P0107,Machines_107,Technology,Machines,1999.5,2,0.0,380.38,0.19023755938984746,2,1
+O00524,2024-02-26,2024-02-26,First Class,C0220,Customer_220,Home Office,India,Mumbai,TN,478165,Central,P0107,Machines_107,Technology,Machines,2319.7,5,0.1,276.72,0.11929128766650862,0,0
+O00470,2024-02-26,2024-03-04,Standard Class,C0242,Customer_242,Home Office,USA,Vancouver,NSW,756884,South,P0039,Paper_39,Office Supplies,Paper,4534.65,5,0.0,1760.1,0.3881446197611723,7,1
+O00496,2024-02-27,2024-03-05,Standard Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0051,Machines_51,Technology,Machines,1259.7,2,0.0,248.35,0.19715011510677144,7,1
+O00917,2024-02-27,2024-02-27,First Class,C0049,Customer_49,Consumer,Canada,New York,TN,237717,Central,P0068,Tables_68,Furniture,Tables,1231.42,2,0.2,202.23,0.16422504100956617,0,0
+O00900,2024-02-29,2024-02-29,Same Day,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0099,Storage_99,Office Supplies,Storage,5525.6,7,0.1,827.31,0.14972310699290572,0,0
+O00535,2024-02-29,2024-03-06,Standard Class,C0003,Customer_3,Corporate,India,Chennai,MH,906388,South,P0060,Binders_60,Office Supplies,Binders,1029.95,1,0.0,151.63,0.14722073887081896,6,1
+O00286,2024-02-29,2024-03-06,Standard Class,C0087,Customer_87,Corporate,Australia,Houston,TX,725646,East,P0053,Accessories_53,Technology,Accessories,5023.26,5,0.1,1447.87,0.28823313943534673,6,1
+O00883,2024-03-01,2024-03-08,Standard Class,C0140,Customer_140,Home Office,India,Ahmedabad,TX,643351,East,P0031,Bookcases_31,Furniture,Bookcases,728.52,2,0.3,261.6,0.35908417064733983,7,1
+O00820,2024-03-01,2024-03-04,First Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0016,Accessories_16,Technology,Accessories,1123.87,3,0.2,335.28,0.29832631888029754,3,1
+O00978,2024-03-02,2024-03-02,First Class,C0155,Customer_155,Home Office,Australia,Bengaluru,CA,123752,West,P0090,Accessories_90,Technology,Accessories,1105.55,1,0.0,62.3,0.05635204197006015,0,0
+O00070,2024-03-02,2024-03-08,Standard Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0099,Storage_99,Office Supplies,Storage,633.32,4,0.0,149.92,0.23672077306890668,6,1
+O00153,2024-03-02,2024-03-09,Standard Class,C0160,Customer_160,Corporate,UK,Mumbai,GJ,942393,South,P0060,Binders_60,Office Supplies,Binders,44.44,1,0.0,0.0,0.0,7,1
+O00046,2024-03-02,2024-03-02,Same Day,C0020,Customer_20,Consumer,Australia,Chennai,GJ,255989,Central,P0061,Bookcases_61,Furniture,Bookcases,1217.73,4,0.2,254.48,0.20897900191339622,0,0
+O00048,2024-03-03,2024-03-08,Second Class,C0205,Customer_205,Corporate,India,Ahmedabad,TX,662997,Central,P0046,Chairs_46,Furniture,Chairs,973.23,2,0.2,132.3,0.1359390894238772,5,1
+O00291,2024-03-03,2024-03-07,Standard Class,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0064,Chairs_64,Furniture,Chairs,1070.78,2,0.2,16.28,0.015203870076019352,4,0
+O00384,2024-03-04,2024-03-08,Standard Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0019,Bookcases_19,Furniture,Bookcases,4018.25,5,0.0,862.31,0.21459839482361723,4,0
+O00247,2024-03-07,2024-03-09,First Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0092,Storage_92,Office Supplies,Storage,2097.4,5,0.2,259.73,0.1238342710021932,2,1
+O00781,2024-03-07,2024-03-11,Second Class,C0063,Customer_63,Home Office,USA,Houston,NY,962061,East,P0097,Phones_97,Technology,Phones,4924.45,5,0.0,350.28,0.07113078617916721,4,1
+O00564,2024-03-10,2024-03-12,First Class,C0221,Customer_221,Corporate,Australia,Houston,NY,808662,West,P0032,Bookcases_32,Furniture,Bookcases,390.62,2,0.1,19.57,0.050099841277968356,2,1
+O00635,2024-03-10,2024-03-14,Standard Class,C0233,Customer_233,Corporate,India,Bengaluru,NSW,771210,East,P0059,Paper_59,Office Supplies,Paper,3602.52,5,0.1,881.08,0.2445732431742225,4,0
+O00934,2024-03-10,2024-03-12,First Class,C0077,Customer_77,Corporate,Australia,Delhi,KA,870044,West,P0016,Accessories_16,Technology,Accessories,1745.0,2,0.0,192.05,0.11005730659025789,2,1
+O00576,2024-03-11,2024-03-17,Standard Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0067,Bookcases_67,Furniture,Bookcases,1852.66,2,0.0,128.04,0.06911143976768537,6,1
+O00667,2024-03-11,2024-03-17,Standard Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0104,Machines_104,Technology,Machines,264.8,2,0.2,0.0,0.0,6,1
+O00523,2024-03-11,2024-03-11,First Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0010,Binders_10,Office Supplies,Binders,638.28,4,0.1,91.22,0.1429153349627123,0,0
+O00411,2024-03-11,2024-03-16,Second Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0052,Paper_52,Office Supplies,Paper,3294.84,4,0.0,728.08,0.2209758288718117,5,1
+O00974,2024-03-11,2024-03-15,Standard Class,C0124,Customer_124,Consumer,India,Chennai,DL,330785,South,P0038,Storage_38,Office Supplies,Storage,2159.68,2,0.1,415.31,0.19230163727959698,4,0
+O00728,2024-03-12,2024-03-12,First Class,C0232,Customer_232,Consumer,Canada,Houston,BC,560514,Central,P0028,Phones_28,Technology,Phones,2309.58,7,0.0,-8.77,-0.0037972272014825206,0,0
+O00235,2024-03-14,2024-03-19,Standard Class,C0166,Customer_166,Home Office,Australia,Ahmedabad,NSW,436676,Central,P0118,Phones_118,Technology,Phones,6087.69,7,0.0,1399.6,0.22990658197115818,5,0
+O00869,2024-03-16,2024-03-18,Second Class,C0167,Customer_167,Consumer,UK,Chennai,GJ,444138,Central,P0103,Machines_103,Technology,Machines,101.18,1,0.0,6.91,0.06829412927456019,2,0
+O00257,2024-03-16,2024-03-22,Standard Class,C0148,Customer_148,Consumer,USA,San Francisco,CA,127856,Central,P0057,Storage_57,Office Supplies,Storage,501.75,2,0.1,-5.78,-0.011519681116093673,6,1
+O00584,2024-03-17,2024-03-18,First Class,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0094,Binders_94,Office Supplies,Binders,940.26,1,0.0,95.82,0.10190798289834727,1,0
+O00313,2024-03-17,2024-03-18,First Class,C0207,Customer_207,Consumer,Canada,Sydney,MH,250322,Central,P0053,Accessories_53,Technology,Accessories,3668.63,7,0.0,376.7,0.10268138242341146,1,0
+O00196,2024-03-20,2024-03-25,Standard Class,C0115,Customer_115,Corporate,USA,Ahmedabad,GJ,262491,South,P0019,Bookcases_19,Furniture,Bookcases,3951.56,4,0.0,950.74,0.24059864964722794,5,0
+O00899,2024-03-20,2024-03-25,Second Class,C0004,Customer_4,Corporate,UK,Mumbai,TN,318967,South,P0058,Accessories_58,Technology,Accessories,276.4,5,0.0,7.05,0.025506512301013026,5,1
+O00322,2024-03-21,2024-03-25,Standard Class,C0113,Customer_113,Home Office,USA,Ahmedabad,GJ,244931,West,P0004,Chairs_4,Furniture,Chairs,4593.5,6,0.3,517.86,0.11273756394905846,4,0
+O00966,2024-03-22,2024-03-26,Standard Class,C0226,Customer_226,Consumer,Australia,New York,CA,515008,East,P0024,Storage_24,Office Supplies,Storage,1781.22,6,0.0,154.73,0.08686742794264604,4,0
+O00430,2024-03-22,2024-03-22,First Class,C0145,Customer_145,Consumer,Australia,Ahmedabad,NY,807280,West,P0068,Tables_68,Furniture,Tables,806.16,1,0.2,126.69,0.15715242631735635,0,0
+O00703,2024-03-24,2024-03-29,Second Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0050,Tables_50,Furniture,Tables,749.34,2,0.0,67.98,0.09071983345343902,5,1
+O00554,2024-03-24,2024-03-31,Standard Class,C0057,Customer_57,Consumer,Canada,Houston,BC,676775,Central,P0028,Phones_28,Technology,Phones,385.71,1,0.0,98.27,0.2547769049285733,7,1
+O00361,2024-03-24,2024-03-30,Standard Class,C0197,Customer_197,Corporate,UK,Ahmedabad,BC,463476,South,P0022,Phones_22,Technology,Phones,4971.12,7,0.0,237.86,0.04784837219781458,6,1
+O00137,2024-03-25,2024-03-27,Second Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0076,Binders_76,Office Supplies,Binders,376.2,3,0.0,117.83,0.31321105794790005,2,0
+O00200,2024-03-27,2024-03-28,First Class,C0218,Customer_218,Corporate,Canada,Sydney,GJ,111046,West,P0116,Binders_116,Office Supplies,Binders,2049.73,2,0.1,483.31,0.23579203114556552,1,0
+O00315,2024-03-28,2024-03-29,Same Day,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0034,Machines_34,Technology,Machines,544.38,2,0.0,112.86,0.20731841728204564,1,1
+O00138,2024-03-29,2024-04-05,Standard Class,C0155,Customer_155,Home Office,Australia,Bengaluru,CA,123752,West,P0084,Storage_84,Office Supplies,Storage,213.61,4,0.3,34.8,0.16291372126773088,7,1
+O00108,2024-03-29,2024-04-03,Standard Class,C0108,Customer_108,Corporate,Australia,Ahmedabad,MH,354726,East,P0029,Binders_29,Office Supplies,Binders,1085.18,2,0.0,73.66,0.06787814003206841,5,0
+O00999,2024-03-29,2024-04-04,Standard Class,C0216,Customer_216,Consumer,UK,Houston,MH,322320,East,P0072,Tables_72,Furniture,Tables,1366.46,2,0.0,136.61,0.09997365455263968,6,1
+O00117,2024-03-30,2024-03-31,First Class,C0052,Customer_52,Corporate,Australia,San Francisco,NY,651025,East,P0058,Accessories_58,Technology,Accessories,2387.8,5,0.0,107.7,0.04510428009045984,1,0
+O00250,2024-03-30,2024-04-04,Second Class,C0067,Customer_67,Consumer,India,Vancouver,KA,912831,South,P0087,Chairs_87,Furniture,Chairs,39.98,2,0.2,-10.25,-0.2563781890945473,5,1
+O00483,2024-03-30,2024-04-05,Standard Class,C0019,Customer_19,Consumer,UK,Sydney,BC,414997,Central,P0012,Machines_12,Technology,Machines,227.94,3,0.0,-12.14,-0.05325962972712118,6,1
+O00348,2024-03-31,2024-04-06,Standard Class,C0061,Customer_61,Consumer,Canada,Chennai,KA,178623,East,P0004,Chairs_4,Furniture,Chairs,396.8,4,0.0,87.98,0.22172379032258066,6,1
+O00449,2024-04-01,2024-04-07,Standard Class,C0245,Customer_245,Consumer,USA,Sydney,CA,793264,East,P0014,Bookcases_14,Furniture,Bookcases,972.94,1,0.0,250.26,0.25722038357966576,6,1
+O00186,2024-04-03,2024-04-07,Standard Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0055,Tables_55,Furniture,Tables,748.12,1,0.1,103.21,0.13795915093835212,4,0
+O00267,2024-04-03,2024-04-06,First Class,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0035,Chairs_35,Furniture,Chairs,507.92,7,0.0,100.33,0.19753110726098597,3,1
+O00350,2024-04-04,2024-04-06,Second Class,C0005,Customer_5,Consumer,USA,San Francisco,BC,932672,Central,P0017,Paper_17,Office Supplies,Paper,3467.8,7,0.0,808.04,0.23301228444546973,2,0
+O00675,2024-04-05,2024-04-11,Standard Class,C0085,Customer_85,Consumer,Australia,Ahmedabad,NSW,779520,East,P0064,Chairs_64,Furniture,Chairs,385.92,4,0.1,8.79,0.022776741293532334,6,1
+O00388,2024-04-06,2024-04-11,Standard Class,C0201,Customer_201,Corporate,Australia,New York,TN,791757,East,P0101,Binders_101,Office Supplies,Binders,4825.69,7,0.2,411.66,0.08530593552424628,5,0
+O00666,2024-04-07,2024-04-08,Same Day,C0078,Customer_78,Consumer,India,Bengaluru,MH,436199,West,P0026,Storage_26,Office Supplies,Storage,1070.78,2,0.0,283.19,0.26447075963316463,1,1
+O00600,2024-04-07,2024-04-09,First Class,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0063,Paper_63,Office Supplies,Paper,540.02,2,0.1,164.71,0.30500722195474245,2,1
+O00671,2024-04-07,2024-04-10,Second Class,C0010,Customer_10,Corporate,USA,Bengaluru,DL,765755,South,P0065,Storage_65,Office Supplies,Storage,58.81,6,0.1,3.75,0.06376466587315083,3,0
+O00448,2024-04-07,2024-04-11,Standard Class,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0095,Tables_95,Furniture,Tables,3820.13,6,0.2,172.46,0.04514506050841202,4,0
+O00508,2024-04-09,2024-04-12,Second Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0078,Accessories_78,Technology,Accessories,2019.24,2,0.0,370.93,0.18369782690517225,3,0
+O00399,2024-04-10,2024-04-16,Standard Class,C0089,Customer_89,Home Office,Australia,New York,TN,427073,West,P0009,Paper_9,Office Supplies,Paper,540.92,1,0.0,121.5,0.2246173186423131,6,1
+O00663,2024-04-10,2024-04-14,Standard Class,C0127,Customer_127,Home Office,Canada,Houston,CA,307990,West,P0119,Binders_119,Office Supplies,Binders,6569.76,6,0.0,260.55,0.03965898297654709,4,0
+O00367,2024-04-10,2024-04-11,First Class,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0036,Tables_36,Furniture,Tables,3094.23,3,0.0,0.0,0.0,1,0
+O00551,2024-04-11,2024-04-16,Second Class,C0103,Customer_103,Consumer,USA,Ahmedabad,TX,166358,East,P0013,Chairs_13,Furniture,Chairs,100.87,7,0.0,3.87,0.038366213938733025,5,1
+O00438,2024-04-11,2024-04-11,Same Day,C0110,Customer_110,Consumer,USA,Bengaluru,NY,626486,East,P0066,Chairs_66,Furniture,Chairs,913.49,1,0.0,207.64,0.2273040755782767,0,0
+O00441,2024-04-11,2024-04-16,Second Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0042,Accessories_42,Technology,Accessories,558.24,1,0.1,59.58,0.10672828890799656,5,1
+O00998,2024-04-12,2024-04-13,First Class,C0146,Customer_146,Consumer,Australia,Delhi,NY,783889,East,P0063,Paper_63,Office Supplies,Paper,2516.12,4,0.0,339.14,0.13478689410679937,1,0
+O00744,2024-04-13,2024-04-16,Second Class,C0028,Customer_28,Consumer,USA,Vancouver,BC,881452,Central,P0003,Chairs_3,Furniture,Chairs,3019.58,6,0.2,428.76,0.14199325734042484,3,0
+O00165,2024-04-14,2024-04-18,Standard Class,C0165,Customer_165,Consumer,USA,Mumbai,DL,488822,South,P0116,Binders_116,Office Supplies,Binders,184.51,1,0.2,26.96,0.14611674164001953,4,0
+O00309,2024-04-15,2024-04-18,Second Class,C0250,Customer_250,Home Office,Australia,New York,NY,707847,South,P0052,Paper_52,Office Supplies,Paper,5203.8,5,0.0,-42.58,-0.008182482032360966,3,0
+O00495,2024-04-15,2024-04-15,Same Day,C0160,Customer_160,Corporate,UK,Mumbai,GJ,942393,South,P0004,Chairs_4,Furniture,Chairs,945.48,4,0.0,226.52,0.23958201125354317,0,0
+O00880,2024-04-16,2024-04-22,Standard Class,C0154,Customer_154,Consumer,USA,Delhi,TN,422918,South,P0119,Binders_119,Office Supplies,Binders,4938.96,6,0.0,988.37,0.20011702868620115,6,1
+O00126,2024-04-17,2024-04-23,Standard Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0008,Machines_8,Technology,Machines,4525.68,5,0.2,878.85,0.19419181205918226,6,1
+O00708,2024-04-17,2024-04-23,Standard Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0091,Phones_91,Technology,Phones,4670.72,4,0.0,141.06,0.030200911208550285,6,1
+O00986,2024-04-20,2024-04-26,Standard Class,C0012,Customer_12,Home Office,UK,San Francisco,NY,990324,South,P0072,Tables_72,Furniture,Tables,923.06,1,0.0,-31.24,-0.033843953805819775,6,1
+O00791,2024-04-20,2024-04-26,Standard Class,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0006,Tables_6,Furniture,Tables,94.6,2,0.0,10.04,0.10613107822410148,6,1
+O00316,2024-04-21,2024-04-25,Standard Class,C0021,Customer_21,Corporate,USA,Houston,NY,721019,South,P0004,Chairs_4,Furniture,Chairs,212.53,2,0.2,6.44,0.03030160447936762,4,0
+O00787,2024-04-25,2024-05-02,Standard Class,C0146,Customer_146,Consumer,Australia,Delhi,NY,783889,East,P0018,Accessories_18,Technology,Accessories,1550.48,2,0.0,77.25,0.049823280532480266,7,1
+O00355,2024-04-25,2024-04-29,Second Class,C0037,Customer_37,Consumer,USA,Ahmedabad,TX,841804,South,P0048,Chairs_48,Furniture,Chairs,1901.52,2,0.1,159.71,0.08399070217510203,4,1
+O00109,2024-04-26,2024-04-27,Same Day,C0223,Customer_223,Consumer,USA,Bengaluru,BC,366997,South,P0054,Bookcases_54,Furniture,Bookcases,1581.66,2,0.1,255.37,0.1614569502927304,1,1
+O00416,2024-04-26,2024-04-27,Same Day,C0209,Customer_209,Consumer,USA,Mumbai,BC,635843,South,P0018,Accessories_18,Technology,Accessories,974.74,2,0.0,55.37,0.05680489156082647,1,1
+O00478,2024-04-27,2024-05-02,Standard Class,C0135,Customer_135,Home Office,UK,New York,MH,220674,South,P0092,Storage_92,Office Supplies,Storage,4457.36,4,0.0,728.26,0.16338370694761026,5,0
+O00240,2024-04-27,2024-05-03,Standard Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0004,Chairs_4,Furniture,Chairs,5654.83,6,0.1,909.35,0.16080943193694594,6,1
+O00566,2024-04-27,2024-04-27,Same Day,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0009,Paper_9,Office Supplies,Paper,2798.88,4,0.0,102.84,0.03674326873606586,0,0
+O00412,2024-04-27,2024-05-04,Standard Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0103,Machines_103,Technology,Machines,724.97,1,0.2,304.59,0.4201415230975074,7,1
+O00705,2024-04-27,2024-05-03,Standard Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0084,Storage_84,Office Supplies,Storage,2778.58,3,0.2,390.73,0.1406221883120155,6,1
+O00026,2024-04-29,2024-05-05,Standard Class,C0069,Customer_69,Consumer,Canada,New York,MH,316454,West,P0096,Machines_96,Technology,Machines,438.07,1,0.0,71.65,0.1635583354258452,6,1
+O00989,2024-04-29,2024-05-03,Standard Class,C0084,Customer_84,Consumer,Australia,Delhi,CA,139986,West,P0112,Accessories_112,Technology,Accessories,346.96,1,0.1,73.96,0.21316578279916992,4,0
+O00474,2024-04-29,2024-05-01,Second Class,C0249,Customer_249,Home Office,UK,San Francisco,KA,830026,West,P0111,Binders_111,Office Supplies,Binders,2564.58,6,0.0,705.0,0.27489881384086284,2,0
+O00628,2024-05-02,2024-05-08,Standard Class,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0019,Bookcases_19,Furniture,Bookcases,2946.02,7,0.0,605.33,0.20547382570383094,6,1
+O00614,2024-05-02,2024-05-02,Same Day,C0248,Customer_248,Home Office,Australia,Mumbai,MH,492417,Central,P0014,Bookcases_14,Furniture,Bookcases,4128.52,4,0.0,920.8,0.22303392014571805,0,0
+O00099,2024-05-03,2024-05-06,First Class,C0055,Customer_55,Corporate,Canada,Houston,NY,951587,South,P0044,Binders_44,Office Supplies,Binders,1935.84,6,0.0,104.36,0.053909414001157126,3,1
+O00377,2024-05-04,2024-05-10,Standard Class,C0205,Customer_205,Corporate,India,Ahmedabad,TX,662997,Central,P0109,Paper_109,Office Supplies,Paper,1276.08,2,0.2,150.86,0.11822142812362862,6,1
+O00905,2024-05-04,2024-05-09,Second Class,C0050,Customer_50,Consumer,Australia,New York,TN,481915,West,P0064,Chairs_64,Furniture,Chairs,905.6,1,0.1,155.11,0.17127871024734984,5,1
+O00032,2024-05-04,2024-05-06,Second Class,C0031,Customer_31,Corporate,Australia,New York,NY,233554,Central,P0021,Binders_21,Office Supplies,Binders,1381.92,3,0.2,352.83,0.25531868704411254,2,0
+O00583,2024-05-05,2024-05-05,Same Day,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0103,Machines_103,Technology,Machines,474.68,2,0.1,20.58,0.04335552372124378,0,0
+O00707,2024-05-05,2024-05-09,Second Class,C0048,Customer_48,Consumer,UK,Ahmedabad,DL,357009,East,P0006,Tables_6,Furniture,Tables,2613.38,5,0.1,521.08,0.19938929661970323,4,1
+O00885,2024-05-06,2024-05-11,Standard Class,C0209,Customer_209,Consumer,USA,Mumbai,BC,635843,South,P0020,Paper_20,Office Supplies,Paper,2417.38,7,0.0,715.04,0.29579131125433317,5,0
+O00501,2024-05-07,2024-05-12,Second Class,C0061,Customer_61,Consumer,Canada,Chennai,KA,178623,East,P0087,Chairs_87,Furniture,Chairs,2497.5,4,0.1,540.99,0.2166126126126126,5,1
+O00922,2024-05-08,2024-05-10,Second Class,C0030,Customer_30,Consumer,Canada,Mumbai,GJ,978806,East,P0035,Chairs_35,Furniture,Chairs,2568.92,5,0.1,672.42,0.2617520203042523,2,0
+O00456,2024-05-08,2024-05-14,Standard Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0049,Paper_49,Office Supplies,Paper,88.7,2,0.1,15.87,0.17891770011273955,6,1
+O00169,2024-05-08,2024-05-10,Same Day,C0054,Customer_54,Home Office,Canada,Sydney,TX,400709,West,P0112,Accessories_112,Technology,Accessories,628.38,6,0.0,32.96,0.05245233775740794,2,1
+O00104,2024-05-08,2024-05-12,Standard Class,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0111,Binders_111,Office Supplies,Binders,4268.55,5,0.0,257.68,0.060367103583183986,4,0
+O00063,2024-05-09,2024-05-10,First Class,C0023,Customer_23,Consumer,UK,San Francisco,NSW,306524,West,P0104,Machines_104,Technology,Machines,2410.68,6,0.0,571.3,0.23698707418653658,1,0
+O00045,2024-05-09,2024-05-16,Standard Class,C0177,Customer_177,Corporate,India,New York,GJ,746117,Central,P0014,Bookcases_14,Furniture,Bookcases,3956.08,4,0.0,623.44,0.1575903419546622,7,1
+O00129,2024-05-11,2024-05-12,Same Day,C0015,Customer_15,Consumer,USA,Bengaluru,TX,956912,West,P0051,Machines_51,Technology,Machines,581.07,1,0.1,0.0,0.0,1,1
+O00008,2024-05-11,2024-05-14,First Class,C0166,Customer_166,Home Office,Australia,Ahmedabad,NSW,436676,Central,P0045,Machines_45,Technology,Machines,3414.76,7,0.3,792.34,0.23203387646569598,3,1
+O00509,2024-05-11,2024-05-12,Same Day,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0077,Binders_77,Office Supplies,Binders,1975.59,3,0.0,-24.44,-0.012370987907409939,1,1
+O00643,2024-05-11,2024-05-14,Second Class,C0047,Customer_47,Consumer,USA,Mumbai,NY,803662,East,P0099,Storage_99,Office Supplies,Storage,1188.29,6,0.2,321.87,0.270868222403622,3,0
+O00151,2024-05-12,2024-05-13,Same Day,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0013,Chairs_13,Furniture,Chairs,21.01,1,0.2,-1.14,-0.05425987624940504,1,1
+O00580,2024-05-13,2024-05-13,Same Day,C0093,Customer_93,Corporate,UK,Ahmedabad,MH,525037,South,P0080,Binders_80,Office Supplies,Binders,334.0,4,0.0,69.92,0.20934131736526945,0,0
+O00762,2024-05-14,2024-05-21,Standard Class,C0195,Customer_195,Consumer,Australia,Bengaluru,TX,552268,West,P0045,Machines_45,Technology,Machines,1942.36,4,0.0,431.44,0.22212154286538027,7,1
+O00810,2024-05-14,2024-05-17,Second Class,C0147,Customer_147,Corporate,Canada,Bengaluru,KA,135954,East,P0015,Storage_15,Office Supplies,Storage,57.9,2,0.0,12.5,0.2158894645941278,3,0
+O00352,2024-05-14,2024-05-14,Same Day,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0048,Chairs_48,Furniture,Chairs,35.76,1,0.0,1.02,0.028523489932885907,0,0
+O00717,2024-05-14,2024-05-20,Standard Class,C0059,Customer_59,Consumer,Canada,Houston,TX,402950,Central,P0112,Accessories_112,Technology,Accessories,7171.38,6,0.0,1047.65,0.14608764282467251,6,1
+O00981,2024-05-18,2024-05-21,Second Class,C0057,Customer_57,Consumer,Canada,Houston,BC,676775,Central,P0054,Bookcases_54,Furniture,Bookcases,1326.6,2,0.1,248.11,0.18702698628071765,3,0
+O00559,2024-05-19,2024-05-24,Standard Class,C0230,Customer_230,Corporate,UK,Delhi,BC,344883,East,P0057,Storage_57,Office Supplies,Storage,494.88,4,0.0,59.34,0.1199078564500485,5,0
+O00809,2024-05-19,2024-05-21,Second Class,C0243,Customer_243,Home Office,UK,San Francisco,NY,724712,West,P0095,Tables_95,Furniture,Tables,354.38,3,0.1,19.24,0.054292002934702856,2,0
+O00985,2024-05-22,2024-05-24,Same Day,C0015,Customer_15,Consumer,USA,Bengaluru,TX,956912,West,P0059,Paper_59,Office Supplies,Paper,1806.45,7,0.2,120.82,0.06688255971657117,2,1
+O00353,2024-05-23,2024-05-25,Second Class,C0181,Customer_181,Consumer,Canada,Vancouver,KA,140809,West,P0046,Chairs_46,Furniture,Chairs,596.1,5,0.0,71.72,0.12031538332494547,2,0
+O00256,2024-05-23,2024-05-28,Standard Class,C0026,Customer_26,Corporate,Australia,Vancouver,NY,830880,South,P0111,Binders_111,Office Supplies,Binders,5893.52,7,0.1,1730.88,0.2936920550027827,5,0
+O00516,2024-05-24,2024-05-29,Standard Class,C0165,Customer_165,Consumer,USA,Mumbai,DL,488822,South,P0041,Binders_41,Office Supplies,Binders,728.41,3,0.1,13.79,0.018931645639131807,5,0
+O00486,2024-05-24,2024-05-29,Second Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0077,Binders_77,Office Supplies,Binders,1272.64,5,0.2,155.17,0.1219276464671863,5,1
+O00018,2024-05-25,2024-05-30,Second Class,C0138,Customer_138,Corporate,Canada,Mumbai,DL,356713,Central,P0033,Binders_33,Office Supplies,Binders,497.88,3,0.0,41.64,0.08363461074957822,5,1
+O00927,2024-05-28,2024-06-04,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0102,Storage_102,Office Supplies,Storage,555.08,5,0.1,109.72,0.197665201412409,7,1
+O00702,2024-05-29,2024-05-29,Same Day,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0007,Machines_7,Technology,Machines,417.22,1,0.2,33.25,0.0796941661473563,0,0
+O00757,2024-05-29,2024-06-03,Standard Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,317215,South,P0035,Chairs_35,Furniture,Chairs,227.64,1,0.0,19.91,0.08746266034088913,5,0
+O00682,2024-05-29,2024-06-05,Standard Class,C0192,Customer_192,Home Office,India,Bengaluru,CA,672212,Central,P0077,Binders_77,Office Supplies,Binders,3456.58,5,0.1,674.5,0.19513507571067357,7,1
+O00330,2024-05-29,2024-06-05,Standard Class,C0018,Customer_18,Consumer,India,Delhi,NSW,857907,South,P0008,Machines_8,Technology,Machines,970.85,2,0.1,40.98,0.04221043415563681,7,1
+O00754,2024-05-30,2024-06-01,Second Class,C0202,Customer_202,Consumer,India,Ahmedabad,GJ,490719,West,P0116,Binders_116,Office Supplies,Binders,1045.95,1,0.1,147.6,0.14111573210956546,2,0
+O00339,2024-05-31,2024-06-05,Second Class,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0078,Accessories_78,Technology,Accessories,2238.98,2,0.0,373.51,0.16682149907547186,5,1
+O00062,2024-05-31,2024-06-03,Second Class,C0109,Customer_109,Consumer,USA,New York,TX,378176,East,P0087,Chairs_87,Furniture,Chairs,1328.42,3,0.2,223.38,0.16815464988482556,3,0
+O00290,2024-05-31,2024-06-01,First Class,C0129,Customer_129,Consumer,USA,Houston,KA,638884,Central,P0038,Storage_38,Office Supplies,Storage,3245.64,6,0.0,1097.37,0.3381058897474766,1,0
+O00440,2024-05-31,2024-05-31,First Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0006,Tables_6,Furniture,Tables,551.45,6,0.1,154.76,0.280641943965908,0,0
+O00926,2024-05-31,2024-06-02,First Class,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0083,Phones_83,Technology,Phones,3277.01,4,0.1,723.12,0.22066456922621536,2,1
+O00479,2024-06-02,2024-06-04,Same Day,C0128,Customer_128,Home Office,Canada,Delhi,TX,478387,Central,P0029,Binders_29,Office Supplies,Binders,372.33,2,0.1,120.29,0.3230736174898612,2,1
+O00873,2024-06-02,2024-06-03,First Class,C0088,Customer_88,Corporate,Australia,Mumbai,DL,572327,South,P0085,Paper_85,Office Supplies,Paper,1577.02,5,0.1,46.98,0.029790364104450164,1,0
+O00588,2024-06-03,2024-06-07,Second Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0025,Tables_25,Furniture,Tables,2378.07,7,0.3,469.12,0.19726921411060228,4,1
+O00213,2024-06-04,2024-06-08,Second Class,C0188,Customer_188,Corporate,India,Chennai,TX,129402,Central,P0120,Paper_120,Office Supplies,Paper,3001.45,5,0.0,181.91,0.06060737310300022,4,1
+O00623,2024-06-05,2024-06-10,Standard Class,C0011,Customer_11,Consumer,USA,New York,TN,247313,East,P0119,Binders_119,Office Supplies,Binders,2721.1,4,0.1,449.99,0.16537062217485576,5,0
+O00622,2024-06-06,2024-06-07,Same Day,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0043,Accessories_43,Technology,Accessories,1046.25,6,0.1,88.13,0.08423416965352448,1,1
+O00252,2024-06-06,2024-06-10,Standard Class,C0152,Customer_152,Consumer,UK,Delhi,TN,862092,West,P0023,Bookcases_23,Furniture,Bookcases,227.61,1,0.0,42.77,0.18790914283203725,4,0
+O00482,2024-06-09,2024-06-13,Standard Class,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0006,Tables_6,Furniture,Tables,7618.1,7,0.0,1281.06,0.16816003990496317,4,0
+O00756,2024-06-09,2024-06-10,First Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0109,Paper_109,Office Supplies,Paper,7907.48,7,0.0,2145.09,0.2712735283554306,1,0
+O00392,2024-06-09,2024-06-13,Second Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0074,Paper_74,Office Supplies,Paper,2089.06,2,0.0,337.36,0.16148889931356689,4,1
+O00920,2024-06-12,2024-06-12,First Class,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0108,Paper_108,Office Supplies,Paper,3675.1,4,0.1,383.76,0.10442164839051998,0,0
+O00645,2024-06-13,2024-06-19,Standard Class,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0099,Storage_99,Office Supplies,Storage,1796.48,2,0.0,138.1,0.07687255076594228,6,1
+O00228,2024-06-14,2024-06-15,First Class,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0037,Chairs_37,Furniture,Chairs,1468.31,6,0.1,124.75,0.08496162254564772,1,0
+O00271,2024-06-14,2024-06-14,First Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0067,Bookcases_67,Furniture,Bookcases,1109.96,2,0.0,5.89,0.005306497531442574,0,0
+O00950,2024-06-15,2024-06-21,Standard Class,C0041,Customer_41,Consumer,USA,Bengaluru,KA,717895,South,P0007,Machines_7,Technology,Machines,782.96,1,0.0,55.49,0.0708720752017983,6,1
+O00428,2024-06-15,2024-06-18,First Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0095,Tables_95,Furniture,Tables,3367.22,7,0.1,1201.97,0.35696212305700253,3,1
+O00870,2024-06-16,2024-06-18,Same Day,C0245,Customer_245,Consumer,USA,Sydney,CA,793264,East,P0040,Binders_40,Office Supplies,Binders,5601.4,7,0.0,541.46,0.09666511943442713,2,1
+O00662,2024-06-17,2024-06-21,Second Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0055,Tables_55,Furniture,Tables,534.24,7,0.0,115.67,0.21651317759808325,4,1
+O00763,2024-06-19,2024-06-24,Second Class,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0049,Paper_49,Office Supplies,Paper,4246.56,4,0.1,22.42,0.005279567461663087,5,1
+O00741,2024-06-19,2024-06-24,Second Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0014,Bookcases_14,Furniture,Bookcases,1034.25,7,0.0,234.31,0.22655064056079285,5,1
+O00402,2024-06-20,2024-06-21,First Class,C0183,Customer_183,Home Office,India,San Francisco,TN,816756,West,P0076,Binders_76,Office Supplies,Binders,2187.99,7,0.0,191.39,0.08747297748161555,1,0
+O00418,2024-06-20,2024-06-26,Standard Class,C0166,Customer_166,Home Office,Australia,Ahmedabad,NSW,436676,Central,P0007,Machines_7,Technology,Machines,3036.22,7,0.1,353.12,0.11630250772341925,6,1
+O00074,2024-06-21,2024-06-23,Second Class,C0241,Customer_241,Home Office,India,Bengaluru,BC,599137,East,P0110,Paper_110,Office Supplies,Paper,187.67,2,0.1,12.0,0.0639420258965205,2,0
+O00292,2024-06-22,2024-06-24,Same Day,C0089,Customer_89,Home Office,Australia,New York,TN,427073,West,P0087,Chairs_87,Furniture,Chairs,1458.28,4,0.0,138.24,0.09479660970458349,2,1
+O00170,2024-06-22,2024-06-24,Second Class,C0200,Customer_200,Corporate,Canada,Sydney,TN,610585,Central,P0115,Chairs_115,Furniture,Chairs,4086.14,6,0.2,893.97,0.21878105008638962,2,0
+O00581,2024-06-23,2024-06-29,Standard Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0024,Storage_24,Office Supplies,Storage,3535.52,4,0.0,752.11,0.21272966918586234,6,1
+O00664,2024-06-24,2024-06-29,Second Class,C0169,Customer_169,Consumer,Canada,Houston,MH,618271,Central,P0086,Machines_86,Technology,Machines,1690.96,2,0.0,170.23,0.10067062497043099,5,1
+O00776,2024-06-25,2024-06-30,Second Class,C0244,Customer_244,Consumer,USA,Ahmedabad,DL,901480,South,P0115,Chairs_115,Furniture,Chairs,1286.59,2,0.2,126.28,0.09815092609145105,5,1
+O00332,2024-06-25,2024-06-28,First Class,C0220,Customer_220,Home Office,India,Mumbai,TN,478165,Central,P0083,Phones_83,Technology,Phones,506.73,3,0.0,54.64,0.10782862668482229,3,1
+O00843,2024-06-26,2024-07-03,Standard Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0112,Accessories_112,Technology,Accessories,3366.3,3,0.0,499.14,0.14827555476339005,7,1
+O00427,2024-06-26,2024-06-27,Same Day,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0059,Paper_59,Office Supplies,Paper,6961.26,6,0.0,1881.18,0.27023556080364763,1,1
+O00639,2024-06-27,2024-07-03,Standard Class,C0083,Customer_83,Consumer,India,Houston,GJ,434402,West,P0052,Paper_52,Office Supplies,Paper,794.6,1,0.3,162.05,0.20393908884973572,6,1
+O00518,2024-06-29,2024-06-30,Same Day,C0207,Customer_207,Consumer,Canada,Sydney,MH,250322,Central,P0024,Storage_24,Office Supplies,Storage,31.03,1,0.0,6.19,0.19948436996455043,1,1
+O00821,2024-06-30,2024-07-03,Second Class,C0050,Customer_50,Consumer,Australia,New York,TN,481915,West,P0015,Storage_15,Office Supplies,Storage,1014.56,2,0.0,289.23,0.2850792461756821,3,0
+O00314,2024-07-01,2024-07-03,Second Class,C0046,Customer_46,Corporate,Canada,Mumbai,TX,924690,East,P0060,Binders_60,Office Supplies,Binders,3596.61,3,0.0,591.96,0.16458832066862963,2,0
+O00846,2024-07-01,2024-07-06,Standard Class,C0128,Customer_128,Home Office,Canada,Delhi,TX,478387,Central,P0009,Paper_9,Office Supplies,Paper,2181.86,2,0.0,345.87,0.15852071168635934,5,0
+O00591,2024-07-03,2024-07-03,First Class,C0229,Customer_229,Home Office,UK,Houston,GJ,305550,East,P0082,Paper_82,Office Supplies,Paper,3414.68,4,0.0,732.13,0.2144066208253775,0,0
+O00351,2024-07-03,2024-07-09,Standard Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0039,Paper_39,Office Supplies,Paper,1144.42,3,0.1,299.36,0.26158228622358926,6,1
+O00463,2024-07-05,2024-07-05,Same Day,C0005,Customer_5,Consumer,USA,San Francisco,BC,932672,Central,P0087,Chairs_87,Furniture,Chairs,120.98,2,0.1,4.05,0.03347660770375269,0,0
+O00527,2024-07-07,2024-07-14,Standard Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0072,Tables_72,Furniture,Tables,87.07,6,0.2,22.37,0.25691971976570577,7,1
+O00525,2024-07-07,2024-07-12,Standard Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0080,Binders_80,Office Supplies,Binders,2000.06,6,0.2,188.02,0.09400717978460647,5,0
+O00275,2024-07-07,2024-07-09,Second Class,C0044,Customer_44,Home Office,USA,Delhi,GJ,526752,East,P0116,Binders_116,Office Supplies,Binders,12.47,1,0.0,3.12,0.25020048115477145,2,0
+O00971,2024-07-07,2024-07-07,First Class,C0066,Customer_66,Consumer,UK,Ahmedabad,TN,730235,South,P0028,Phones_28,Technology,Phones,96.07,1,0.2,12.88,0.13406890808785263,0,0
+O00997,2024-07-07,2024-07-07,Same Day,C0101,Customer_101,Consumer,Australia,Bengaluru,DL,711213,East,P0029,Binders_29,Office Supplies,Binders,2301.95,7,0.0,606.39,0.2634244879341428,0,0
+O00263,2024-07-07,2024-07-12,Standard Class,C0152,Customer_152,Consumer,UK,Delhi,TN,862092,West,P0097,Phones_97,Technology,Phones,6868.05,7,0.0,1832.13,0.2667613077947889,5,0
+O00010,2024-07-09,2024-07-13,Standard Class,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0022,Phones_22,Technology,Phones,29.83,1,0.0,4.8,0.16091183372443849,4,0
+O00863,2024-07-09,2024-07-14,Standard Class,C0216,Customer_216,Consumer,UK,Houston,MH,322320,East,P0071,Tables_71,Furniture,Tables,802.44,2,0.0,192.05,0.23933253576591396,5,0
+O00802,2024-07-12,2024-07-18,Standard Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0030,Paper_30,Office Supplies,Paper,1961.87,6,0.1,197.46,0.10064887072028218,6,1
+O00206,2024-07-12,2024-07-13,Same Day,C0052,Customer_52,Corporate,Australia,San Francisco,NY,651025,East,P0099,Storage_99,Office Supplies,Storage,2527.08,4,0.0,384.04,0.15196986244994223,1,1
+O00993,2024-07-12,2024-07-18,Standard Class,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0071,Tables_71,Furniture,Tables,667.27,1,0.2,74.01,0.1109146222668485,6,1
+O00539,2024-07-13,2024-07-17,Standard Class,C0015,Customer_15,Consumer,USA,Bengaluru,TX,956912,West,P0078,Accessories_78,Technology,Accessories,1076.48,5,0.2,119.61,0.11111214328180737,4,0
+O00946,2024-07-14,2024-07-19,Standard Class,C0212,Customer_212,Corporate,UK,Sydney,TX,808362,Central,P0017,Paper_17,Office Supplies,Paper,300.2,4,0.1,23.43,0.07804796802131912,5,0
+O00288,2024-07-14,2024-07-17,Second Class,C0183,Customer_183,Home Office,India,San Francisco,TN,816756,West,P0118,Phones_118,Technology,Phones,2123.42,3,0.1,567.67,0.26733759689557407,3,0
+O00601,2024-07-14,2024-07-18,Second Class,C0139,Customer_139,Consumer,UK,New York,GJ,541501,West,P0076,Binders_76,Office Supplies,Binders,1196.83,4,0.2,154.4,0.12900746137713795,4,1
+O00380,2024-07-14,2024-07-16,Same Day,C0191,Customer_191,Consumer,India,Bengaluru,TX,277900,East,P0044,Binders_44,Office Supplies,Binders,2021.88,3,0.2,359.03,0.17757235839911367,2,1
+O00239,2024-07-14,2024-07-17,Second Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0118,Phones_118,Technology,Phones,3122.43,3,0.0,569.78,0.18247967128166204,3,0
+O00297,2024-07-15,2024-07-17,Second Class,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0081,Paper_81,Office Supplies,Paper,332.23,1,0.1,32.05,0.09646931342744483,2,0
+O00669,2024-07-15,2024-07-21,Standard Class,C0048,Customer_48,Consumer,UK,Ahmedabad,DL,357009,East,P0025,Tables_25,Furniture,Tables,835.25,1,0.2,78.54,0.09403172702783598,6,1
+O00582,2024-07-16,2024-07-23,Standard Class,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0048,Chairs_48,Furniture,Chairs,1135.55,2,0.1,294.57,0.2594073356523271,7,1
+O00819,2024-07-16,2024-07-18,Second Class,C0032,Customer_32,Consumer,Canada,Ahmedabad,GJ,910874,South,P0081,Paper_81,Office Supplies,Paper,1929.36,2,0.0,607.14,0.31468466227142683,2,0
+O00168,2024-07-17,2024-07-24,Standard Class,C0243,Customer_243,Home Office,UK,San Francisco,NY,724712,West,P0090,Accessories_90,Technology,Accessories,2842.87,4,0.3,477.18,0.1678515021791359,7,1
+O00519,2024-07-17,2024-07-23,Standard Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0113,Accessories_113,Technology,Accessories,740.82,7,0.2,47.6,0.06425312491563402,6,1
+O00722,2024-07-19,2024-07-26,Standard Class,C0007,Customer_7,Consumer,USA,Chennai,NSW,194270,Central,P0020,Paper_20,Office Supplies,Paper,1152.4,5,0.1,263.88,0.22898299201666086,7,1
+O00992,2024-07-20,2024-07-23,Second Class,C0024,Customer_24,Consumer,USA,Mumbai,DL,687111,East,P0059,Paper_59,Office Supplies,Paper,4270.48,5,0.2,1098.65,0.25726616211760744,3,0
+O00842,2024-07-22,2024-07-26,Standard Class,C0147,Customer_147,Corporate,Canada,Bengaluru,KA,135954,East,P0067,Bookcases_67,Furniture,Bookcases,3548.0,5,0.0,767.14,0.21621758737316799,4,0
+O00941,2024-07-24,2024-07-29,Second Class,C0246,Customer_246,Home Office,Australia,San Francisco,DL,941344,East,P0092,Storage_92,Office Supplies,Storage,1075.03,2,0.1,255.8,0.2379468479949397,5,1
+O00538,2024-07-25,2024-07-31,Standard Class,C0024,Customer_24,Consumer,USA,Mumbai,DL,687111,East,P0112,Accessories_112,Technology,Accessories,1184.38,2,0.0,209.9,0.17722352623313462,6,1
+O00911,2024-07-26,2024-07-27,Same Day,C0195,Customer_195,Consumer,Australia,Bengaluru,TX,552268,West,P0083,Phones_83,Technology,Phones,4339.93,6,0.1,-159.68,-0.03679322016714555,1,1
+O00912,2024-07-26,2024-08-01,Standard Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0111,Binders_111,Office Supplies,Binders,995.4,5,0.2,246.61,0.2477496483825598,6,1
+O00811,2024-07-26,2024-07-31,Standard Class,C0038,Customer_38,Consumer,USA,Ahmedabad,CA,273532,South,P0004,Chairs_4,Furniture,Chairs,1486.52,2,0.0,166.42,0.11195274870166563,5,0
+O00489,2024-07-27,2024-07-31,Standard Class,C0081,Customer_81,Home Office,India,Delhi,TX,578446,East,P0067,Bookcases_67,Furniture,Bookcases,7961.03,7,0.0,1109.94,0.13942165775031623,4,0
+O00477,2024-07-27,2024-07-30,Second Class,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0010,Binders_10,Office Supplies,Binders,6897.49,7,0.1,1351.93,0.19600318376684853,3,0
+O00090,2024-07-28,2024-07-30,Second Class,C0238,Customer_238,Consumer,Australia,Sydney,BC,166017,West,P0066,Chairs_66,Furniture,Chairs,5894.37,6,0.1,1491.05,0.25296172449303317,2,0
+O00925,2024-07-30,2024-08-04,Standard Class,C0028,Customer_28,Consumer,USA,Vancouver,BC,881452,Central,P0049,Paper_49,Office Supplies,Paper,150.43,1,0.0,17.54,0.11659908262979458,5,0
+O00358,2024-07-31,2024-08-02,Second Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0004,Chairs_4,Furniture,Chairs,313.56,1,0.0,57.41,0.18309095547901516,2,0
+O00397,2024-07-31,2024-08-05,Standard Class,C0031,Customer_31,Corporate,Australia,New York,NY,233554,Central,P0027,Bookcases_27,Furniture,Bookcases,4052.95,4,0.1,555.16,0.1369767700070319,5,0
+O00225,2024-08-02,2024-08-04,First Class,C0048,Customer_48,Consumer,UK,Ahmedabad,DL,357009,East,P0043,Accessories_43,Technology,Accessories,454.92,3,0.0,75.46,0.1658753187373604,2,1
+O00272,2024-08-02,2024-08-08,Standard Class,C0204,Customer_204,Home Office,Canada,Mumbai,GJ,201371,East,P0080,Binders_80,Office Supplies,Binders,1446.54,3,0.0,399.06,0.2758720809656145,6,1
+O00420,2024-08-02,2024-08-08,Standard Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0082,Paper_82,Office Supplies,Paper,1270.56,2,0.0,181.36,0.14274020904168241,6,1
+O00823,2024-08-03,2024-08-07,Standard Class,C0005,Customer_5,Consumer,USA,San Francisco,BC,932672,Central,P0052,Paper_52,Office Supplies,Paper,2124.42,6,0.0,81.66,0.03843872680543395,4,0
+O00892,2024-08-03,2024-08-10,Standard Class,C0220,Customer_220,Home Office,India,Mumbai,TN,478165,Central,P0013,Chairs_13,Furniture,Chairs,5306.16,6,0.0,409.7,0.07721214588327528,7,1
+O00237,2024-08-03,2024-08-03,Same Day,C0155,Customer_155,Home Office,Australia,Bengaluru,CA,123752,West,P0057,Storage_57,Office Supplies,Storage,4311.09,7,0.0,1157.49,0.2684912632304127,0,0
+O00552,2024-08-03,2024-08-10,Standard Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0043,Accessories_43,Technology,Accessories,203.45,1,0.0,9.69,0.047628409928729416,7,1
+O00862,2024-08-04,2024-08-11,Standard Class,C0060,Customer_60,Consumer,UK,Sydney,NSW,410914,East,P0052,Paper_52,Office Supplies,Paper,5670.77,7,0.0,1429.63,0.252105093311843,7,1
+O00830,2024-08-04,2024-08-11,Standard Class,C0186,Customer_186,Corporate,India,Chennai,TN,705470,Central,P0111,Binders_111,Office Supplies,Binders,952.36,4,0.0,83.22,0.08738292242429334,7,1
+O00753,2024-08-05,2024-08-10,Standard Class,C0014,Customer_14,Consumer,USA,Sydney,TX,346726,East,P0113,Accessories_113,Technology,Accessories,2947.54,5,0.1,970.71,0.3293288640696988,5,0
+O00193,2024-08-05,2024-08-09,Standard Class,C0038,Customer_38,Consumer,USA,Ahmedabad,CA,273532,South,P0038,Storage_38,Office Supplies,Storage,304.48,2,0.0,31.74,0.1042433000525486,4,0
+O00699,2024-08-06,2024-08-13,Standard Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0040,Binders_40,Office Supplies,Binders,436.92,1,0.0,44.14,0.10102535933351643,7,1
+O00219,2024-08-06,2024-08-13,Standard Class,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0025,Tables_25,Furniture,Tables,2317.73,4,0.3,381.4,0.16455756278772762,7,1
+O00091,2024-08-07,2024-08-10,Second Class,C0094,Customer_94,Corporate,Australia,Sydney,BC,830399,South,P0045,Machines_45,Technology,Machines,4533.02,6,0.2,208.95,0.04609509774940326,3,0
+O00096,2024-08-07,2024-08-14,Standard Class,C0094,Customer_94,Corporate,Australia,Sydney,BC,830399,South,P0119,Binders_119,Office Supplies,Binders,350.5,5,0.0,76.9,0.21940085592011413,7,1
+O00983,2024-08-08,2024-08-13,Standard Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0103,Machines_103,Technology,Machines,2577.29,3,0.2,278.19,0.10793895913925092,5,0
+O00190,2024-08-08,2024-08-12,Standard Class,C0230,Customer_230,Corporate,UK,Delhi,BC,344883,East,P0042,Accessories_42,Technology,Accessories,1206.9,6,0.0,180.29,0.1493827160493827,4,0
+O00731,2024-08-09,2024-08-09,Same Day,C0141,Customer_141,Home Office,India,Vancouver,TX,167642,West,P0025,Tables_25,Furniture,Tables,445.9,1,0.1,54.86,0.12303206997084548,0,0
+O00938,2024-08-10,2024-08-14,Standard Class,C0042,Customer_42,Consumer,Australia,Chennai,KA,320178,West,P0051,Machines_51,Technology,Machines,6281.1,7,0.0,882.8,0.14054863001703521,4,0
+O00077,2024-08-10,2024-08-14,Second Class,C0189,Customer_189,Consumer,UK,Houston,NY,104263,West,P0087,Chairs_87,Furniture,Chairs,938.64,4,0.0,0.81,0.0008629506520071593,4,1
+O00181,2024-08-11,2024-08-13,Second Class,C0063,Customer_63,Home Office,USA,Houston,NY,962061,East,P0039,Paper_39,Office Supplies,Paper,4323.1,5,0.0,851.42,0.1969466355161805,2,0
+O00097,2024-08-11,2024-08-16,Standard Class,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0001,Machines_1,Technology,Machines,3967.74,6,0.0,1392.5,0.35095545575062886,5,0
+O00254,2024-08-12,2024-08-19,Standard Class,C0234,Customer_234,Consumer,USA,San Francisco,TN,221789,South,P0028,Phones_28,Technology,Phones,4138.56,6,0.1,461.31,0.11146630712131755,7,1
+O00603,2024-08-12,2024-08-14,Second Class,C0145,Customer_145,Consumer,Australia,Ahmedabad,NY,807280,West,P0077,Binders_77,Office Supplies,Binders,204.46,3,0.2,45.44,0.22224395969871855,2,0
+O00492,2024-08-13,2024-08-19,Standard Class,C0148,Customer_148,Consumer,USA,San Francisco,CA,127856,Central,P0119,Binders_119,Office Supplies,Binders,1928.29,7,0.0,194.82,0.10103252104195945,6,1
+O00909,2024-08-15,2024-08-17,Second Class,C0195,Customer_195,Consumer,Australia,Bengaluru,TX,552268,West,P0059,Paper_59,Office Supplies,Paper,1029.28,7,0.0,127.46,0.12383413648375563,2,0
+O00110,2024-08-16,2024-08-21,Standard Class,C0053,Customer_53,Home Office,Canada,Vancouver,MH,897917,West,P0090,Accessories_90,Technology,Accessories,348.58,1,0.2,43.98,0.12616902863044352,5,0
+O00766,2024-08-16,2024-08-21,Standard Class,C0174,Customer_174,Consumer,Canada,Houston,TN,655941,South,P0089,Bookcases_89,Furniture,Bookcases,633.52,2,0.0,18.63,0.0294071221113777,5,0
+O00383,2024-08-16,2024-08-23,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0086,Machines_86,Technology,Machines,334.58,1,0.2,79.0,0.2361169227090681,7,1
+O00521,2024-08-16,2024-08-17,Same Day,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0044,Binders_44,Office Supplies,Binders,1568.61,3,0.0,387.09,0.24677262034540134,1,1
+O00844,2024-08-18,2024-08-22,Second Class,C0222,Customer_222,Corporate,Australia,Mumbai,CA,516366,East,P0063,Paper_63,Office Supplies,Paper,1748.02,2,0.0,191.92,0.10979279413279024,4,1
+O00867,2024-08-18,2024-08-25,Standard Class,C0016,Customer_16,Consumer,India,San Francisco,MH,670451,South,P0060,Binders_60,Office Supplies,Binders,1827.25,6,0.1,-92.13,-0.05042003009987686,7,1
+O00990,2024-08-19,2024-08-26,Standard Class,C0125,Customer_125,Consumer,Canada,Mumbai,TX,194914,East,P0096,Machines_96,Technology,Machines,5693.04,6,0.0,953.86,0.16754844511895226,7,1
+O00261,2024-08-19,2024-08-23,Second Class,C0211,Customer_211,Consumer,Australia,Vancouver,KA,681780,South,P0029,Binders_29,Office Supplies,Binders,1090.47,7,0.1,180.08,0.16513980210368007,4,1
+O00907,2024-08-20,2024-08-22,First Class,C0075,Customer_75,Corporate,India,Bengaluru,GJ,176218,South,P0083,Phones_83,Technology,Phones,4582.56,7,0.1,1243.61,0.2713788799273768,2,1
+O00918,2024-08-20,2024-08-25,Second Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0015,Storage_15,Office Supplies,Storage,842.27,1,0.0,141.21,0.1676540776710556,5,1
+O00658,2024-08-20,2024-08-26,Standard Class,C0249,Customer_249,Home Office,UK,San Francisco,KA,830026,West,P0045,Machines_45,Technology,Machines,89.42,2,0.0,12.04,0.13464549317825988,6,1
+O00484,2024-08-20,2024-08-25,Standard Class,C0063,Customer_63,Home Office,USA,Houston,NY,962061,East,P0111,Binders_111,Office Supplies,Binders,4005.24,4,0.0,123.2,0.030759704786729385,5,0
+O00718,2024-08-20,2024-08-27,Standard Class,C0155,Customer_155,Home Office,Australia,Bengaluru,CA,123752,West,P0045,Machines_45,Technology,Machines,5198.26,6,0.1,718.54,0.13822702211893978,7,1
+O00894,2024-08-21,2024-08-25,Standard Class,C0106,Customer_106,Consumer,Canada,Mumbai,KA,368294,Central,P0092,Storage_92,Office Supplies,Storage,184.43,4,0.1,54.89,0.29761969310849645,4,0
+O00975,2024-08-23,2024-08-28,Standard Class,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0061,Bookcases_61,Furniture,Bookcases,40.32,4,0.2,1.13,0.02802579365079365,5,0
+O00118,2024-08-23,2024-08-26,First Class,C0137,Customer_137,Consumer,Australia,Delhi,CA,864757,South,P0053,Accessories_53,Technology,Accessories,2225.09,7,0.0,135.14,0.060734621970347256,3,1
+O00087,2024-08-24,2024-08-29,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0025,Tables_25,Furniture,Tables,8289.12,7,0.0,1267.77,0.15294385893798135,5,0
+O00720,2024-08-24,2024-08-30,Standard Class,C0079,Customer_79,Consumer,USA,Ahmedabad,NY,549589,Central,P0049,Paper_49,Office Supplies,Paper,3446.86,5,0.1,341.63,0.09911339596038132,6,1
+O00831,2024-08-24,2024-08-25,First Class,C0068,Customer_68,Home Office,UK,Chennai,TN,752465,South,P0002,Binders_2,Office Supplies,Binders,1149.42,2,0.0,234.37,0.20390283795305458,1,0
+O00807,2024-08-24,2024-08-25,Same Day,C0073,Customer_73,Consumer,USA,Ahmedabad,NSW,605815,Central,P0116,Binders_116,Office Supplies,Binders,416.4,4,0.0,87.55,0.21025456292026898,1,1
+O00961,2024-08-26,2024-09-02,Standard Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0029,Binders_29,Office Supplies,Binders,2611.32,3,0.0,444.45,0.1702012775148201,7,1
+O00125,2024-08-27,2024-09-01,Second Class,C0098,Customer_98,Consumer,Australia,Mumbai,KA,416915,South,P0070,Storage_70,Office Supplies,Storage,2944.52,5,0.2,600.68,0.20399929360303207,5,1
+O00670,2024-08-29,2024-09-03,Standard Class,C0226,Customer_226,Consumer,Australia,New York,CA,515008,East,P0105,Machines_105,Technology,Machines,3258.9,3,0.0,672.61,0.2063917272699377,5,0
+O00424,2024-08-30,2024-09-03,Standard Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0058,Accessories_58,Technology,Accessories,588.8,1,0.1,133.89,0.22739470108695653,4,0
+O00460,2024-08-31,2024-09-07,Standard Class,C0162,Customer_162,Corporate,Canada,San Francisco,MH,216739,South,P0022,Phones_22,Technology,Phones,1863.48,2,0.0,160.08,0.08590379290359973,7,1
+O00921,2024-09-01,2024-09-04,Second Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0055,Tables_55,Furniture,Tables,1159.36,2,0.1,143.61,0.12387006624344468,3,0
+O00101,2024-09-01,2024-09-02,First Class,C0168,Customer_168,Consumer,Australia,Sydney,NSW,418277,Central,P0096,Machines_96,Technology,Machines,1425.42,4,0.1,352.65,0.2474007660899945,1,0
+O00924,2024-09-01,2024-09-08,Standard Class,C0166,Customer_166,Home Office,Australia,Ahmedabad,NSW,436676,Central,P0014,Bookcases_14,Furniture,Bookcases,3207.78,4,0.1,581.0,0.18112214678063956,7,1
+O00943,2024-09-02,2024-09-05,Second Class,C0237,Customer_237,Consumer,India,Delhi,NSW,663178,South,P0116,Binders_116,Office Supplies,Binders,69.26,3,0.2,7.12,0.10280103956107421,3,0
+O00837,2024-09-03,2024-09-08,Second Class,C0137,Customer_137,Consumer,Australia,Delhi,CA,864757,South,P0074,Paper_74,Office Supplies,Paper,665.2,2,0.2,86.45,0.1299609140108238,5,1
+O00229,2024-09-03,2024-09-03,Same Day,C0204,Customer_204,Home Office,Canada,Mumbai,GJ,201371,East,P0046,Chairs_46,Furniture,Chairs,312.24,1,0.0,64.48,0.2065078145016654,0,0
+O00106,2024-09-05,2024-09-12,Standard Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,681780,South,P0088,Accessories_88,Technology,Accessories,2959.5,3,0.0,918.85,0.31047474235512756,7,1
+O00306,2024-09-05,2024-09-07,First Class,C0116,Customer_116,Home Office,USA,Sydney,GJ,481009,South,P0050,Tables_50,Furniture,Tables,1734.04,7,0.2,352.83,0.20347281492929806,2,1
+O00462,2024-09-06,2024-09-08,Second Class,C0047,Customer_47,Consumer,USA,Mumbai,NY,803662,East,P0069,Tables_69,Furniture,Tables,2997.04,5,0.2,285.92,0.09540079545151217,2,0
+O00604,2024-09-08,2024-09-13,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0114,Phones_114,Technology,Phones,1327.07,2,0.1,133.46,0.10056741543400123,5,0
+O00849,2024-09-09,2024-09-12,First Class,C0085,Customer_85,Consumer,Australia,Ahmedabad,NSW,779520,East,P0011,Phones_11,Technology,Phones,2693.4,4,0.0,604.5,0.2244375139229227,3,1
+O00321,2024-09-09,2024-09-11,First Class,C0070,Customer_70,Home Office,USA,Mumbai,TN,209575,Central,P0090,Accessories_90,Technology,Accessories,1180.44,4,0.1,56.72,0.048049879705872385,2,1
+O00859,2024-09-09,2024-09-13,Standard Class,C0138,Customer_138,Corporate,Canada,Mumbai,DL,356713,Central,P0074,Paper_74,Office Supplies,Paper,568.85,2,0.2,28.34,0.04981981190120418,4,0
+O00866,2024-09-10,2024-09-12,Second Class,C0144,Customer_144,Consumer,Canada,Ahmedabad,KA,317215,Central,P0056,Bookcases_56,Furniture,Bookcases,4214.28,7,0.0,549.28,0.13033780384786964,2,0
+O00156,2024-09-10,2024-09-17,Standard Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0092,Storage_92,Office Supplies,Storage,1638.6,4,0.0,60.99,0.037220798242402056,7,1
+O00814,2024-09-10,2024-09-16,Standard Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0009,Paper_9,Office Supplies,Paper,755.23,1,0.1,-0.25,-0.0003310249857659256,6,1
+O00014,2024-09-11,2024-09-11,Same Day,C0006,Customer_6,Consumer,India,Vancouver,TN,483152,East,P0100,Binders_100,Office Supplies,Binders,1383.8,4,0.0,324.61,0.23457869634340225,0,0
+O00563,2024-09-12,2024-09-14,Same Day,C0117,Customer_117,Home Office,UK,Sydney,GJ,501921,South,P0027,Bookcases_27,Furniture,Bookcases,2817.67,3,0.1,377.21,0.1338730227457438,2,1
+O00278,2024-09-12,2024-09-17,Standard Class,C0162,Customer_162,Corporate,Canada,San Francisco,MH,322320,South,P0079,Binders_79,Office Supplies,Binders,4347.2,5,0.0,254.43,0.058527327935222674,5,0
+O00133,2024-09-13,2024-09-13,Same Day,C0206,Customer_206,Consumer,Canada,Vancouver,NSW,292192,West,P0035,Chairs_35,Furniture,Chairs,2083.88,2,0.0,228.93,0.10985757337274699,0,0
+O00737,2024-09-14,2024-09-16,First Class,C0036,Customer_36,Home Office,Canada,New York,TN,159676,South,P0038,Storage_38,Office Supplies,Storage,2748.13,4,0.1,315.45,0.11478714616848547,2,1
+O00592,2024-09-14,2024-09-19,Second Class,C0202,Customer_202,Consumer,India,Ahmedabad,GJ,490719,West,P0111,Binders_111,Office Supplies,Binders,2176.52,2,0.0,359.97,0.16538786687004944,5,1
+O00520,2024-09-15,2024-09-18,Second Class,C0068,Customer_68,Home Office,UK,Chennai,TN,752465,South,P0101,Binders_101,Office Supplies,Binders,429.84,2,0.0,114.73,0.2669132700539736,3,0
+O00529,2024-09-16,2024-09-16,First Class,C0090,Customer_90,Consumer,UK,Mumbai,MH,697794,West,P0113,Accessories_113,Technology,Accessories,2973.35,4,0.1,452.39,0.15214825029007684,0,0
+O00815,2024-09-16,2024-09-20,Standard Class,C0079,Customer_79,Consumer,USA,Ahmedabad,NY,549589,Central,P0109,Paper_109,Office Supplies,Paper,875.0,7,0.0,212.74,0.24313142857142858,4,0
+O00630,2024-09-17,2024-09-17,Same Day,C0087,Customer_87,Corporate,Australia,Houston,TX,725646,East,P0076,Binders_76,Office Supplies,Binders,3750.8,5,0.0,329.32,0.08779993601365041,0,0
+O00336,2024-09-18,2024-09-25,Standard Class,C0151,Customer_151,Home Office,USA,New York,NSW,595553,West,P0043,Accessories_43,Technology,Accessories,550.17,1,0.0,99.99,0.1817438246360216,7,1
+O00960,2024-09-19,2024-09-20,First Class,C0076,Customer_76,Corporate,Canada,New York,TN,687518,Central,P0006,Tables_6,Furniture,Tables,2023.35,5,0.0,529.05,0.26147231077173994,1,0
+O00789,2024-09-19,2024-09-23,Second Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0089,Bookcases_89,Furniture,Bookcases,706.07,1,0.0,132.25,0.18730437492033367,4,1
+O00475,2024-09-19,2024-09-23,Standard Class,C0014,Customer_14,Consumer,USA,Sydney,TX,346726,East,P0003,Chairs_3,Furniture,Chairs,1000.91,1,0.0,93.02,0.09293542875982856,4,0
+O00903,2024-09-20,2024-09-27,Standard Class,C0203,Customer_203,Consumer,UK,New York,TX,579361,Central,P0118,Phones_118,Technology,Phones,704.95,5,0.0,57.2,0.08114050641889496,7,1
+O00139,2024-09-20,2024-09-22,Second Class,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0109,Paper_109,Office Supplies,Paper,786.14,6,0.2,93.26,0.11863026941766099,2,0
+O00515,2024-09-20,2024-09-20,Same Day,C0142,Customer_142,Consumer,USA,Mumbai,KA,190093,West,P0098,Chairs_98,Furniture,Chairs,1980.86,7,0.0,241.05,0.12168956917702413,0,0
+O00338,2024-09-21,2024-09-26,Second Class,C0195,Customer_195,Consumer,Australia,Bengaluru,TX,552268,West,P0032,Bookcases_32,Furniture,Bookcases,4352.54,7,0.1,574.3,0.13194594420729044,5,1
+O00684,2024-09-21,2024-09-25,Standard Class,C0064,Customer_64,Consumer,Canada,Sydney,NSW,283675,South,P0018,Accessories_18,Technology,Accessories,497.92,1,0.1,114.82,0.23059929305912594,4,0
+O00817,2024-09-21,2024-09-28,Standard Class,C0148,Customer_148,Consumer,USA,San Francisco,CA,127856,Central,P0026,Storage_26,Office Supplies,Storage,312.7,1,0.2,41.85,0.13383434601854813,7,1
+O00641,2024-09-22,2024-09-29,Standard Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0037,Chairs_37,Furniture,Chairs,1584.0,3,0.0,261.56,0.16512626262626262,7,1
+O00244,2024-09-22,2024-09-22,Same Day,C0216,Customer_216,Consumer,UK,Houston,MH,322320,East,P0007,Machines_7,Technology,Machines,2070.62,3,0.2,545.28,0.26334141464875255,0,0
+O00856,2024-09-23,2024-09-24,First Class,C0066,Customer_66,Consumer,UK,Ahmedabad,TN,730235,South,P0013,Chairs_13,Furniture,Chairs,1041.8,5,0.2,131.68,0.12639662123248224,1,0
+O00009,2024-09-23,2024-09-28,Second Class,C0200,Customer_200,Corporate,Canada,Sydney,TN,610585,Central,P0036,Tables_36,Furniture,Tables,2436.33,3,0.0,180.01,0.07388572155660358,5,1
+O00324,2024-09-24,2024-09-26,Second Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0071,Tables_71,Furniture,Tables,163.61,1,0.0,20.87,0.12755944013202128,2,0
+O00726,2024-09-24,2024-09-30,Standard Class,C0174,Customer_174,Consumer,Canada,Houston,TN,655941,South,P0092,Storage_92,Office Supplies,Storage,5921.02,7,0.0,1078.31,0.18211558143698212,6,1
+O00343,2024-09-24,2024-09-29,Standard Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,683417,South,P0016,Accessories_16,Technology,Accessories,2023.78,4,0.1,282.3,0.13949144669875185,5,0
+O00216,2024-09-24,2024-09-24,Same Day,C0186,Customer_186,Corporate,India,Chennai,TN,705470,Central,P0103,Machines_103,Technology,Machines,1065.53,1,0.1,84.08,0.07890908749636331,0,0
+O00217,2024-09-28,2024-10-05,Standard Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0061,Bookcases_61,Furniture,Bookcases,921.08,3,0.1,144.23,0.15658791853042078,7,1
+O00935,2024-09-28,2024-10-04,Standard Class,C0248,Customer_248,Home Office,Australia,Mumbai,MH,354726,Central,P0111,Binders_111,Office Supplies,Binders,2934.58,6,0.2,704.51,0.24007183310729305,6,1
+O00265,2024-09-28,2024-10-03,Standard Class,C0195,Customer_195,Consumer,Australia,Bengaluru,TX,552268,West,P0014,Bookcases_14,Furniture,Bookcases,4588.88,6,0.3,-83.09,-0.018106814734750093,5,0
+O00833,2024-09-29,2024-10-05,Standard Class,C0044,Customer_44,Home Office,USA,Delhi,GJ,526752,East,P0013,Chairs_13,Furniture,Chairs,436.89,1,0.0,95.88,0.2194602760420243,6,1
+O00649,2024-09-29,2024-10-03,Standard Class,C0226,Customer_226,Consumer,Australia,New York,CA,515008,East,P0077,Binders_77,Office Supplies,Binders,3536.64,3,0.0,508.33,0.1437324692363373,4,0
+O00052,2024-09-29,2024-10-04,Standard Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0017,Paper_17,Office Supplies,Paper,394.29,2,0.1,127.41,0.32313779198052195,5,0
+O00875,2024-09-30,2024-10-07,Standard Class,C0139,Customer_139,Consumer,UK,New York,GJ,541501,West,P0029,Binders_29,Office Supplies,Binders,2269.84,2,0.0,458.59,0.20203626687343598,7,1
+O00835,2024-10-02,2024-10-07,Standard Class,C0077,Customer_77,Corporate,Australia,Delhi,KA,870044,West,P0042,Accessories_42,Technology,Accessories,705.43,1,0.0,-39.45,-0.05592333753880613,5,0
+O00115,2024-10-02,2024-10-06,Standard Class,C0161,Customer_161,Consumer,India,Houston,CA,338009,Central,P0067,Bookcases_67,Furniture,Bookcases,1143.9,2,0.0,96.58,0.08443045720779788,4,0
+O00017,2024-10-03,2024-10-07,Standard Class,C0099,Customer_99,Consumer,India,Delhi,MH,599876,West,P0096,Machines_96,Technology,Machines,3364.29,3,0.0,673.48,0.2001848829916565,4,0
+O00289,2024-10-03,2024-10-07,Standard Class,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0116,Binders_116,Office Supplies,Binders,363.7,5,0.0,50.97,0.1401429749793786,4,0
+O00443,2024-10-03,2024-10-06,Second Class,C0143,Customer_143,Consumer,UK,San Francisco,CA,607606,East,P0119,Binders_119,Office Supplies,Binders,1604.0,5,0.2,266.28,0.16600997506234413,3,0
+O00105,2024-10-05,2024-10-06,Same Day,C0201,Customer_201,Corporate,Australia,New York,TN,791757,East,P0054,Bookcases_54,Furniture,Bookcases,4255.68,6,0.0,153.36,0.03603654410106023,1,1
+O00182,2024-10-05,2024-10-10,Standard Class,C0104,Customer_104,Consumer,USA,San Francisco,BC,510543,South,P0051,Machines_51,Technology,Machines,474.18,3,0.0,100.37,0.21167067358387112,5,0
+O00569,2024-10-06,2024-10-11,Standard Class,C0126,Customer_126,Consumer,UK,Mumbai,TX,989302,East,P0084,Storage_84,Office Supplies,Storage,58.82,4,0.2,0.3,0.0051003060183611015,5,0
+O00485,2024-10-06,2024-10-13,Standard Class,C0235,Customer_235,Consumer,USA,Bengaluru,BC,779418,East,P0038,Storage_38,Office Supplies,Storage,554.79,1,0.0,28.58,0.051514987652985816,7,1
+O00653,2024-10-08,2024-10-15,Standard Class,C0239,Customer_239,Corporate,Australia,New York,KA,278376,Central,P0016,Accessories_16,Technology,Accessories,1441.29,3,0.1,124.56,0.08642257977228733,7,1
+O00597,2024-10-09,2024-10-12,First Class,C0123,Customer_123,Consumer,USA,Bengaluru,BC,770718,East,P0045,Machines_45,Technology,Machines,2378.88,3,0.0,467.15,0.19637392386333063,3,1
+O00075,2024-10-09,2024-10-09,Same Day,C0156,Customer_156,Consumer,USA,Delhi,TN,941461,Central,P0054,Bookcases_54,Furniture,Bookcases,277.2,6,0.3,25.52,0.09206349206349207,0,0
+O00283,2024-10-09,2024-10-11,Second Class,C0140,Customer_140,Home Office,India,Ahmedabad,TX,643351,East,P0102,Storage_102,Office Supplies,Storage,29.56,1,0.3,5.25,0.17760487144790257,2,0
+O00174,2024-10-09,2024-10-14,Second Class,C0115,Customer_115,Corporate,USA,Ahmedabad,GJ,262491,South,P0077,Binders_77,Office Supplies,Binders,982.13,2,0.1,179.97,0.1832445806563286,5,1
+O00329,2024-10-09,2024-10-11,First Class,C0091,Customer_91,Consumer,Canada,Delhi,GJ,134911,Central,P0035,Chairs_35,Furniture,Chairs,1358.2,5,0.0,225.78,0.16623472242674128,2,1
+O00253,2024-10-11,2024-10-16,Standard Class,C0118,Customer_118,Consumer,USA,Bengaluru,KA,360910,South,P0114,Phones_114,Technology,Phones,2005.92,7,0.0,438.73,0.2187175959160884,5,0
+O00942,2024-10-11,2024-10-18,Standard Class,C0208,Customer_208,Corporate,UK,Delhi,NSW,121172,East,P0080,Binders_80,Office Supplies,Binders,6651.48,6,0.0,1801.38,0.27082393692832274,7,1
+O00494,2024-10-11,2024-10-14,Second Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0047,Tables_47,Furniture,Tables,1647.86,2,0.0,312.77,0.18980374546381368,3,0
+O00575,2024-10-12,2024-10-17,Standard Class,C0184,Customer_184,Home Office,Australia,New York,NSW,151226,Central,P0112,Accessories_112,Technology,Accessories,593.57,6,0.1,68.59,0.11555503142005155,5,0
+O00613,2024-10-13,2024-10-17,Standard Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0110,Paper_110,Office Supplies,Paper,3062.28,4,0.0,37.22,0.012154342516033804,4,0
+O00414,2024-10-14,2024-10-14,Same Day,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0044,Binders_44,Office Supplies,Binders,2507.62,3,0.2,776.77,0.3097638398162401,0,0
+O00426,2024-10-14,2024-10-19,Second Class,C0017,Customer_17,Consumer,India,Bengaluru,KA,119816,Central,P0108,Paper_108,Office Supplies,Paper,4775.12,4,0.0,759.19,0.1589886746301664,5,1
+O00354,2024-10-15,2024-10-21,Standard Class,C0055,Customer_55,Corporate,Canada,Houston,NY,951587,South,P0090,Accessories_90,Technology,Accessories,4101.65,5,0.0,1097.2,0.26750210281228287,6,1
+O00082,2024-10-15,2024-10-17,Same Day,C0210,Customer_210,Consumer,Australia,Sydney,NY,677564,South,P0035,Chairs_35,Furniture,Chairs,1221.66,2,0.1,330.58,0.27059902100420735,2,1
+O00248,2024-10-16,2024-10-19,First Class,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0054,Bookcases_54,Furniture,Bookcases,356.61,3,0.0,61.76,0.17318639409999717,3,1
+O00120,2024-10-16,2024-10-16,First Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0001,Machines_1,Technology,Machines,4584.38,6,0.2,203.9,0.04447711577138021,0,0
+O00881,2024-10-16,2024-10-23,Standard Class,C0111,Customer_111,Consumer,Australia,Ahmedabad,TX,808754,East,P0095,Tables_95,Furniture,Tables,319.82,2,0.3,66.78,0.2088049527859421,7,1
+O00955,2024-10-16,2024-10-18,Same Day,C0089,Customer_89,Home Office,Australia,New York,TN,427073,West,P0025,Tables_25,Furniture,Tables,199.85,1,0.0,13.97,0.06990242682011509,2,1
+O00698,2024-10-17,2024-10-20,Second Class,C0187,Customer_187,Home Office,Australia,Houston,NSW,575781,East,P0047,Tables_47,Furniture,Tables,6474.2,7,0.1,1485.26,0.22941212813938403,3,0
+O00331,2024-10-17,2024-10-20,Second Class,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0024,Storage_24,Office Supplies,Storage,5833.62,6,0.1,794.84,0.1362515899218667,3,0
+O00327,2024-10-18,2024-10-18,Same Day,C0215,Customer_215,Corporate,Canada,New York,CA,976031,East,P0073,Paper_73,Office Supplies,Paper,2082.94,6,0.1,520.42,0.24984877144804937,0,0
+O00429,2024-10-19,2024-10-20,First Class,C0141,Customer_141,Home Office,India,Vancouver,TX,167642,West,P0011,Phones_11,Technology,Phones,639.76,2,0.0,0.0,0.0,1,0
+O00262,2024-10-19,2024-10-20,Same Day,C0067,Customer_67,Consumer,India,Vancouver,KA,912831,South,P0083,Phones_83,Technology,Phones,932.43,1,0.1,51.9,0.055661014767864614,1,1
+O00179,2024-10-19,2024-10-24,Standard Class,C0115,Customer_115,Corporate,USA,Ahmedabad,GJ,262491,South,P0083,Phones_83,Technology,Phones,1611.8,5,0.0,498.9,0.3095297183273359,5,0
+O00798,2024-10-21,2024-10-28,Standard Class,C0062,Customer_62,Consumer,Australia,Sydney,GJ,465321,South,P0039,Paper_39,Office Supplies,Paper,1007.76,2,0.2,125.02,0.12405731523378583,7,1
+O00648,2024-10-22,2024-10-26,Standard Class,C0156,Customer_156,Consumer,USA,Delhi,TN,941461,Central,P0038,Storage_38,Office Supplies,Storage,330.34,1,0.0,94.41,0.2857964521402192,4,0
+O00245,2024-10-22,2024-10-27,Standard Class,C0119,Customer_119,Home Office,India,Mumbai,NSW,123236,East,P0110,Paper_110,Office Supplies,Paper,1747.24,4,0.0,132.29,0.07571369703074562,5,0
+O00493,2024-10-22,2024-10-27,Standard Class,C0100,Customer_100,Consumer,Canada,Vancouver,GJ,745588,Central,P0084,Storage_84,Office Supplies,Storage,1978.05,3,0.0,170.64,0.08626677788731325,5,0
+O00246,2024-10-23,2024-10-28,Standard Class,C0142,Customer_142,Consumer,USA,Mumbai,KA,190093,West,P0011,Phones_11,Technology,Phones,1774.82,6,0.1,5.0,0.002817187095029355,5,0
+O00312,2024-10-23,2024-10-25,First Class,C0180,Customer_180,Consumer,UK,Bengaluru,KA,626861,South,P0108,Paper_108,Office Supplies,Paper,1952.88,6,0.0,286.46,0.14668592028184013,2,1
+O00659,2024-10-23,2024-10-26,Second Class,C0238,Customer_238,Consumer,Australia,Sydney,BC,166017,West,P0046,Chairs_46,Furniture,Chairs,2616.28,4,0.0,527.13,0.20148072836240769,3,0
+O00437,2024-10-24,2024-10-28,Standard Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0022,Phones_22,Technology,Phones,2243.52,6,0.0,238.92,0.1064933675652546,4,0
+O00654,2024-10-24,2024-10-24,First Class,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0028,Phones_28,Technology,Phones,647.36,7,0.0,150.96,0.23319327731092437,0,0
+O00356,2024-10-24,2024-10-29,Standard Class,C0056,Customer_56,Home Office,Australia,New York,KA,286240,West,P0039,Paper_39,Office Supplies,Paper,3047.46,7,0.3,612.26,0.20090829740177066,5,0
+O00773,2024-10-25,2024-10-29,Standard Class,C0165,Customer_165,Consumer,USA,Mumbai,DL,488822,South,P0025,Tables_25,Furniture,Tables,1084.8,1,0.0,232.02,0.2138827433628319,4,0
+O00910,2024-10-25,2024-10-31,Standard Class,C0012,Customer_12,Home Office,UK,San Francisco,NY,990324,South,P0060,Binders_60,Office Supplies,Binders,2129.61,3,0.0,-72.66,-0.03411892318311803,6,1
+O00567,2024-10-25,2024-10-28,First Class,C0098,Customer_98,Consumer,Australia,Mumbai,KA,416915,South,P0104,Machines_104,Technology,Machines,5918.4,6,0.1,405.5,0.06851513922681807,3,1
+O00227,2024-10-25,2024-10-29,Standard Class,C0097,Customer_97,Consumer,Canada,Mumbai,CA,112175,South,P0117,Storage_117,Office Supplies,Storage,409.79,1,0.3,32.57,0.07947973352204787,4,0
+O00845,2024-10-25,2024-10-25,Same Day,C0159,Customer_159,Consumer,USA,New York,MH,216739,South,P0110,Paper_110,Office Supplies,Paper,2975.8,3,0.1,-36.1,-0.012131191612339538,0,0
+O00142,2024-10-26,2024-10-31,Standard Class,C0107,Customer_107,Consumer,India,Ahmedabad,KA,890857,West,P0039,Paper_39,Office Supplies,Paper,128.43,2,0.2,-3.57,-0.027797243634664796,5,0
+O00627,2024-10-26,2024-10-26,First Class,C0137,Customer_137,Consumer,Australia,Delhi,CA,864757,South,P0118,Phones_118,Technology,Phones,2180.48,5,0.2,-215.18,-0.09868469327854418,0,0
+O00884,2024-10-27,2024-10-31,Second Class,C0095,Customer_95,Corporate,India,Vancouver,TX,999885,East,P0050,Tables_50,Furniture,Tables,1150.96,7,0.3,-98.94,-0.08596302217279488,4,1
+O00365,2024-10-27,2024-10-31,Standard Class,C0002,Customer_2,Home Office,Australia,New York,BC,429670,East,P0012,Machines_12,Technology,Machines,2145.93,3,0.0,320.73,0.1494596748262991,4,0
+O00171,2024-10-30,2024-11-01,Second Class,C0233,Customer_233,Corporate,India,Bengaluru,NSW,771210,East,P0026,Storage_26,Office Supplies,Storage,1577.34,2,0.0,192.74,0.12219305920093324,2,0
+O00059,2024-10-30,2024-11-06,Standard Class,C0072,Customer_72,Consumer,Australia,Mumbai,MH,307606,West,P0109,Paper_109,Office Supplies,Paper,1646.14,4,0.1,99.01,0.06014676758963393,7,1
+O00387,2024-10-31,2024-11-05,Standard Class,C0094,Customer_94,Corporate,Australia,Sydney,BC,830399,South,P0095,Tables_95,Furniture,Tables,1057.38,6,0.0,129.92,0.12286973462709715,5,0
+O00323,2024-10-31,2024-11-04,Second Class,C0107,Customer_107,Consumer,India,Ahmedabad,KA,890857,West,P0001,Machines_1,Technology,Machines,2853.63,6,0.1,161.9,0.05673475538174185,4,1
+O00765,2024-10-31,2024-11-02,First Class,C0175,Customer_175,Corporate,USA,Ahmedabad,TX,257729,East,P0098,Chairs_98,Furniture,Chairs,1824.39,3,0.0,47.63,0.026107356431464765,2,1
+O00178,2024-10-31,2024-11-03,First Class,C0149,Customer_149,Consumer,Australia,New York,KA,626861,East,P0056,Bookcases_56,Furniture,Bookcases,798.62,6,0.2,128.58,0.1610027297087476,3,1
+O00506,2024-11-02,2024-11-09,Standard Class,C0050,Customer_50,Consumer,Australia,New York,TN,481915,West,P0009,Paper_9,Office Supplies,Paper,986.98,2,0.1,291.56,0.29540618857524975,7,1
+O00877,2024-11-02,2024-11-03,First Class,C0085,Customer_85,Consumer,Australia,Ahmedabad,NSW,779520,East,P0090,Accessories_90,Technology,Accessories,3521.4,5,0.0,514.45,0.14609246322485375,1,0
+O00432,2024-11-02,2024-11-08,Standard Class,C0081,Customer_81,Home Office,India,Delhi,TX,578446,East,P0068,Tables_68,Furniture,Tables,1654.92,2,0.0,271.8,0.16423754622579945,6,1
+O00243,2024-11-03,2024-11-09,Standard Class,C0031,Customer_31,Corporate,Australia,New York,NY,233554,Central,P0049,Paper_49,Office Supplies,Paper,1780.37,6,0.2,220.05,0.12359790380651214,6,1
+O00396,2024-11-05,2024-11-11,Standard Class,C0247,Customer_247,Consumer,Australia,Vancouver,DL,658296,East,P0094,Binders_94,Office Supplies,Binders,1039.8,6,0.0,56.54,0.0543758415079823,6,1
+O00612,2024-11-06,2024-11-10,Standard Class,C0160,Customer_160,Corporate,UK,Mumbai,GJ,942393,South,P0026,Storage_26,Office Supplies,Storage,81.5,2,0.2,8.79,0.1078527607361963,4,0
+O00234,2024-11-06,2024-11-07,First Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0089,Bookcases_89,Furniture,Bookcases,5488.74,6,0.0,-268.91,-0.04899302936557389,1,0
+O00281,2024-11-06,2024-11-06,Same Day,C0178,Customer_178,Consumer,UK,Ahmedabad,TN,752665,East,P0089,Bookcases_89,Furniture,Bookcases,602.15,1,0.3,40.81,0.06777381051233082,0,0
+O00382,2024-11-08,2024-11-11,First Class,C0189,Customer_189,Consumer,UK,Houston,NY,104263,West,P0024,Storage_24,Office Supplies,Storage,70.15,1,0.1,5.08,0.07241625089094797,3,1
+O00936,2024-11-09,2024-11-10,Same Day,C0105,Customer_105,Home Office,Australia,New York,DL,147057,Central,P0118,Phones_118,Technology,Phones,1474.51,2,0.1,61.41,0.04164773382343965,1,1
+O00973,2024-11-09,2024-11-09,First Class,C0179,Customer_179,Home Office,India,Delhi,DL,625910,South,P0075,Machines_75,Technology,Machines,888.55,4,0.1,84.37,0.09495245062179958,0,0
+O00963,2024-11-10,2024-11-16,Standard Class,C0010,Customer_10,Corporate,USA,Bengaluru,DL,765755,South,P0055,Tables_55,Furniture,Tables,1811.82,3,0.0,351.73,0.1941307635416322,6,1
+O00093,2024-11-11,2024-11-14,Second Class,C0013,Customer_13,Home Office,USA,Sydney,DL,258768,West,P0091,Phones_91,Technology,Phones,6809.94,6,0.0,1220.74,0.17925855440723415,3,0
+O00916,2024-11-11,2024-11-14,Second Class,C0194,Customer_194,Corporate,India,Sydney,NSW,324137,South,P0105,Machines_105,Technology,Machines,3742.3,5,0.0,169.47,0.04528498516954814,3,0
+O00218,2024-11-12,2024-11-15,Second Class,C0238,Customer_238,Consumer,Australia,Sydney,BC,166017,West,P0068,Tables_68,Furniture,Tables,3363.85,7,0.0,1348.01,0.4007342776877685,3,0
+O00677,2024-11-13,2024-11-17,Standard Class,C0214,Customer_214,Consumer,India,Vancouver,NY,880298,Central,P0043,Accessories_43,Technology,Accessories,1231.6,4,0.0,391.76,0.31809028905488795,4,0
+O00204,2024-11-15,2024-11-21,Standard Class,C0058,Customer_58,Consumer,Australia,Ahmedabad,DL,374486,South,P0092,Storage_92,Office Supplies,Storage,1243.52,2,0.0,274.08,0.22040658775090066,6,1
+O00782,2024-11-15,2024-11-16,Same Day,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0034,Machines_34,Technology,Machines,4085.36,7,0.1,1171.89,0.28685109757769206,1,1
+O00636,2024-11-16,2024-11-23,Standard Class,C0073,Customer_73,Consumer,USA,Ahmedabad,NSW,605815,Central,P0033,Binders_33,Office Supplies,Binders,2930.34,7,0.0,-71.78,-0.02449545103981108,7,1
+O00839,2024-11-16,2024-11-23,Standard Class,C0095,Customer_95,Corporate,India,Vancouver,TX,999885,East,P0095,Tables_95,Furniture,Tables,2229.93,6,0.1,612.05,0.274470499073962,7,1
+O00238,2024-11-17,2024-11-21,Standard Class,C0137,Customer_137,Consumer,Australia,Delhi,CA,864757,South,P0116,Binders_116,Office Supplies,Binders,632.84,4,0.1,33.46,0.05287276404778459,4,0
+O00004,2024-11-17,2024-11-17,Same Day,C0226,Customer_226,Consumer,Australia,New York,CA,515008,East,P0022,Phones_22,Technology,Phones,1919.64,3,0.2,-158.58,-0.08260923923235607,0,0
+O00095,2024-11-18,2024-11-20,First Class,C0213,Customer_213,Corporate,Canada,Vancouver,BC,613319,East,P0072,Tables_72,Furniture,Tables,1117.89,1,0.0,290.25,0.25964093068190963,2,1
+O00445,2024-11-20,2024-11-23,First Class,C0027,Customer_27,Consumer,Canada,Mumbai,GJ,626047,East,P0085,Paper_85,Office Supplies,Paper,708.43,2,0.1,168.28,0.23753934757139028,3,1
+O00472,2024-11-20,2024-11-25,Second Class,C0132,Customer_132,Consumer,India,Sydney,CA,997928,East,P0071,Tables_71,Furniture,Tables,860.11,1,0.2,70.69,0.08218716210717233,5,1
+O00872,2024-11-20,2024-11-24,Standard Class,C0107,Customer_107,Consumer,India,Ahmedabad,KA,890857,West,P0103,Machines_103,Technology,Machines,2961.2,5,0.0,-33.94,-0.01146156963393219,4,0
+O00029,2024-11-21,2024-11-21,First Class,C0089,Customer_89,Home Office,Australia,New York,TN,427073,West,P0059,Paper_59,Office Supplies,Paper,537.84,1,0.0,9.14,0.016993901532054143,0,0
+O00034,2024-11-23,2024-11-25,Same Day,C0250,Customer_250,Home Office,Australia,New York,NY,707847,South,P0115,Chairs_115,Furniture,Chairs,5810.35,7,0.0,1591.79,0.27395767896942524,2,1
+O00503,2024-11-23,2024-11-28,Standard Class,C0145,Customer_145,Consumer,Australia,Ahmedabad,NY,807280,West,P0077,Binders_77,Office Supplies,Binders,993.25,2,0.2,33.59,0.03381827334507929,5,0
+O00616,2024-11-23,2024-11-30,Standard Class,C0035,Customer_35,Home Office,UK,Ahmedabad,CA,364223,West,P0045,Machines_45,Technology,Machines,2846.7,6,0.0,130.1,0.04570204095970773,7,1
+O00681,2024-11-26,2024-11-29,Second Class,C0209,Customer_209,Consumer,USA,Mumbai,BC,635843,South,P0030,Paper_30,Office Supplies,Paper,2245.04,2,0.0,305.26,0.13597085129886327,3,0
+O00865,2024-11-26,2024-12-03,Standard Class,C0096,Customer_96,Consumer,Australia,New York,NY,708746,West,P0118,Phones_118,Technology,Phones,917.92,4,0.0,43.24,0.04710650165591773,7,1
+O00735,2024-11-28,2024-12-02,Standard Class,C0209,Customer_209,Consumer,USA,Mumbai,BC,635843,South,P0006,Tables_6,Furniture,Tables,285.0,6,0.0,93.63,0.32852631578947367,4,0
+O00760,2024-11-28,2024-12-03,Standard Class,C0037,Customer_37,Consumer,USA,Ahmedabad,TX,841804,South,P0100,Binders_100,Office Supplies,Binders,4633.08,4,0.0,815.45,0.17600602622877223,5,0
+O00269,2024-11-30,2024-12-01,Same Day,C0113,Customer_113,Home Office,USA,Ahmedabad,GJ,244931,West,P0092,Storage_92,Office Supplies,Storage,549.67,1,0.2,100.92,0.18360106973274876,1,1
+O00510,2024-11-30,2024-12-01,First Class,C0164,Customer_164,Consumer,Australia,Bengaluru,NY,356609,Central,P0117,Storage_117,Office Supplies,Storage,90.62,1,0.2,3.25,0.03586404767159567,1,0
+O00679,2024-12-01,2024-12-01,Same Day,C0135,Customer_135,Home Office,UK,New York,MH,220674,South,P0023,Bookcases_23,Furniture,Bookcases,2244.84,5,0.2,503.51,0.22429660911245344,0,0
+O00363,2024-12-02,2024-12-03,First Class,C0059,Customer_59,Consumer,Canada,Houston,TX,402950,Central,P0066,Chairs_66,Furniture,Chairs,501.8,5,0.2,144.76,0.2884814667198087,1,0
+O00683,2024-12-03,2024-12-04,First Class,C0126,Customer_126,Consumer,UK,Mumbai,TX,989302,East,P0107,Machines_107,Technology,Machines,5181.17,6,0.2,1150.16,0.221988469785782,1,0
+O00476,2024-12-03,2024-12-08,Standard Class,C0206,Customer_206,Consumer,Canada,Vancouver,NSW,292192,West,P0083,Phones_83,Technology,Phones,2985.75,5,0.0,508.65,0.17035920622959055,5,0
+O00512,2024-12-03,2024-12-10,Standard Class,C0198,Customer_198,Home Office,India,Ahmedabad,MH,451707,East,P0015,Storage_15,Office Supplies,Storage,206.27,1,0.0,25.51,0.12367285596548214,7,1
+O00089,2024-12-04,2024-12-06,First Class,C0221,Customer_221,Corporate,Australia,Houston,NY,808662,West,P0022,Phones_22,Technology,Phones,616.49,1,0.0,63.46,0.1029375983389836,2,1
+O00827,2024-12-04,2024-12-05,First Class,C0075,Customer_75,Corporate,India,Bengaluru,GJ,176218,South,P0020,Paper_20,Office Supplies,Paper,2768.26,3,0.1,499.38,0.18039490510284437,1,0
+O00944,2024-12-04,2024-12-10,Standard Class,C0022,Customer_22,Consumer,USA,Vancouver,TN,776926,East,P0083,Phones_83,Technology,Phones,1757.22,2,0.0,231.51,0.13174787448355926,6,1
+O00779,2024-12-04,2024-12-09,Standard Class,C0025,Customer_25,Consumer,India,Bengaluru,TX,251878,South,P0042,Accessories_42,Technology,Accessories,1404.7,6,0.1,357.9,0.25478749911013027,5,0
+O00904,2024-12-08,2024-12-13,Second Class,C0040,Customer_40,Consumer,India,Bengaluru,CA,697135,South,P0084,Storage_84,Office Supplies,Storage,2098.04,5,0.1,0.0,0.0,5,1
+O00517,2024-12-08,2024-12-08,Same Day,C0112,Customer_112,Consumer,Canada,San Francisco,BC,267292,Central,P0022,Phones_22,Technology,Phones,202.72,3,0.1,56.21,0.2772790055248619,0,0
+O00287,2024-12-08,2024-12-12,Standard Class,C0176,Customer_176,Consumer,Australia,Delhi,TX,328504,West,P0064,Chairs_64,Furniture,Chairs,633.16,4,0.0,154.86,0.24458272790447916,4,0
+O00979,2024-12-09,2024-12-16,Standard Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0048,Chairs_48,Furniture,Chairs,607.1,5,0.0,87.01,0.14332070499094055,7,1
+O00801,2024-12-10,2024-12-12,Second Class,C0100,Customer_100,Consumer,Canada,Vancouver,GJ,745588,Central,P0010,Binders_10,Office Supplies,Binders,1601.0,5,0.0,545.32,0.3406121174266084,2,0
+O00818,2024-12-10,2024-12-12,Second Class,C0009,Customer_9,Corporate,UK,New York,BC,643385,East,P0004,Chairs_4,Furniture,Chairs,2570.82,4,0.3,357.21,0.13894788433262537,2,0
+O00123,2024-12-11,2024-12-18,Standard Class,C0227,Customer_227,Home Office,UK,Sydney,KA,683417,South,P0029,Binders_29,Office Supplies,Binders,5158.76,7,0.1,782.14,0.15161395374082143,7,1
+O00296,2024-12-12,2024-12-12,First Class,C0122,Customer_122,Home Office,Canada,Mumbai,NSW,727433,Central,P0022,Phones_22,Technology,Phones,1797.89,3,0.2,250.79,0.13949129257073567,0,0
+O00161,2024-12-15,2024-12-15,Same Day,C0134,Customer_134,Consumer,Australia,New York,BC,238155,South,P0086,Machines_86,Technology,Machines,699.39,3,0.0,34.12,0.04878537010823718,0,0
+O00546,2024-12-15,2024-12-16,First Class,C0008,Customer_8,Home Office,USA,Chennai,KA,891189,West,P0069,Tables_69,Furniture,Tables,1768.86,6,0.0,107.21,0.060609658197935394,1,0
+O00013,2024-12-19,2024-12-23,Standard Class,C0185,Customer_185,Consumer,Canada,Houston,GJ,599512,South,P0061,Bookcases_61,Furniture,Bookcases,715.4,7,0.0,86.68,0.12116298574224212,4,0
+O00221,2024-12-20,2024-12-27,Standard Class,C0028,Customer_28,Consumer,USA,Vancouver,BC,881452,Central,P0026,Storage_26,Office Supplies,Storage,1368.09,3,0.1,115.31,0.08428539058102903,7,1
+O00632,2024-12-25,2024-12-30,Standard Class,C0225,Customer_225,Consumer,USA,Houston,NY,582615,West,P0092,Storage_92,Office Supplies,Storage,8059.17,7,0.0,435.98,0.05409738223663231,5,0
+O00119,2024-12-25,2024-12-29,Second Class,C0182,Customer_182,Consumer,USA,San Francisco,TN,641013,East,P0111,Binders_111,Office Supplies,Binders,761.69,2,0.1,79.73,0.10467513030235398,4,1
+O00847,2024-12-25,2024-12-27,Second Class,C0163,Customer_163,Corporate,USA,Sydney,TN,307980,South,P0094,Binders_94,Office Supplies,Binders,1458.88,2,0.0,252.21,0.17287919499890325,2,0
+O00959,2024-12-26,2025-01-02,Standard Class,C0073,Customer_73,Consumer,USA,Ahmedabad,NSW,605815,Central,P0087,Chairs_87,Furniture,Chairs,3451.5,5,0.0,811.71,0.23517601043024772,7,1
+O00547,2024-12-26,2025-01-02,Standard Class,C0071,Customer_71,Corporate,USA,Vancouver,MH,997336,West,P0043,Accessories_43,Technology,Accessories,2032.26,3,0.1,445.11,0.21902217235983584,7,1
+O00210,2024-12-26,2024-12-27,First Class,C0105,Customer_105,Home Office,Australia,New York,DL,147057,Central,P0052,Paper_52,Office Supplies,Paper,26.44,2,0.0,6.19,0.23411497730711045,1,0
+O00304,2024-12-27,2025-01-01,Standard Class,C0190,Customer_190,Consumer,India,Vancouver,NY,851883,Central,P0007,Machines_7,Technology,Machines,1597.45,7,0.3,398.13,0.24922845785470593,5,0
+O00758,2024-12-28,2025-01-02,Second Class,C0124,Customer_124,Consumer,India,Chennai,DL,330785,South,P0062,Binders_62,Office Supplies,Binders,2055.78,3,0.0,159.34,0.07750829368901341,5,1
+O00860,2024-12-29,2025-01-01,Second Class,C0130,Customer_130,Consumer,UK,San Francisco,NY,756639,East,P0120,Paper_120,Office Supplies,Paper,677.82,7,0.1,145.91,0.2152636393142722,3,0
+O00895,2024-12-30,2025-01-04,Second Class,C0199,Customer_199,Home Office,Canada,Delhi,TX,784733,South,P0106,Accessories_106,Technology,Accessories,484.2,3,0.0,-20.68,-0.04270962412226353,5,1
