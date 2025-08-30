@@ -30,6 +30,3 @@ This project focuses on analyzing e-commerce data to extract valuable business i
 * Customer churn prediction using machine learning.
 * Recommendation system for personalized product suggestions.
 
----
-
-Do you also want me to create a **concise GitHub tagline (1–2 lines)** for this project so it looks good under the repo name?
